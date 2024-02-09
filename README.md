@@ -14,6 +14,7 @@ git clone https://github.com/Kaushal-Top5699/mln-backend
 
 ```bash
 virtualenv ./venv
+source ./venv/bin/activate
 ```
 
 3. Install required packages:

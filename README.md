@@ -13,7 +13,7 @@ git clone https://github.com/Kaushal-Top5699/mln-backend
 2. Create a virtual environment:
 
 ```bash
-virtualenv ./venv
+python3 -m venv venv
 source ./venv/bin/activate
 ```
 
@@ -23,7 +23,9 @@ source ./venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Execute script:
+4. Create an empty "users" folder in the root directory of project.
+
+5. Execute script:
 
 ```bash
 python3 __init__.py

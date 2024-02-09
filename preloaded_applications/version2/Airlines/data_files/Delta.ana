@@ -1,0 +1,41 @@
+OUTPUT_DIRECTORY=$MLN_USR/Airlines/analysis_results
+USERNAME=itlab
+INPUT_DIRECTORY=$MLN_USR/Airlines/layers_generated
+
+################# DELTA #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=Delta_louvain
+ANALYSIS_EXPRESSION=Louvain(Delta)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Delta layer
+ANALYSIS_NAME=Delta_infomap
+ANALYSIS_EXPRESSION=Infomap(Delta)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Delta layer
+ANALYSIS_NAME=Delta_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(Delta)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Delta layer
+ANALYSIS_NAME=Delta_walktrap
+ANALYSIS_EXPRESSION=Walktrap(Delta)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Delta layer
+ANALYSIS_NAME=Delta_multilevel
+ANALYSIS_EXPRESSION=Multilevel(Delta)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Delta layer
+ANALYSIS_NAME=Delta_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(Delta)
+END_ANALYSIS
+

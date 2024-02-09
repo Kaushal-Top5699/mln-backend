@@ -1,0 +1,153 @@
+OUTPUT_DIRECTORY=$MLN_USR/USCensus/analysis_results
+USERNAME=itlab
+
+IMPORT USCounty_2020.gen
+
+################# Hispanic_people #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=Hispanic_people_louvain
+ANALYSIS_EXPRESSION=Louvain(Hispanic_people)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Hispanic_people layer
+ANALYSIS_NAME=Hispanic_people_infomap
+ANALYSIS_EXPRESSION=Infomap(Hispanic_people)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Hispanic_people layer
+ANALYSIS_NAME=Hispanic_people_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(Hispanic_people)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Hispanic_people layer
+ANALYSIS_NAME=Hispanic_people_walktrap
+ANALYSIS_EXPRESSION=Walktrap(Hispanic_people)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Hispanic_people layer
+ANALYSIS_NAME=Hispanic_people_multilevel
+ANALYSIS_EXPRESSION=Multilevel(Hispanic_people)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Hispanic_people layer
+ANALYSIS_NAME=Hispanic_people_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(Hispanic_people)
+END_ANALYSIS
+
+################# nonveteran_owned_farm #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=nonveteran_owned_farm_louvain
+ANALYSIS_EXPRESSION=Louvain(nonveteran_owned_farm)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the nonveteran_owned_farm layer
+ANALYSIS_NAME=nonveteran_owned_farm_infomap
+ANALYSIS_EXPRESSION=Infomap(nonveteran_owned_farm)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the nonveteran_owned_farm layer
+ANALYSIS_NAME=nonveteran_owned_farm_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(nonveteran_owned_farm)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the nonveteran_owned_farm layer
+ANALYSIS_NAME=nonveteran_owned_farm_walktrap
+ANALYSIS_EXPRESSION=Walktrap(nonveteran_owned_farm)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the nonveteran_owned_farm layer
+ANALYSIS_NAME=nonveteran_owned_farm_multilevel
+ANALYSIS_EXPRESSION=Multilevel(nonveteran_owned_farm)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the nonveteran_owned_farm layer
+ANALYSIS_NAME=nonveteran_owned_farm_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(nonveteran_owned_farm)
+END_ANALYSIS
+
+################# people_aged_maximum_18 #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=people_aged_maximum_18_louvain
+ANALYSIS_EXPRESSION=Louvain(people_aged_maximum_18)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_maximum_18 layer
+ANALYSIS_NAME=people_aged_maximum_18_infomap
+ANALYSIS_EXPRESSION=Infomap(people_aged_maximum_18)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_maximum_18 layer
+ANALYSIS_NAME=people_aged_maximum_18_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(people_aged_maximum_18)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_maximum_18 layer
+ANALYSIS_NAME=people_aged_maximum_18_walktrap
+ANALYSIS_EXPRESSION=Walktrap(people_aged_maximum_18)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_maximum_18 layer
+ANALYSIS_NAME=people_aged_maximum_18_multilevel
+ANALYSIS_EXPRESSION=Multilevel(people_aged_maximum_18)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_maximum_18 layer
+ANALYSIS_NAME=people_aged_maximum_18_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(people_aged_maximum_18)
+END_ANALYSIS
+
+################# people_aged_minimum_65 #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=people_aged_minimum_65_louvain
+ANALYSIS_EXPRESSION=Louvain(people_aged_minimum_65)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_minimum_65 layer
+ANALYSIS_NAME=people_aged_minimum_65_infomap
+ANALYSIS_EXPRESSION=Infomap(people_aged_minimum_65)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_minimum_65 layer
+ANALYSIS_NAME=people_aged_minimum_65_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(people_aged_minimum_65)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_minimum_65 layer
+ANALYSIS_NAME=people_aged_minimum_65_walktrap
+ANALYSIS_EXPRESSION=Walktrap(people_aged_minimum_65)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_minimum_65 layer
+ANALYSIS_NAME=people_aged_minimum_65_multilevel
+ANALYSIS_EXPRESSION=Multilevel(people_aged_minimum_65)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the people_aged_minimum_65 layer
+ANALYSIS_NAME=people_aged_minimum_65_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(people_aged_minimum_65)
+END_ANALYSIS
+

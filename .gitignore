@@ -1,0 +1,11 @@
+# Cache
+__pycache__
+
+# Dbs
+database.db
+
+# Dirs
+users
+
+# Virtual env
+venv

@@ -1,0 +1,65 @@
+MLN_MID,IMDbMovieID,MovieName,MovieYear,MovieRating,MovieGenreList
+38,tt0076759,Star Wars: Episode IV - A New Hope,1977,8.6,"Action,Adventure,Fantasy"
+72,tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,8.8,"Action,Adventure,Fantasy"
+256,tt0088763,Back to the Future,1985,8.5,"Adventure,Comedy,Sci-Fi"
+723,tt0099685,Goodfellas,1990,8.7,"Biography,Crime,Drama"
+877,tt0102926,The Silence of the Lambs,1991,8.6,"Crime,Drama,Thriller"
+881,tt0103064,Terminator 2,1991,8.5,"Action,Sci-Fi,Thriller"
+1026,tt0259534,Ramayana: The Legend of Prince Rama,1992,8.5,"Adventure,Animation,Drama"
+1143,tt0108052,Schindler's List,1993,8.9,"Biography,Drama,History"
+1230,tt0109830,Forrest Gump,1994,8.8,"Drama,Romance"
+1256,tt0110357,The Lion King,1994,8.5,"Adventure,Animation,Drama"
+1262,tt0110413,L??on: The Professional,1994,8.6,"Crime,Drama,Thriller"
+1289,tt0110912,Pulp Fiction,1994,8.9,"Crime,Drama"
+1307,tt0111161,The Shawshank Redemption,1994,9.3,"Crime,Drama"
+1483,tt0114369,Se7en,1995,8.6,"Crime,Drama,Mystery"
+1508,tt0114814,The Usual Suspects,1995,8.6,"Crime,Drama,Mystery"
+1998,tt0120586,American History X,1998,8.5,"Crime,Drama"
+2062,tt0120815,Saving Private Ryan,1998,8.6,"Drama,War"
+2196,tt0120689,The Green Mile,1999,8.5,"Crime,Drama,Fantasy"
+2241,tt0133093,The Matrix,1999,8.7,"Action,Sci-Fi"
+2250,tt0137523,Fight Club,1999,8.8,Drama
+2476,tt0172495,Gladiator,2000,8.5,"Action,Adventure,Drama"
+2587,tt0209144,Memento,2000,8.5,"Mystery,Thriller"
+2682,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Adventure,Drama,Fantasy"
+2937,tt0167261,The Lord of the Rings: The Two Towers,2002,8.7,"Adventure,Drama,Fantasy"
+2980,tt0253474,The Pianist,2002,8.5,"Biography,Drama,Music"
+3170,tt0167260,The Lord of the Rings: The Return of the King,2003,8.9,"Adventure,Drama,Fantasy"
+3391,tt0375663,A Closer Walk,2003,8.7,Documentary
+3697,tt0358456,Earthlings,2005,8.7,Documentary
+3994,tt0407887,The Departed,2006,8.5,"Crime,Drama,Thriller"
+4194,tt0482571,The Prestige,2006,8.5,"Drama,Mystery,Sci-Fi"
+4221,tt0498362,Laffit: All About Winning,2006,9.1,"Biography,Documentary,Sport"
+4603,tt0468569,The Dark Knight,2008,9,"Action,Crime,Thriller"
+5191,tt1454956,For the Next 7 Generations,2009,8.7,Documentary
+5393,tt1375666,Inception,2010,8.8,"Action,Adventure,Sci-Fi"
+5634,tt1465483,Grab,2011,8.5,Documentary
+5789,tt1795369,Frankenstein,2011,9,Drama
+5973,tt1706607,La Source,2012,8.9,Documentary
+6119,tt2328694,Arise,2012,9,Documentary
+6165,tt1305147,Street Dogs of South Central,2013,8.8,Documentary
+6499,tt0816692,Interstellar,2014,8.6,"Adventure,Drama,Sci-Fi"
+6685,tt2380001,Ice Bear,2014,9.4,Documentary
+6726,tt2582802,Whiplash,2014,8.5,"Drama,Music"
+6827,tt3313066,Coriolanus,2014,8.8,"Drama,History,War"
+6856,tt3967356,Skylight,2014,8.6,Drama
+6857,tt4020156,National Theatre Live: A Streetcar Named Desire,2014,8.8,Drama
+7145,tt3824722,Remember the Sultana,2015,9,Documentary
+7153,tt3876494,Figures of Speech,2015,8.7,"Comedy,Documentary,Drama"
+7182,tt4476736,Hamlet,2015,8.6,Drama
+7197,tt5094390,National Theatre Live: Man and Superman,2015,8.6,"Comedy,Drama"
+7199,tt5270464,The 2015 World Series,2015,9.1,Documentary
+7609,tt2380307,Coco,2017,8.6,"Adventure,Animation,Comedy"
+7755,tt5094942,The Man Who Built Cambodia,2017,9,Documentary
+7767,tt5228304,Bees Make Honey,2017,8.5,"Comedy,Drama,Mystery"
+7777,tt5358146,G-Funk,2017,9,"Documentary,Music"
+7805,tt5622520,New Money,2017,9.3,"Crime,Drama,Thriller"
+7867,tt6164762,The Delinquent Season,2017,9.8,Drama
+7890,tt6680050,Ulugh Beg: Through Hardships to the Stars,2017,9.6,Documentary
+7893,tt6820256,Arctic,2017,10,Drama
+7895,tt6846664,National Theatre Live: Angels in America Part One - Millennium Approaches,2017,9,Drama
+7896,tt6847810,National Theatre Live: Angels in America Part Two - Perestroika,2017,9.1,Drama
+7897,tt6949260,Names on the Cup,2017,8.5,"Documentary,Sport"
+7900,tt7295450,Between Worlds,2017,9.3,"Action,Mystery,Thriller"
+7909,tt2140629,Arizona,2018,8.9,Comedy
+7913,tt3294746,The Public,2018,8.7,Drama

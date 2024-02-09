@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard3.css') }}">
+    <title>MLN-Dashboard</title>
+    <style>
+     body{
+      font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+}
+
+    </style>
+
+</head>
+
+<body>
+
+<div id="overlay" style="display: block; position: fixed; top: 0; left: 0; width: 100%; height:100%; background-color: rgba(0,0,0,0.5); z-index: 9999;">
+    <button id="close-overlay">X</button>
+    <img style="margin-left:280px; margin-top:40px; width:70%;height:90%;" src="{{url_for('static',filename='images/screen_tutorial.png')}}">
+</div>
+
+
+
+    
+       <!--  <div style="height:160px; display:flex; justify-content:space-between; width:100%;">
+      <div style="margin-top:20px; display:flex; justify-content:flex-start; margin-left:20px;">
+        <img src="{{ url_for('static', filename='images/mln-dive-logo-1.png') }}" style="height:80px;"alt="">
+         <h1 style="color:#FC6A03; margin-top:10px;margin-left:10px;">MLN-DIVE <br>(where MLN Researchers, Developers, and End Users Interact, Share, and Learn)</h1>
+
+      </div>
+      <div style="margin-top:20px; display:flex; justify-content:flex-end; margin-right:20px;">
+       <img src="{{ url_for('static', filename='images/nsf-logo.png') }}" style="height:80px; width:80px; margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/itlab-logo.png') }}" style="height:80px; width:80px; margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/uta-logo.png') }}" style="height:80px; width:100px; margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/unt-logo.png') }}" style="height:80px; width:100px;margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/psu-logo.png') }}" style="height:80px; width:120px;margin-right:10px;"alt="">
+      </div>
+    </div> -->
+
+    <div id="global-navigation">
+
+<div id="logo-and-title">
+                <a href="{{BASE_URL}}/home/{{us}}/{{sid}}">
+                        <img src="{{ url_for('static', filename='images/mln-dive-logo-1.png') }}" id="mln-dive-logo" alt="MLN-DIVE logo">
+
+                </a>
+
+
+ 
+                <span id="site-title">
+                        <h2><b>MLN-Dashboard</b></h2>
+                        <h2 style="font-size:12pt; color:tomato;"> Generate, Analyze and Visualize Complex Data Sets                         </h2>
+                </span>
+     </div>           
+                <a href="https://docs.google.com/document/d/14oDv7airC1fErZOPsKA0Id0TgWkzZBiF/edit?usp=sharing&ouid=110108259527234427333&rtpof=true&sd=true" target="_blank" class="no-loading" title="Dashboard Tutorial" target="_blank" class="filelink" style="padding-top:2px; text-decoration:None; color:black; display:inline-block; font-size:20px;text-align:right;padding-right:2px;margin-right:10px;">
+                 <img style="width:40px;height:40px;" src="{{url_for('static',filename='images/help_icon.png')}}">
+                </a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXMgY6ffpA6qKVV5CSaJkrgPYoVLAKQG3xlaENM1nTVAIBcw/viewform?entry.529075683={{us}}" title="Dashboard Feedback" target="_blank" class="no-loading" style="padding-top:2px; text-decoration:None; color:black; display:inline-block; font-size:20px;text-align:right;padding-right:2px;float:right;">
+                <img style="width:40px;height:40px;" src="{{url_for('static',filename='images/feedback.png')}}">
+                </a>
+                <div>
+                        <a title="NSF Home" href="https://www.nsf.gov/index.jsp" target="_blank" class="no-loading">
+                                <img src="{{ url_for('static', filename='images/nsf-logo.png') }}" id="nsf-logo" alt="National Science Foundation logo">
+                        </a>
+                        <a title="ITLab Home" href="https://itlab.uta.edu/" target="_blank" class="no-loading">
+                                <img src="{{ url_for('static', filename='images/itlab-logo.png') }}" id="itlab-logo" alt="ITLab logo">
+                        </a>
+                        <a title="UTA Home" href="https://www.uta.edu/" target="_blank" class="no-loading">
+                                <img src="{{ url_for('static', filename='images/uta-logo.png') }}" id="uta-logo" alt="The University of Texas at Arlington logo">
+                        </a>
+                        <a title="UNT Home" href="https://www.unt.edu/" target="_blank" class="no-loading">
+                                <img src="{{ url_for('static', filename='images/unt-logo.png') }}" id="unt-logo" alt="The University of North Texas logo">
+                        </a>
+                        <a title="PSU Home" href="https://www.psu.edu/" target="_blank" class="no-loading">
+                                <img src="{{ url_for('static', filename='images/psu-logo.png') }}" id="psu-logo" alt="Penn State University logo">
+                        </a>
+                </div>
+        </div>
+    
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+        {% for category, message in messages %}
+            {% if category == "error" %}
+                <div class="flash-error">
+                    {{ message|safe }}
+                </div>
+            {% elif category=="success" %}
+             <div class="flash-success">
+                    {{ message|safe }}
+                </div>
+            {% elif category=="file_info" %}
+            <div class="flash-info">
+                    {{ message|safe }}
+                </div>
+            {% endif %}
+            
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+<div id="loading" style="display: none;">
+    <img src="{{ url_for('static', filename='images/loading.gif') }}" style="width:50px; height:50px;" >
+     Working on it, please be patient. <strong>Do not refresh.</strong>
+</div>
+
+<div class="grid-container">
+    <div class="leftContainer">
+        <div class="file_direc">
+        <p id="locald" style="margin-top:5px; margin-bottom:0px; margin-left:1px; position:relative; width:100%;"><strong>User</strong>: {{us | safe}}<button id="overlay-btn">HELP</button></p>
+	<p style="margin-top:2px; margin-left:1px;"><strong>Current Path</strong>: {{showpath}}</p>
+
+        <form action="{{BASE_URL}}/newfolder?sid={{sid}}" method="POST">
+            <input type="text" name="fdname" class="input" required="required" placeholder="Enter New Folder Name" style="width:225px; margin-left:40px"/>
+            <button >Create</button>
+        </form>
+        {% if current_working_directory!=mp%}
+        <strong><a href="{{BASE_URL}}/back?sid={{sid}}" title="Parent Directory."
+                style="text-decoration:None; color:inherit; font-size: larger;">&emsp;&emsp;&larr;</a></strong>
+        {% endif %}
+            <ul style="list-style: none;">
+            {% for item in file_list %}
+            {% if item=='tmp' or item=='system' or item=='primary_key_converter_for_inputfiles' or item=='visualization' or item=='log-files'%}
+
+            {% elif '.' not in item %}
+            <li><a class="filelink" href="{{BASE_URL}}/cd?folder={{item}}&user={{us}}&sid={{sid}}" title="Enter the Folder." style="text-decoration:none; color:black;">&#43; {{item}}</a>
+            </li>
+            {% elif '.txt' in item or '.map' in item or '.ecom' in item or '.gen' in item or '.ana' in item  or '.csv' in item or '.net' in item or '.ilf' in item %}
+            {% if filen in item %}
+            <li><a class="filelink" title="{{item}}" href="{{BASE_URL}}/view?file={{item}}&user={{us}}&sid={{sid}}&page=1"
+                    style="text-decoration: none; color:white;background-color:#4c8bf5;" title="Display the file."> {{item}}</a>
+            {% else %}
+            <li><a class="filelink" title="{{item}}"href="{{BASE_URL}}/view?file={{item}}&user={{us}}&sid={{sid}}&page=1"
+                    style="text-decoration: none; color:black;"> {{item}}</a>
+            </li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+
+        </ul>
+       <!--  <p style="margin-left:40px; width:220px; background-color:white;">Browse to Upload a new File:</p>
+         <form style="padding-left:40px; margin-top:0px;" method="POST" enctype = "multipart/form-data">
+            {{form.hidden_tag()}}
+            {{form.file()}}
+            {{form.submit()}}
+        </form> -->
+        </div>
+
+         <div class="info_div">
+             <h4>Description Panel for the above listing</h4>
+             {% if('data_files' in showpath)%}
+                <ol>
+                <li>*<strong>.csv</strong> files: Data set in the comma-separated file format.</li>
+<li>*<strong>.gen</strong> files: Configuration file for generating layers (graphs) from a data set using similarity metrics and thresholds.</li>
+<li>*<strong>.ana</strong> files: Configuration file to analyze the generated layers. Currently, 6 community detection algorithms are supported.</li>
+                </ol>
+             {% elif('layers_generated' in showpath) %}
+               
+                Contains the <strong>.net</strong> files for the layers that are generated using the configuration files present in the data_files directory.
+             {% elif('analysis_results' in showpath)%}
+                 
+                Contains the analysis results generated using the configuration files present in the data_files directory.
+		<ol>
+			<li><strong>.ecom</strong> files: Generated communities with vertices and edges.</li>
+               	</ol>
+             {% elif(current_working_directory==mp)%}
+                  Pre-loaded Applications
+             {% else %}
+                 <ol>
+                    <li><strong>data_files</strong>: Stores data sets, and layer generation and analysis configuration files.</li>
+                    <li><strong>layers_generated</strong>: Stores the layers generated using the configuration files.</li>
+                    <li><strong>analysis_results</strong>: Stores the analysis results based on the configuration files</li>
+                 </ol>
+              {%endif%}
+         </div>
+    </div>
+    <div class="rightContainer">
+        <div class="upperButtons">
+            <div class="allButtons">
+                {% if(filen)%}
+                <button style="background-color: #4c8bf5; color:white;" title="Display the file content in the Display File window.">
+                    Display Files
+                </button>
+                {% else %}
+                <button disabled>
+                    Display Files
+                </button>
+                {% endif %}
+                {% if(".gen" in filen)%}
+                <a href="{{BASE_URL}}/generate_layer?file={{filen}}&user={{us}}&sid={{sid}}" title="Generate Layers for the given file."
+                     style="background-color:#4c8bf5; color:white; padding: 14px 25px; border-radius: 5px; text-align: center; text-decoration: none; padding-top: 25px; display: inline-block; font-size:17px; font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;">Generate Layers</a>
+                
+                {% else %}
+                <button disabled>
+                    Generate Layers
+                </button>
+                {% endif %}
+                {% if(".ana" in filen)%}
+                <a href="{{BASE_URL}}/analyze_layer?file={{filen}}&user={{us}}&sid={{sid}}" title="Analyze Layers for the given file."
+                     style="background-color:#4c8bf5; color:white; padding: 14px 25px; border-radius: 5px; text-align: center; text-decoration: none; padding-top: 25px; display: inline-block; font-size:17px; font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;">Analyze Layers</a>
+                {% else %}
+                <button disabled title="Analyze Layers for the given file.">
+                    Analyze Layers
+                </button>
+                {% endif %}
+                {% if(".net" in filen or ".viz" in filen or '.ecom' in filen or '.vcom' in filen)%}
+                <!-- <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}"
+                     style="background-color:#4c8bf5; color:white; padding: 14px 25px; border-radius: 5px; text-align: center; text-decoration: none; padding-top: 25px; display: inline-block; font-size:17px; font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;">Visualize Network</a>
+                -->
+                <div class="dropdown">
+                <button class="dropbtn">Visualize</button>
+                <div class="dropdown-content">
+                {% if("American.net" in filen or "Spirit.net" in filen or "Allegiant.net" in filen or "Frontier.net" in filen or "Southwest.net" in filen or "Delta.net" in filen) %}
+
+                <!-- <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=nv" target="_blank" class="no-loading">Network Visualization</a>
+   		<a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=iv" target="_blank" class="no-loading">Interactive Visualization</a>
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bv" target="_blank" class="no-loading">Community Visualization</a>
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bvd" target="_blank" class="no-loading">Degree Centrality Visualization</a>
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=mv" target="_blank" class="no-loading">Map Visualization</a>
+-->
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=nv', '_blank', 'width=800,height=600'); return false;">Network Visualization</a>
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=iv', '_blank', 'width=800,height=600'); return false;">Interactive Visualization</a>
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bv', '_blank', 'width=800,height=600'); return false;">Community Visualization</a>
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bvd', '_blank', 'width=800,height=600'); return false;">Degree Centrality Visualization</a>
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=mv', '_blank', 'width=800,height=600'); return false;">Map Visualization</a>
+<!--
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=nv" target="popup" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=nv', 'name', 'width=50vw, height=50vh')">Network Visualization</a>
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=iv" target="popup" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=iv', 'name', 'width=600, height=400')">Interactive Visualization</a>
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bv" target="popup" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bv', 'name', 'width=600, height=400')">Community Visualization</a>
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bvd" target="popup" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bvd', 'name', 'width=600, height=400')">Degree Centrality
+                <a href="{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=mv" target="popup" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=mv', 'name', 'width=600, height=400')">Map Visualization</a>
+-->                {% elif(".net" in filen or ".viz" in filen)%}
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=nv', '_blank', 'width=800,height=600'); return false;">Network Visualization</a>
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=iv', '_blank', 'width=800,height=600'); return false;">Interactive Visualization</a>
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bv', '_blank', 'width=800,height=600'); return false;">Community Visualization</a>
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bvd', '_blank', 'width=800,height=600'); return false;">Degree Centrality Visualization</a>
+                
+                {% elif(".ecom" in filen) %}
+               
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=wc', '_blank', 'width=800,height=600'); return false;">WordCloud Visualization</a>
+
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=cn', '_blank', 'width=800,height=600'); return false;">Community Network</a>
+                {% else %}
+                
+               <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=wc', '_blank', 'width=800,height=600'); return false;">WordCloud Visualization</a>
+
+                <a href="javascript:void(0);" class="no-loading" onclick="window.open('{{BASE_URL}}/visualize_layer?file={{filen}}&user={{us}}&sid={{sid}}&vtype=bcv', '_blank', 'width=800,height=600'); return false;">BubbleChart Network</a>
+                {% endif %}
+                </div>
+                </div>
+                {% else %}
+                <button disabled>
+                    Visualize
+                </button>
+                {% endif %}
+                <a class="button" href="{{BASE_URL}}/logout?sid={{sid}}" style="background-color:#4c8bf5; color:white; padding: 14px 25px; padding-bottom:15px; border-radius: 5px; text-align: center; text-decoration: none; padding-top: 20px; display: inline-block; font-size:18px; font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;">Logout</a>
+                <a class="button" href="{{BASE_URL}}/profilepage?sid={{sid}}" style="background-color:#4c8bf5; color:white; padding: 14px 25px; padding-bottom:15px;border-radius: 5px; text-align: center; text-decoration: none; padding-top: 20px; display: inline-block; font-size:18px; font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;">Profile</a>
+                
+            </div>
+            <!-- <div class="logout">
+               <a class="button" href="{{BASE_URL}}/logout?sid={{sid}}" style="background-color: #4c8bf5; color:white;">Logout</a>
+                <button style="background-color: #4c8bf5; color:white;">
+                    Account
+                </button>
+                <a class="button" href="{{BASE_URL}}/logout?sid={{sid}}" style="background-color: #4c8bf5; color:white;">Logout</a>
+                <a class="button" href="{{BASE_URL}}/profilepage?sid={{sid}}" style="background-color: #4c8bf5; color:white;">Profile</a>
+            </div> -->
+        </div>
+        <div class="contentArea">
+
+            <p style="overflow:auto;">{{file_output|safe}}</p>
+                
+             {% set cur_page = current_page|default(1) %}
+{% set tot_pages = total_pages|default(1) %}
+             {% set filec = filen|safe %}             
+            <div class="paginationControls">
+        {% if cur_page > 1 %}
+            <a href="{{BASE_URL}}/view?file={{filec}}&user={{us}}&sid={{sid}}&page={{cur_page-1}}"
+                    style="text-decoration: none; color:white;background-color:#4c8bf5;" title="Display the file.">Previous</a>
+        {% endif %}
+        {% if cur_page < tot_pages %}
+            <a href="{{BASE_URL}}/view?file={{filec}}&user={{us}}&sid={{sid}}&page={{cur_page+1}}"
+                    style="text-decoration: none; color:white;background-color:#4c8bf5;" title="Display the file.">Next</a>
+        {% endif %}
+    </div>
+
+        </div>
+        <div class="logArea">
+            <h3>File Meta-Information Panel</h3>
+            <p style="overflow:auto;">{{log | safe}}</p>
+            
+        </div>
+    </div>
+</div>
+
+<footer style="margin-top:0.5rem;background-color:#4c8bf5; display: flex; align-items: center; padding: 0.5rem;">
+    <div>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/amey-shinde-cs" target="_blank">Amey Shinde</a>&nbsp;<font color="white">|</font>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/vsabhaya23/" target="_blank">Viraj Sabhaya</a>&nbsp;<font color="white">|</font>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/alikhan95/" target="_blank">Ali Khan</a>&nbsp;<font color="white">|</font>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/fariba-afrin-irany/" target="_blank">Fariba Afrin</a>&nbsp;<font color="white">|</font>
+	<a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/abhishek-santra/" target="_blank">Abhishek Santra</a>&nbsp;<font color="white">|</font>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/sanjukta-bhowmick-3503a84/" target="_blank">Sanjukta Bhowmick</a>&nbsp;<font color="white">|</font>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/sharma-c-631b381/" target="_blank">Sharma Chakravarthy</a>&nbsp;
+    </div>
+    <a href="" style="text-decoration:none; color:white; margin-left: auto; font-size:12px;">© 2023 The University of Texas at Arlington</a>
+</footer>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+var overlayBtn = document.getElementById('overlay-btn');
+
+        var closeBtn = document.getElementById('close-overlay');
+
+        // Check if overlay was closed in this session
+        if(sessionStorage.getItem('overlayClosed')) {
+            overlay.style.display = 'none';
+        }
+
+        closeBtn.addEventListener('click', function() {
+            overlay.style.display = 'none';
+            sessionStorage.setItem('overlayClosed', 'true'); // Store in session that overlay was closed
+        });
+
+// Show the overlay when the overlay-link is clicked
+    overlayBtn.addEventListener('click', function() {
+        overlay.style.display = 'block';
+    });
+
+
+    var links = document.querySelectorAll('a');
+    links.forEach(function(link) {
+        link.addEventListener('click', function() {
+            if(!this.classList.contains('no-loading')) {
+                console.log("inside")
+                document.getElementById('loading').style.display = 'block';
+            }
+        });
+    });
+});
+
+
+</script>
+
+</body>
+</html>

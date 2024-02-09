@@ -1,0 +1,40 @@
+OUTPUT_DIRECTORY=$MLN_USR/Airlines/analysis_results
+USERNAME=itlab
+INPUT_DIRECTORY=$MLN_USR/Airlines/layers_generated
+
+################ ALLEGIANT #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=Allegiant_louvain
+ANALYSIS_EXPRESSION=Louvain(Allegiant)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Allegiant layer
+ANALYSIS_NAME=Allegiant_infomap
+ANALYSIS_EXPRESSION=Infomap(Allegiant)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Allegiant layer
+ANALYSIS_NAME=Allegiant_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(Allegiant)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Allegiant layer
+ANALYSIS_NAME=Allegiant_walktrap
+ANALYSIS_EXPRESSION=Walktrap(Allegiant)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Allegiant layer
+ANALYSIS_NAME=Allegiant_multilevel
+ANALYSIS_EXPRESSION=Multilevel(Allegiant)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Allegiant layer
+ANALYSIS_NAME=Allegiant_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(Allegiant)
+END_ANALYSIS

@@ -1,0 +1,227 @@
+OUTPUT_DIRECTORY=$MLN_USR/IMDb/analysis_results
+USERNAME=itlab
+
+IMPORT large-8kMovies.gen
+
+################# similar_movie_genre #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=similar_movie_genre_louvain
+ANALYSIS_EXPRESSION=Louvain(similar_movie_genre)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_genre layer
+ANALYSIS_NAME=similar_movie_genre_infomap
+ANALYSIS_EXPRESSION=Infomap(similar_movie_genre)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_genre layer
+ANALYSIS_NAME=similar_movie_genre_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(similar_movie_genre)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_genre layer
+ANALYSIS_NAME=similar_movie_genre_walktrap
+ANALYSIS_EXPRESSION=Walktrap(similar_movie_genre)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_genre layer
+ANALYSIS_NAME=similar_movie_genre_multilevel
+ANALYSIS_EXPRESSION=Multilevel(similar_movie_genre)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_genre layer
+ANALYSIS_NAME=similar_movie_genre_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(similar_movie_genre)
+END_ANALYSIS
+
+################# movies_in_a_5year_period #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=movies_in_a_5year_period_louvain
+ANALYSIS_EXPRESSION=Louvain(movies_in_a_5year_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_a_5year_period layer
+ANALYSIS_NAME=movies_in_a_5year_period_infomap
+ANALYSIS_EXPRESSION=Infomap(movies_in_a_5year_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_a_5year_period layer
+ANALYSIS_NAME=movies_in_a_5year_period_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(movies_in_a_5year_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_a_5year_period layer
+ANALYSIS_NAME=movies_in_a_5year_period_walktrap
+ANALYSIS_EXPRESSION=Walktrap(movies_in_a_5year_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_a_5year_period layer
+ANALYSIS_NAME=movies_in_a_5year_period_multilevel
+ANALYSIS_EXPRESSION=Multilevel(movies_in_a_5year_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_a_5year_period layer
+ANALYSIS_NAME=movies_in_a_5year_period_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(movies_in_a_5year_period)
+END_ANALYSIS
+
+################# same_movie_year #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=same_movie_year_louvain
+ANALYSIS_EXPRESSION=Louvain(same_movie_year)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_year layer
+ANALYSIS_NAME=same_movie_year_infomap
+ANALYSIS_EXPRESSION=Infomap(same_movie_year)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_year layer
+ANALYSIS_NAME=same_movie_year_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(same_movie_year)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_year layer
+ANALYSIS_NAME=same_movie_year_walktrap
+ANALYSIS_EXPRESSION=Walktrap(same_movie_year)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_year layer
+ANALYSIS_NAME=same_movie_year_multilevel
+ANALYSIS_EXPRESSION=Multilevel(same_movie_year)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_year layer
+ANALYSIS_NAME=same_movie_year_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(same_movie_year)
+END_ANALYSIS
+
+################# similar_movie_rating #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=similar_movie_rating_louvain
+ANALYSIS_EXPRESSION=Louvain(similar_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_rating layer
+ANALYSIS_NAME=similar_movie_rating_infomap
+ANALYSIS_EXPRESSION=Infomap(similar_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_rating layer
+ANALYSIS_NAME=similar_movie_rating_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(similar_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_rating layer
+ANALYSIS_NAME=similar_movie_rating_walktrap
+ANALYSIS_EXPRESSION=Walktrap(similar_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_rating layer
+ANALYSIS_NAME=similar_movie_rating_multilevel
+ANALYSIS_EXPRESSION=Multilevel(similar_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_movie_rating layer
+ANALYSIS_NAME=similar_movie_rating_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(similar_movie_rating)
+END_ANALYSIS
+
+################# same_movie_rating #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=same_movie_rating_louvain
+ANALYSIS_EXPRESSION=Louvain(same_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_rating layer
+ANALYSIS_NAME=same_movie_rating_infomap
+ANALYSIS_EXPRESSION=Infomap(same_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_rating layer
+ANALYSIS_NAME=same_movie_rating_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(same_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_rating layer
+ANALYSIS_NAME=same_movie_rating_walktrap
+ANALYSIS_EXPRESSION=Walktrap(same_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_rating layer
+ANALYSIS_NAME=same_movie_rating_multilevel
+ANALYSIS_EXPRESSION=Multilevel(same_movie_rating)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_movie_rating layer
+ANALYSIS_NAME=same_movie_rating_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(same_movie_rating)
+END_ANALYSIS
+
+################# movies_in_same_decade #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=movies_in_same_decade_louvain
+ANALYSIS_EXPRESSION=Louvain(movies_in_same_decade)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_same_decade layer
+ANALYSIS_NAME=movies_in_same_decade_infomap
+ANALYSIS_EXPRESSION=Infomap(movies_in_same_decade)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_same_decade layer
+ANALYSIS_NAME=movies_in_same_decade_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(movies_in_same_decade)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_same_decade layer
+ANALYSIS_NAME=movies_in_same_decade_walktrap
+ANALYSIS_EXPRESSION=Walktrap(movies_in_same_decade)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_same_decade layer
+ANALYSIS_NAME=movies_in_same_decade_multilevel
+ANALYSIS_EXPRESSION=Multilevel(movies_in_same_decade)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the movies_in_same_decade layer
+ANALYSIS_NAME=movies_in_same_decade_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(movies_in_same_decade)
+END_ANALYSIS
+

@@ -1,0 +1,40 @@
+OUTPUT_DIRECTORY=$MLN_USR/Airlines/analysis_results
+USERNAME=itlab
+INPUT_DIRECTORY=$MLN_USR/Airlines/layers_generated
+
+################# AMERICAN #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=American_louvain
+ANALYSIS_EXPRESSION=Louvain(American)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the American layer
+ANALYSIS_NAME=American_infomap
+ANALYSIS_EXPRESSION=Infomap(American)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the American layer
+ANALYSIS_NAME=American_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(American)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the American layer
+ANALYSIS_NAME=American_walktrap
+ANALYSIS_EXPRESSION=Walktrap(American)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the American layer
+ANALYSIS_NAME=American_multilevel
+ANALYSIS_EXPRESSION=Multilevel(American)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the American layer
+ANALYSIS_NAME=American_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(American)
+END_ANALYSIS

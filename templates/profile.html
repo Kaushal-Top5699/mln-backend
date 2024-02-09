@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard3.css') }}">    
+<title>MLN-Dashboard</title>
+
+<style>
+
+body {
+    margin: 0;
+    padding-left: 0.5rem;
+    padding-right:0.5rem;
+    padding-top:0.5rem;
+    background-image: url("{{ url_for('static', filename='images/background.png') }}");
+    background-size: cover;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 97%;
+    color: white;
+    text-align: center;
+    margin-top:10px;
+    background-color:#4c8bf5;
+    display: flex;
+    align-items: center;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    padding-right:1rem;
+    padding-left:0.5rem;
+}
+</style>
+</head>
+<body>
+    <!-- <div class="topImage">
+        <img src="{{ url_for('static', filename='images/top_layer2.png') }}" alt="">
+    </div> -->
+    <div id="global-navigation">
+                <div id="logo-and-title">
+                <a href="https://itlab.uta.edu/MLN-DIVE/" target="_blank">
+                        <img src="{{ url_for('static', filename='images/mln-dive-logo-1.png') }}" id="mln-dive-logo" alt="MLN-DIVE logo">
+
+                </a>
+
+
+
+                <span id="site-title">
+                        <h2><b>MLN-Dashboard</b></h2>
+                        <h2 style="font-size:12pt; color:tomato;"> Generate, Analyze and Visualize Complex Data Sets                         </h2>
+                </span>
+     </div>
+                 <a href="https://docs.google.com/document/d/14oDv7airC1fErZOPsKA0Id0TgWkzZBiF/edit?usp=sharing&ouid=110108259527234427333&rtpof=true&sd=true" target="_blank" class="no-loading" title="Dashboard Tutorial" target="_blank" class="filelink" style="padding-top:2px; text-decoration:None; color:black; display:inline-block; font-size:20px;text-align:right;padding-right:2px;margin-right:10px;">
+                 <img style="width:40px;height:40px;" src="{{url_for('static',filename='images/help_icon.png')}}">
+                </a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXMgY6ffpA6qKVV5CSaJkrgPYoVLAKQG3xlaENM1nTVAIBcw/viewform?entry.529075683={{us}}" title="Dashboard Feedback" target="_blank" class="no-loading" style="padding-top:2px; text-decoration:None; color:black; display:inline-block; font-size:20px;text-align:right;padding-right:2px;float:right;">
+                <img style="width:40px;height:40px;" src="{{url_for('static',filename='images/feedback.png')}}">
+                </a>
+
+                <div>
+                        <a title="NSF Home" href="https://www.nsf.gov/index.jsp" target="_blank">
+                                <img src="{{ url_for('static', filename='images/nsf-logo.png') }}" id="nsf-logo" alt="National Science Foundation logo">
+                        </a>
+                        <a title="ITLab Home" href="https://itlab.uta.edu/" target="_blank">
+                                <img src="{{ url_for('static', filename='images/itlab-logo.png') }}" id="itlab-logo" alt="ITLab logo">
+                        </a>
+                        <a title="UTA Home" href="https://www.uta.edu/" target="_blank">
+                                <img src="{{ url_for('static', filename='images/uta-logo.png') }}" id="uta-logo" alt="The University of Texas at Arlington logo">
+                        </a>
+                        <a title="UNT Home" href="https://www.unt.edu/" target="_blank">
+                                <img src="{{ url_for('static', filename='images/unt-logo.png') }}" id="unt-logo" alt="The University of North Texas logo">
+                        </a>
+                        <a title="PSU Home" href="https://www.psu.edu/" target="_blank">
+                                <img src="{{ url_for('static', filename='images/psu-logo.png') }}" id="psu-logo" alt="Penn State University logo">
+                        </a>
+                </div>
+        </div>
+
+<strong><a href="{{BASE_URL}}/dashboard/{{usname}}/{{sid}}"
+                style="text-decoration:None; color:inherit; font-size: larger;">&emsp;&emsp;&larr; Go Back</a></strong>
+    
+    <div style="margin-left:680px; margin-right:680px;">
+         <h1>Profile Details</h1>
+        <table style="font-size:30px; border-collapse: collapse;text-align:center; display:flex; justify-content:center;">
+            
+            <tr>
+                <td style="border:1px solid;">Name</td>
+                <td style="border:1px solid;">{{name}}</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid;">Username</td>
+                <td style="border:1px solid;">{{usname}}</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid;">Phone Number</td>
+                <td style="border:1px solid;">{{ph}}</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid;">Email</td>
+                <td style="border:1px solid;">{{em}}</td>
+            </tr>
+        </table>
+        <br>
+        <a class="button" href="{{BASE_URL}}/deletepage?sid={{sid}}" style="background-color: #f44336;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block; font-size:20px;">Delete Profile</a><p style="font-size:20px;">(Delete all user information and files.)</p>
+    </div>
+<footer margin-right:20px;>
+    <div>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/amey-shinde-cs" target="_blank">Amey Shinde</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/vsabhaya23/" target="_blank">Viraj Sabhaya</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/alikhan95/" target="_blank">Ali Khan</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/fariba-afrin-irany/" target="_blank">Fariba Afrin</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/abhishek-santra/" target="_blank">Abhishek Santra</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/sanjukta-bhowmick-3503a84/" target="_blank">Sanjukta Bhowmick</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/sharma-c-631b381/" target="_blank">Sharma Chakravarthy</a>&nbsp;
+    </div>
+    <a href="" style="text-decoration:none; color:white; margin-left: auto; font-size:12px;">© 2023 The University of Texas at Arlington</a>
+</footer>    
+</body>
+</html>

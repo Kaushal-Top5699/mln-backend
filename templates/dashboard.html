@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+    <title>Dashboard</title>
+</head>
+
+<body>
+    <div class="topImage">
+        <img src="{{ url_for('static', filename='images/tap_layer3.png') }}" alt="">
+    </div>
+    <div class="box">
+        <div id='left'>
+            <p id="locald">User: {{us | safe}}</p>
+            <li><a href="/cd?path=..&user={{us}}">Go Back</a></li>
+            <ul style="list-style: none;">
+                {% for item in file_list %}
+                {% if '.' not in item %}
+                <li><a href="/cd?path={{current_working_directory + '\\' + item}}&user={{us}}">{{item}}</a>
+                </li>
+                {% elif '.txt' in item or '.php' in item or '.js' in item or '.py' in item or '.json' in item %}
+                <li><strong><a
+                            href="/view?file={{current_working_directory + '\\' + item}}&user={{us}}&cwd={{current_working_directory}}"
+                            </a>{{item}}<strong>
+                </li>
+                {% else %}
+                <li>{{item}}
+                </li>
+                {% endif %}
+                {% endfor %}
+
+            </ul>
+        </div>
+        <div id='right'>
+            <div id="mainBox">
+                <button disabled>Display File</button>
+                <button disabled>Layer Generation</button>
+                <button>Analysis</button>
+                <button>Visualization</button>
+                <a class="button" href="/logout">Logout</a>
+            </div>
+            <div id="contentbox">
+                <h3>{{file_output|safe}}</h3>
+            </div>
+            <div id="logbox">
+                <h2>File Log will be displayed here.</h2>
+            </div>
+        </div>
+
+</body>
+
+</html>

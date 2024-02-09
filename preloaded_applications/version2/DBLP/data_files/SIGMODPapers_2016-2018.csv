@@ -1,0 +1,501 @@
+id,author,conference,mdate,title,year
+2434616,"Aoqian Zhang,Jianmin Wang 0001,Shaoxu Song",SIGMOD Conference,06-11-18,Sequential Data Cleaning: A Statistical Approach.,2016
+2434626,"Niv Dayan,Philippe Bonnet,Stratos Idreos",SIGMOD Conference,06-11-18,GeckoFTL: Scalable Flash Translation Techniques For Very Large Flash Devices.,2016
+2434681,"Feifei Li 0001,Ji-Rong Wen,Shuo Shang,Xiaoyong Du,Xuancheng Liu,Zhewei Wei",SIGMOD Conference,06-11-18,Matrix Sketching Over Sliding Windows.,2016
+2434693,"Alexander L. Wolf,Alexandros Koliousis,Matthias Weidlich,Paolo Costa,Peter R. Pietzuch,Raul Castro Fernandez",SIGMOD Conference,06-11-18,SABER: Window-Based Hybrid Stream Processing for Heterogeneous Architectures.,2016
+2434711,"Anshumali Shrivastava,Arnd Christian König,Mikhail Bilenko",SIGMOD Conference,06-11-18,Time Adaptive Sketches (Ada-Sketches) for Summarizing Data Streams.,2016
+2434746,Yannis Papakonstantinou,SIGMOD Conference,06-11-18,"Semistructured Models, Queries and Algebras in the Big Data Era: Tutorial Summary.",2016
+2434755,"Felix Naumann,Thorsten Papenbrock",SIGMOD Conference,06-11-18,A Hybrid Approach to Functional Dependency Discovery.,2016
+2434760,"Alexander Avram,Avigdor Gal,Omer Barkol,Ruth Bergman,Tomer Sagi",SIGMOD Conference,06-11-18,Multi-Source Uncertain Entity Resolution at Yad Vashem: Transforming Holocaust Victim Reports into People.,2016
+2434786,"Ali Ghodsi 0002,Davies Liu,Eric Liang,Hossein Falaki,Ion Stoica,Matei Zaharia,Michael J. Franklin,Reynold Xin,Shivaram Venkataraman,Xiangrui Meng,Zongheng Yang",SIGMOD Conference,06-11-18,SparkR: Scaling R Programs with Spark.,2016
+2434798,"Bin Wu 0003,Feifei Li 0001,Ke Yi,Zhuoyue Zhao",SIGMOD Conference,06-11-18,Wander Join: Online Aggregation for Joins.,2016
+2434810,"Graham Cormode,Ting Yu,Zach Jorgensen",SIGMOD Conference,06-11-18,Publishing Attributed Social Graphs with Formal Privacy Guarantees.,2016
+2434820,"Derrick Bryant,Entong Shen,F. Michael Waas,John Eshleman,Lyublena Antova,Michael Duller,Mohamed A. Soliman,Rhonda Baldwin,Tuan Cao,Zhongxian Gu",SIGMOD Conference,06-11-18,Datometry Hyper-Q: Bridging the Gap Between Real-Time and Historical Analytics.,2016
+2434823,"Aditya G. Parameswaran,Akash Das Sarma,Jennifer Widom",SIGMOD Conference,14-11-18,Towards Globally Optimal Crowdsourcing Quality Management: The Uniform Worker Setting.,2016
+2434829,"Doug Bateman,Matei Zaharia,Michael Armbrust,Reynold Xin",SIGMOD Conference,06-11-18,Introduction to Spark 2.0 for Database Researchers.,2016
+2434841,"Martin Theobald,Sairam Gurajada",SIGMOD Conference,06-11-18,Distributed Set Reachability.,2016
+2434849,"Anshul Jaiswal,Guoqiang Jerry Chen,Janet L. Wiener,Kevin Wilfong,Nikhil Simha,Ran Lei,Serhat Yilmaz,Shridhar Iyer,Tim Williamson,Wei Wang",SIGMOD Conference,06-11-18,Realtime Data Processing at Facebook.,2016
+2434856,"Alexander Kalinin 0001,Stan Zdonik,Ugur Çetintemel",SIGMOD Conference,06-11-18,Interactive Search and Exploration of Waveform Data with Searchlight.,2016
+2434859,"Alejandro Estrella-Balderrama,Apurv Gupta,Bart Samwel,Ben Handy,Chad Whipkey,Divyakant Agrawal,Gokul Nath Babu Manoharan,Himani Apte,Jeffrey D. Ullman,Jun Xu,Karl Schnaitter,Larysa Aharkava,Nitin Gangahar,Shivakumar Venkataraman,Sridatta Chegu,Stephan Ellner,Stephan Gudmundson",SIGMOD Conference,06-11-18,Shasta: Interactive Reporting At Scale.,2016
+2434922,"Andrew Pavlo,Daniel Sánchez 0003,Srinivas Devadas,Xiangyao Yu",SIGMOD Conference,06-11-18,TicToc: Time Traveling Optimistic Concurrency Control.,2016
+2434927,"Ce Zhang,Christopher Ré,Feng Niu,Jaeho Shin 0001,Michael J. Cafarella",SIGMOD Conference,14-11-18,Extracting Databases from Dark Data with DeepDive.,2016
+2435001,"Adam J. Storm,Berni Schiefer,Chang Ge 0002,Geoffrey Ng,Kajan Kanagaratnam,Lan Pham,Lee Chu,Peter Kokosielis,Sina Meraji,Wayne Young",SIGMOD Conference,06-11-18,Towards a Hybrid Design for Fast Query Processing in DB2 with BLU Acceleration Using Graphical Processing Units: A Technology Demonstration.,2016
+2435030,"Bin Wang 0015,Huaijie Zhu,Wang-Chien Lee,Xiaochun Yang 0001",SIGMOD Conference,06-11-18,Range-based Obstructed Nearest Neighbor Queries.,2016
+2435040,"Ihab F. Ilyas,Jiannan Wang,Sanjay Krishnan,Xu Chu",SIGMOD Conference,14-11-18,Data Cleaning: Overview and Emerging Challenges.,2016
+2435077,"Chengliang Chai,Dong Deng,Guoliang Li 0001,Jian Li,Jianhua Feng",SIGMOD Conference,06-11-18,Cost-Effective Crowdsourced Entity Resolution: A Partial-Order Approach.,2016
+2435135,"Dezhi Fang,Duen Horng Chau",SIGMOD Conference,06-11-18,M3: Scaling Up Machine Learning via Memory Mapping.,2016
+2435180,"Bin Cui 0001,Jie Jiang,Kunqian Hong,Wenyu Zhang,Yanxiang Huang,Yiran Xie",SIGMOD Conference,06-11-18,Real-time Video Recommendation Exploration.,2016
+2435184,"Annett Ungethüm,Dirk Habich,Thomas Kissinger,Willi-Wolfram Mentzel,Wolfgang Lehner",SIGMOD Conference,06-11-18,Energy Elasticity on Heterogeneous Hardware using Adaptive Resource Reconfiguration LIVE.,2016
+2435212,"Fei Bi,Lijun Chang,Lu Qin,Wenjie Zhang,Xuemin Lin",SIGMOD Conference,06-11-18,Efficient Subgraph Matching by Postponing Cartesian Products.,2016
+2435220,"Gopalakrishna Holla,Indranil Gupta,Mammad Zadeh,Priyesh Narayanan,Roy H. Campbell,Shadi A. Noghabi,Sivabalan Narayanan,Sriram Subramanian,Tianwei Li",SIGMOD Conference,06-11-18,Ambry: LinkedIn's Scalable Geo-Distributed Object Store.,2016
+2435255,"Holger Pirk,Oscar Moll,Sam Madden",SIGMOD Conference,06-11-18,What Makes a Good Physical plan?: Experiencing Hardware-Conscious Query Optimization with Candomblé.,2016
+2435271,"Fernando Chirigati,Harish Doraiswamy,Juliana Freire,Theodoros Damoulas",SIGMOD Conference,06-11-18,Data Polygamy: The Many-Many Relationships among Urban Spatio-Temporal Data Sets.,2016
+2435305,"Brendan Lee,Jennifer Ortiz,Magdalena Balazinska",SIGMOD Conference,06-11-18,PerfEnforce Demonstration: Data Analytics with Performance Guarantees.,2016
+2435346,"Da Yan,James Cheng,Qizhen Zhang",SIGMOD Conference,06-11-18,Quegel: A General-Purpose System for Querying Big Graphs.,2016
+2435348,"Bin Wu 0003,Feifei Li 0001,Ke Yi,Zhuoyue Zhao",SIGMOD Conference,06-11-18,Wander Join: Online Aggregation via Random Walks.,2016
+2435374,"Alon Y. Halevy,Christopher Olston,Flip Korn,Natalya Fridman Noy,Neoklis Polyzotis,Steven Euijong Whang,Sudip Roy 0002",SIGMOD Conference,14-11-18,Goods: Organizing Google's Datasets.,2016
+2435395,"Anthony K. H. Tung,Qi Guo,Sai Wu,Yuxin Zheng",SIGMOD Conference,06-11-18,LazyLSH: Approximate Nearest Neighbor Search for Multiple Distance Functions with a Single Index.,2016
+2435399,"Alfons Kemper,Andreas Kipf,Dimitri Vorona,Thomas Neumann 0001,Tobias Mühlbauer,Varun Pandey",SIGMOD Conference,06-11-18,High-Performance Geospatial Analytics in HyPerSpace.,2016
+2435402,"Amirhesam Shahvarani,Hans-Arno Jacobsen",SIGMOD Conference,06-11-18,A Hybrid B+-tree as Solution for In-Memory Indexing on CPU-GPU Heterogeneous Computing Platforms.,2016
+2435430,"Anastasia Ailamaki,Panagiotis Sioulas",SIGMOD Conference,06-11-18,Vectorizing an In Situ Query Engine.,2016
+2435515,"Hung T. Nguyen 0003,My T. Thai,Thang N. Dinh",SIGMOD Conference,06-11-18,Stop-and-Stare: Optimal Sampling Algorithms for Viral Marketing in Billion-scale Networks.,2016
+2435529,"Ahmed K. Elmagarmid,Divy Agrawal,Hossam Hammady,Jorge-Arnulfo Quiané-Ruiz,Laure Berti-Équille,Mohammed J. Zaki,Mouhamadou Lamine Ba,Mourad Ouzzani,Nan Tang 0001,Paolo Papotti,Sanjay Chawla,Sebastian Kruse 0001,Yasser Idris,Zoi Kaoudi,Zuhair Khayyat",SIGMOD Conference,06-11-18,Rheem: Enabling Multi-Platform Task Execution.,2016
+2435551,"Bolin Ding,Chi Wang 0001,Kaushik Chakrabarti,Silu Huang,Surajit Chaudhuri",SIGMOD Conference,06-11-18,Sample + Seek: Approximating Aggregates with Distribution Precision Guarantee.,2016
+2435584,"Amr El Abbadi,Divyakant Agrawal,Faisal Nawab,Victor Zakhary",SIGMOD Conference,06-11-18,DB-Risk: The Game of Global Database Placement.,2016
+2435649,"Eugene Wu 0002,Jiannan Wang,Ken Goldberg,Michael J. Franklin,Sanjay Krishnan",SIGMOD Conference,06-11-18,ActiveClean: An Interactive Data Cleaning Framework For Modern Machine Learning.,2016
+2435686,"Chaokun Wang,Jeffrey Xu Yu,Jun Zhang,Meng Wang,Xiang Ying",SIGMOD Conference,06-11-18,CoDAR: Revealing the Generalized Procedure & Recommending Algorithms of Community Detection.,2016
+2435704,"Colin Biafore,Faisal Nawab",SIGMOD Conference,06-11-18,Graph Summarization for Geo-correlated Trends Detection in Social Networks.,2016
+2435709,"Jingbo Xu,Wenfei Fan,Yinghui Wu",SIGMOD Conference,14-11-18,Adding Counting Quantifiers to Graph Patterns.,2016
+2435736,"Bin Cui 0001,Xiaogang Shi,Yingxia Shao,Yunhai Tong",SIGMOD Conference,06-11-18,Tornado: A System For Real-Time Iterative Analysis Over Evolving Data.,2016
+2435750,"Andrew Pavlo,David G. Andersen,Huanchen Zhang,Lin Ma,Michael Kaminsky,Rui Shen",SIGMOD Conference,06-11-18,Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes.,2016
+2435751,"Anisoara Nica,Kaleb Alway",SIGMOD Conference,06-11-18,Constructing Join Histograms from Histograms with q-error Guarantees.,2016
+2435769,"Bingsheng He,Chiew Tong Lau,Huynh Phung Huynh,Mian Lu,Rick Siow Mong Goh,Xuntao Cheng",SIGMOD Conference,06-11-18,Efficient Query Processing on Many-core Architectures: A Case Study with Intel Xeon Phi Processor.,2016
+2435777,"Allen Clement,Lorenzo Alvisi,Nancy Estrada,Natacha Crooks,Trinabh Gupta,Youer Pu",SIGMOD Conference,06-11-18,TARDiS: A Branch-and-Merge Approach To Weak Consistency.,2016
+2435789,"Amir Shaikhha,Christoph Koch 0001,Lewis Brown,Lionel Parreaux,Mohammad Dashti,Yannis Klonatos",SIGMOD Conference,06-11-18,How to Architect a Query Compiler.,2016
+2435839,"Alexandra Roatis,Hella-Franziska Hoffmann,Ihab F. Ilyas,Mina H. Farid,Xu Chu",SIGMOD Conference,14-11-18,CLAMS: Bringing Quality to Data Lakes.,2016
+2435886,"Chiyoung Seo,Gihwan Oh,Ravi Mayuram,Sang-Won Lee 0001,Yang-Suk Kee",SIGMOD Conference,06-11-18,SHARE Interface in Flash Storage for Relational and NoSQL Databases.,2016
+2435917,"Alexandra Meliou,Eugene Wu 0002,Xiaolan Wang",SIGMOD Conference,06-11-18,QFix: Demonstrating Error Diagnosis in Query Histories.,2016
+2435924,"Anja Kunkel,Astrid Rheinländer,Jörg Meier,Mario Lehmann,Ulf Leser",SIGMOD Conference,06-11-18,Potential and Pitfalls of Domain-Specific Information Extraction at Web Scale.,2016
+2435951,"Andrew Pavlo,Joy Arulraj,Prashanth Menon",SIGMOD Conference,06-11-18,Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads.,2016
+2435961,"David García-Soriano,Francesco Bonchi,Yasir Mehmood",SIGMOD Conference,06-11-18,Spheres of Influence for More Effective Viral Marketing.,2016
+2435992,"Anil K. Goel,Anisoara Nica,Christian Bensberg,Colin Florendo,Daniel Booss,Günter Radestock,Heiko Gerwens,Ivan Schreter,Mihnea Andrei,Peter Bumbulis,Reza Sherkat",SIGMOD Conference,06-11-18,Page As You Go: Piecewise Columnar Access In SAP HANA.,2016
+2435997,"Christopher R. Aberger,Christopher Ré,Kunle Olukotun,Susan Tu",SIGMOD Conference,14-11-18,EmptyHeaded: A Relational Engine for Graph Processing.,2016
+2436005,"Ion Stoica,Kai Zeng 0002,Sameer Agarwal",SIGMOD Conference,06-11-18,iOLAP: Managing Uncertainty for Efficient Incremental OLAP.,2016
+2436055,"Arijit Khan,Gustavo Alonso,Pratanu Roy",SIGMOD Conference,06-11-18,Augmented Sketch: Faster and More Accurate Stream Processing.,2016
+2436068,"Di Chen,Qin Zhang 0001",SIGMOD Conference,06-11-18,Streaming Algorithms for Robust Distinct Elements.,2016
+2436070,"Daniel J. Abadi,Michael DiScala",SIGMOD Conference,06-11-18,Automatic Generation of Normalized Relational Schemas from Nested Key-Value Data.,2016
+2436115,"Anastasia Ailamaki,Danica Porobic,Pinar Tözün,Utku Sirin",SIGMOD Conference,06-11-18,Micro-architectural Analysis of In-memory OLTP.,2016
+2436168,"Boyu Tian,Xiaokui Xiao",SIGMOD Conference,06-11-18,SLING: A Near-Optimal Index Structure for SimRank.,2016
+2436174,"Carsten Binnig,Gabriel Lyons,Tim Kraska,Ugur Çetintemel,Vinh Tran",SIGMOD Conference,06-11-18,Making the Case for Query-by-Voice with EchoQuery.,2016
+2436192,"Gao Cong,Kaiqi Zhao,Lisi Chen",SIGMOD Conference,06-11-18,Topic Exploration in Spatio-Temporal Document Collections.,2016
+2436211,"Christoph Koch 0001,Immanuel Trummer",SIGMOD Conference,06-11-18,A Fast Randomized Algorithm for Multi-Objective Query Optimization.,2016
+2436258,"Henning Funke,Jens Teubner,Sebastian Breß",SIGMOD Conference,06-11-18,Robust Query Processing in Co-Processor-accelerated Databases.,2016
+2436262,"Jingbo Xu,Wenfei Fan,Yinghui Wu",SIGMOD Conference,14-11-18,Functional Dependencies for Graphs.,2016
+2436297,"K. Venkatesh Emani,Karthik Ramachandra 0002,S. Sudarshan 0001,Subhro Bhattacharya",SIGMOD Conference,06-11-18,Extracting Equivalent SQL from Imperative Code in Database Applications.,2016
+2436316,"Antonios Deligiannakis,Ioannis Demertzis,Minos N. Garofalakis,Odysseas Papapetrou,Stavros Papadopoulos 0001",SIGMOD Conference,06-11-18,Practical Private Range Search Revisited.,2016
+2436354,"Aleksandar Vitorovic,Anil Shanbhag,Bolin Ding,Matthaios Olma,Robert Grandl,Srikanth Kandula,Surajit Chaudhuri",SIGMOD Conference,06-11-18,Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters.,2016
+2436404,"Boris Glavic,Donatello Santoro,Giansalvatore Mecca,Paolo Papotti,Patricia C. Arocena,Renée J. Miller",SIGMOD Conference,06-11-18,BART in Action: Error Generation and Empirical Evaluations of Data-Cleaning Systems.,2016
+2436407,"Ashwin Machanavajjhala,Dan Zhang,George Bissias,Gerome Miklau,Michael Hay,Yan Chen 0022",SIGMOD Conference,06-11-18,Exploring Privacy-Accuracy Tradeoffs using DPComp.,2016
+2436408,"Antonio Maccioni,Edoardo Basili,Riccardo Torlone",SIGMOD Conference,06-11-18,QUEPA: QUerying and Exploring a Polystore by Augmentation.,2016
+2436410,"Elke A. Rundensteiner,Jiayuan Wang,Lei Cao",SIGMOD Conference,06-11-18,Sharing-Aware Outlier Analytics over High-Volume Data Streams.,2016
+2436414,"Eric Lo,Wenjian Xu,Ziqiang Feng",SIGMOD Conference,06-11-18,Fast Multi-Column Sorting in Main-Memory Column-Stores.,2016
+2436421,"Antonios Deligiannakis,Minos N. Garofalakis,Nikos Giatrakos",SIGMOD Conference,06-11-18,Scalable Approximate Query Tracking over Highly Distributed Data Streams.,2016
+2436431,"Alexey Eksarevskiy,Arnd Christian König,Bolin Ding,Brent Ellwein,Jacob Wyant,Jeffrey F. Naughton,Jiexing Li,Kukjin Lee,Manbeen Kohli,Praneeta Prakash,Rimma V. Nehme,Surajit Chaudhuri,Vivek R. Narasayya",SIGMOD Conference,06-11-18,Operator and Query Progress Estimation in Microsoft SQL Server Live Query Statistics.,2016
+2436455,"Chang Gyoo Park,Hyungyu Shin,Jaeyun Noh,Juchang Lee,Seongyun Ko,Wolfgang Stephan,Wook-Shin Han,Yongjae Chuh",SIGMOD Conference,06-11-18,Hybrid Garbage Collection for Multi-Version Concurrency Control in SAP HANA.,2016
+2436462,"Bolong Zheng,Cyrus Shahabi,Han Su,Kai Zeng,Ugur Demiryurek,Yaguang Li",SIGMOD Conference,06-11-18,PerNav: A Route Summarization Framework for Personalized Navigation.,2016
+2436523,"Antonios Deligiannakis,Fabiana Fournier,Inna Skarbovsky,Ioannis Flouris,Jonathan Yom-Tov,Marko Stajcer,Michael Mock,Minos N. Garofalakis,Nikos Giatrakos,Sebastian Bothe,Taji Curin,Tomislav Krizan,Vasiliki Manikaki",SIGMOD Conference,06-11-18,FERARI: A Prototype for Complex Event Processing over Streaming Multi-cloud Platforms.,2016
+2436552,"David R. Karger,Eirik Bakke",SIGMOD Conference,06-11-18,Expressive Query Construction through Direct Manipulation of Nested Relational Results.,2016
+2436616,Larry Xu,SIGMOD Conference,06-11-18,Exploring Visualization of Data Transforms.,2016
+2436622,"Christoph Koch 0001,Milos Nikolic,Mohammad Dashti",SIGMOD Conference,06-11-18,How to Win a Hot Dog Eating Contest: Distributed Incremental View Maintenance with Batch Updates.,2016
+2436659,"Donatello Santoro,Enzo Veltri,Giansalvatore Mecca,Guoliang Li 0001,Jian He,Nan Tang 0001,Paolo Papotti",SIGMOD Conference,06-11-18,Interactive and Deterministic Data Cleaning.,2016
+2436679,"Arun Kumar 0001,Jeffrey F. Naughton,Jignesh M. Patel,Xiaojin Zhu 0001",SIGMOD Conference,06-11-18,To Join or Not to Join?: Thinking Twice about Joins before Feature Selection.,2016
+2436687,"Stratos Idreos,Wilson Qin",SIGMOD Conference,06-11-18,Adaptive Data Skipping in Main-Memory Systems.,2016
+2436703,"Christian Neuenstadt,Christoforos Svingos,Christoph Pinkel,Dmitriy Zheleznyakov,Ernesto Jiménez-Ruiz,Evgeny Kharlamov,Ian Horrocks,Ralf Möller 0001,Sebastian Brandt 0001,Steffen Lamparter,Theofilos Mailis,Yannis E. Ioannidis,Yannis Kotidis,Özgür L. Özçep",SIGMOD Conference,28-02-19,Ontology-Based Integration of Streaming and Static Relational Data with Optique.,2016
+2436744,"Wenfei Fan,Yang Cao",SIGMOD Conference,14-11-18,An Effective Syntax for Bounded Relational Queries.,2016
+2436760,"Barzan Mozafari,Dong Young Yoon,Ning Niu",SIGMOD Conference,06-11-18,DBSherlock: A Performance Diagnostic Tool for Transactional Databases.,2016
+2436796,"Hong Gao,Hongzhi Wang,Jianzhong Li,Jinglin Peng",SIGMOD Conference,06-11-18,Set-based Similarity Search for Time Series.,2016
+2436805,"Jun Zhang,Xiaokui Xiao,Xing Xie 0001",SIGMOD Conference,06-11-18,PrivTree: A Differentially Private Algorithm for Hierarchical Decompositions.,2016
+2436824,"Leilani Battle,Michael Stonebraker,Remco Chang",SIGMOD Conference,06-11-18,Dynamic Prefetching of Data Tiles for Interactive Visualization.,2016
+2436835,"Laks V. S. Lakshmanan,Wei Lu 0002,Xin Huang 0001",SIGMOD Conference,06-11-18,Truss Decomposition of Probabilistic Graphs: Semantics and Algorithms.,2016
+2436889,"Ashwin Machanavajjhala,Dan Zhang,Gerome Miklau,Michael Hay,Yan Chen 0022",SIGMOD Conference,06-11-18,Principled Evaluation of Differentially Private Algorithms using DPBench.,2016
+2436903,"Ada Wai-Chee Fu,Ruifeng Liu,Zhengwei Yang",SIGMOD Conference,06-11-18,Diversified Top-k Subgraph Querying in a Large Graph.,2016
+2436922,"Abdul Q. Munir,Allison W. Lee,Artin Avanes,Ashish Motivala,Benoît Dageville,Daniel Engovatov,Greg Rahn,Jiansheng Huang,Jon Bock,Jonathan Claybaugh,Marcin Zukowski,Martin Hentschel 0001,Peter Povinec,Philipp Unterbrunner,Spyridon Triantafyllis,Steven Pelley,Thierry Cruanes,Vadim Antonov",SIGMOD Conference,06-11-18,The Snowflake Elastic Data Warehouse.,2016
+2436980,"Amit Somech,Tova Milo",SIGMOD Conference,06-11-18,REACT: Context-Sensitive Recommendations for Data Analysis.,2016
+2436981,"Junhao Gan,Miao Qiao,Yufei Tao",SIGMOD Conference,06-11-18,Range Thresholding on Streams.,2016
+2437016,"Can Lu,Hao Wei,Jeffrey Xu Yu,Xuemin Lin",SIGMOD Conference,06-11-18,Speedup Graph Processing by Graph Ordering.,2016
+2437033,"David B. Thomas,Peter Ogden,Peter R. Pietzuch",SIGMOD Conference,06-11-18,AT-GIS: Highly Parallel Spatial Query Processing with Associative Transducers.,2016
+2437051,"Jian Pei,Xiangbo Mao,Xiaofei He,Yu Yang",SIGMOD Conference,06-11-18,Continuous Influence Maximization: What Discounts Should We Offer to Social Network Users?,2016
+2437061,"Ge Yu 0001,Jeffrey Xu Yu,Yu Gu 0002,Yubin Bao,Zhigang Wang",SIGMOD Conference,06-11-18,Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing.,2016
+2437079,"Raymond Chi-Wing Wong,Sepanta Zeighami",SIGMOD Conference,06-11-18,Minimizing Average Regret Ratio in Database.,2016
+2437100,"Bin Dong,Florin Rusu,Kesheng Wu,Weijie Zhao",SIGMOD Conference,06-11-18,Similarity Join over Array Data.,2016
+2437132,"Aoying Zhou,Dina Bitton,Li Wang,Minqi Zhou,Yin Yang,Zhenjie Zhang",SIGMOD Conference,06-11-18,Elastic Pipelining in an In-Memory Database Cluster.,2016
+2437133,"Beda Christoph Hammerschmidt,Doug McMahon,Hui Joe Chang,Ying Liu,Zhen Hua Liu",SIGMOD Conference,06-11-18,Closing the functional and Performance Gap between SQL and NoSQL.,2016
+2437141,"Carsten Binnig,Michael Lind Mortensen,Tim Kraska,Yeounoh Chung",SIGMOD Conference,06-11-18,Estimating the Impact of Unknown Unknowns on Aggregate Query Results.,2016
+2437158,"Ahmed M. Aly,Mohamed S. Hassan,Walid G. Aref",SIGMOD Conference,06-11-18,Graph Indexing for Shortest-Path Finding over Dynamic Sub-Graphs.,2016
+2437168,"Ali Hadian,Behrouz Minaei-Bidgoli,Qiang Qu,Sadegh Nobari",SIGMOD Conference,06-11-18,ROLL: Fast In-Memory Generation of Gigantic Scale-free Networks.,2016
+2437226,"Boyan Kolev,Carlyna Bondiombouy,José Pereira,Patrick Valduriez,Raquel Pau,Ricardo Jiménez-Peris",SIGMOD Conference,14-11-18,The CloudMdsQL Multistore System.,2016
+2437228,"Amr El Abbadi,Divyakant Agrawal,Faisal Nawab",SIGMOD Conference,06-11-18,The Challenges of Global-scale Data Management.,2016
+2437304,"Evangelia Kalyvianaki,Marco Fiscato,Peter R. Pietzuch,Theodoros Salonidis",SIGMOD Conference,06-11-18,THEMIS: Fairness in Federated Stream Processing under Overload.,2016
+2437330,"Marcel Hlawatsch,Melanie Herschel",SIGMOD Conference,06-11-18,Provenance: On and Behind the Screens.,2016
+2437355,"Henning Köhler,Sebastian Link",SIGMOD Conference,06-11-18,"SQL Schema Design: Foundations, Normal Forms, and Normalization.",2016
+2437413,"Amr Magdy 0001,Mohamed F. Mokbel",SIGMOD Conference,06-11-18,"Microblogs Data Management Systems: Querying, Analysis, and Visualization.",2016
+2437426,"Bill Howe,Daniel Halperin,Dominik Moritz,Ed Lazowska,Shrainik Jain",SIGMOD Conference,06-11-18,SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment.,2016
+2437436,"Jarek Gryz,Nikolay Yakovets,Parke Godfrey",SIGMOD Conference,06-11-18,Query Planning for Evaluating SPARQL Property Paths.,2016
+2437456,"Bingsheng He,Jiong He,Johns Paul",SIGMOD Conference,06-11-18,GPL: A GPU-based Pipelined Query Processing Engine.,2016
+2437462,"Min Lyu,Ninghui Li,Wei-Yen Day",SIGMOD Conference,06-11-18,Publishing Graph Degree Distribution with Node Differential Privacy.,2016
+2437465,"Nan Tang 0001,Prasenjit Mitra,Qing Chen",SIGMOD Conference,06-11-18,Graph Stream Summarization: From Big Bang to Big Crunch.,2016
+2437482,"Dipti Borkar,Gerald Sangudi,Michael J. Carey 0001,Ravi Mayuram",SIGMOD Conference,06-11-18,Have Your Data and Query It Too: From Key-Value Caching to Big Data Management.,2016
+2437559,"Hyeonji Kim,Jeong-Hoon Lee,Juneyoung Lee,Moath H. A. Jarrah,Seongyun Ko,Sourav S. Bhowmick,Wook-Shin Han",SIGMOD Conference,06-11-18,DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine.,2016
+2437587,"Damien Profeta,Donald Kossmann,Florian Köhl,Markus Pilman,Martin Kaufmann",SIGMOD Conference,06-11-18,ParTime: Parallel Temporal Aggregation.,2016
+2437601,"Ippokratis Pandis,Kangnyeon Kim,Ryan Johnson 0001,Tianzheng Wang 0001",SIGMOD Conference,06-11-18,ERMIA: Fast Memory-Optimized Database System for Heterogeneous Workloads.,2016
+2437611,"Adrian Ionescu,Alicja Luszczak,Andrei Costea,Bogdan Raducanu,Cristian Bârca,Giel de Nijs,Juliusz Sompolski,Michal Switakowski,Michal Szafranski,Peter A. Boncz",SIGMOD Conference,06-11-18,VectorH: Taking SQL-on-Hadoop to the Next Level.,2016
+2437724,"Himchan Park,Hyunseok Seo,Jinwook Kim,Kyuhyeon An,Min-Soo Kim 0002",SIGMOD Conference,06-11-18,GTS: A Fast and Scalable Graph Processing Method based on Streaming Topology to GPUs.,2016
+2437728,"Dennis E. Shasha,Fernando Chirigati,Juliana Freire,Rémi Rampin",SIGMOD Conference,06-11-18,ReproZip: Computational Reproducibility With Ease.,2016
+2437740,"Beng Chin Ooi,Gang Chen 0001,Kian-Lee Tan,Pengfei Chang,Qian Lin,Zhengkui Wang",SIGMOD Conference,06-11-18,Towards a Non-2PC Transaction Management in Distributed Database Systems.,2016
+2437741,"Amol Deshpande,Divesh Srivastava,Lise Getoor,Theodoros Rekatsinas,Xin Luna Dong",SIGMOD Conference,06-11-18,SourceSight: Enabling Effective Source Selection.,2016
+2437749,"Christian Schallhart,Jinsong Guo,Sebastian Maneth,Tim Furche",SIGMOD Conference,06-11-18,Robust and Noise Resistant Wrapper Induction.,2016
+2437757,"Ahmed El-Kishky,Heng Ji,Jiawei Han 0001,Xiang Ren",SIGMOD Conference,06-11-18,Automatic Entity Recognition and Typing in Massive Text Data.,2016
+2437768,"Anisoara Nica,Ismail Oukid,Johan Lasperas,Thomas Willhalm,Wolfgang Lehner",SIGMOD Conference,06-11-18,FPTree: A Hybrid SCM-DRAM Persistent and Concurrent B-Tree for Storage Class Memory.,2016
+2437779,"Feifei Li 0001,Hong Cheng,Jeffrey Xu Yu,Zechao Shang,Zhiwei Zhang",SIGMOD Conference,06-11-18,Graph Analytics Through Fine-Grained Parallelism.,2016
+2437789,Jeff Dean,SIGMOD Conference,06-11-18,Building Machine Learning Systems that Understand.,2016
+2437798,"Lais M. A. Rocha,Mirella M. Moro",SIGMOD Conference,06-11-18,Research Contribution as a Measure of Influence.,2016
+2437807,"Adam J. Storm,C. Mohan 0001,Fatma Özcan,Guy M. Lohman,Hamid Pirahesh,Matt Huras,Oleg Sidorkin,Pinar Tözün,René Müller,Richard Sidle,Ronald Barber,Vijayshankar Raman,Yuanyuan Tian",SIGMOD Conference,06-11-18,Wildfire: Concurrent Blazing Data Ingest and Analytics.,2016
+2437815,"Harneet Singh,Jeffrey F. Naughton,Wentao Wu 0001",SIGMOD Conference,06-11-18,Sampling-Based Query Re-Optimization.,2016
+2437827,"Manos Athanassoulis,Stratos Idreos",SIGMOD Conference,06-11-18,Design Tradeoffs of Data Access Methods.,2016
+2437842,"Alexander Thomson,Daniel J. Abadi,Kun Ren,Thaddeus Diamond",SIGMOD Conference,06-11-18,Low-Overhead Asynchronous Checkpointing in Main-Memory Database Systems.,2016
+2437866,"Manos Athanassoulis,Stratos Idreos,Zheng Yan",SIGMOD Conference,06-11-18,UpBit: Scalable In-Memory Updatable Bitmap Indexing.,2016
+2437880,"Abdeltawab M. Hendawi,Hossam Fattah,Mohamed H. Ali,Youying Shi",SIGMOD Conference,06-11-18,RxSpatial: Reactive Spatial Library for Real-Time Location Tracking and Processing.,2016
+2437900,"Asif Iqbal Baba,Hua Lu 0001,Manfred Jaeger,Torben Bach Pedersen,Wei-Shinn Ku,Xike Xie",SIGMOD Conference,06-11-18,Learning-Based Cleansing for Indoor RFID Data.,2016
+2437983,"Abolfazl Asudeh,Chengkai Li,Ning Yan,Sona Hasani",SIGMOD Conference,06-11-18,Generating Preview Tables for Entity Graphs.,2016
+2437997,"Chunyan Miao,Gao Cong,Kaiyu Feng,Sourav S. Bhowmick,Wen-Chih Peng",SIGMOD Conference,06-11-18,Towards Best Region Search for Data Exploration.,2016
+2438017,"Amol Deshpande,Da Yan,James Cheng,Yingyi Bu,Yuanyuan Tian",SIGMOD Conference,06-11-18,Big Graph Analytics Systems.,2016
+2438058,"Dan Olteanu,Maximilian Schleich,Radu Ciucanu",SIGMOD Conference,06-11-18,Learning Linear Regression Models over Factorized Joins.,2016
+2438085,"Jeffrey Xu Yu,Lu Qin,Rong-Hua Li,Rui Mao",SIGMOD Conference,06-11-18,Efficient and Progressive Group Steiner Tree Search.,2016
+2438105,"H. Howie Huang,Hang Liu,Yang Hu",SIGMOD Conference,06-11-18,iBFS: Concurrent Breadth-First Search on GPUs.,2016
+2438182,"Jiannan Wang,Ken Goldberg,Michael J. Franklin,Sanjay Krishnan,Tim Kraska",SIGMOD Conference,06-11-18,PrivateClean: Data Cleaning and Differential Privacy.,2016
+2438186,"Jens Dittrich,Stefan Schuh,Xiao Chen",SIGMOD Conference,06-11-18,An Experimental Comparison of Thirteen Relational Equi-Joins in Main Memory.,2016
+2438190,"Arnd Christian König,Feng Li,Sudipto Das,Vivek R. Narasayya",SIGMOD Conference,06-11-18,Automated Demand-driven Resource Scaling in Relational Database-as-a-Service.,2016
+2438257,"Daisy Zhe Wang,Sean Goldberg,Soumitra Siddharth Johri,Yang Chen 0003",SIGMOD Conference,06-11-18,Ontological Pathfinding.,2016
+2438294,"Christian S. Jensen,Gao Cong",SIGMOD Conference,06-11-18,Querying Geo-Textual Data: Spatial Keyword Queries and Beyond.,2016
+2438307,"Chuan Xiao,Jianbin Qin,Pei Wang,Wei Wang 0011,Xiaoyang Zhang,Yoshiharu Ishikawa",SIGMOD Conference,06-11-18,Local Similarity Search for Unstructured Text.,2016
+2438310,"Alfons Kemper,Florian Funke,Harald Lang,Peter A. Boncz,Thomas Neumann 0001,Tobias Mühlbauer",SIGMOD Conference,06-11-18,Data Blocks: Hybrid OLTP and OLAP on Compressed Storage using both Vectorization and Compilation.,2016
+2438315,"Claudio Hartmann,Hilko Donker,Martin Hahmann,Robert Ulbricht,Wolfgang Lehner",SIGMOD Conference,06-11-18,Web-based Benchmarks for Forecasting Systems: The ECAST Platform.,2016
+2438316,"Chee Yong Chan,Kian-Lee Tan,Yingjun Wu",SIGMOD Conference,06-11-18,Transaction Healing: Scaling Optimistic Concurrency Control on Multicores.,2016
+2438349,"Arnab Nandi 0001,Niranjan Kamat,Roee Ebenstein",SIGMOD Conference,06-11-18,,2016
+2438358,"Feng Li,Manoj Syamala,Sudipto Das,Vivek R. Narasayya",SIGMOD Conference,06-11-18,Accelerating Relational Databases by Leveraging Remote Memory and RDMA.,2016
+2438444,"Barzan Mozafari,Hemant Bhanawat,Jags Ramnarayan,Kishor Bachhav,Neeraj Kumar 0003,Rishitesh Mishra,Soubhik Chakraborty,Sudhir Menon,Sumedh Wale,Yogesh Mahajan",SIGMOD Conference,06-11-18,SnappyData: A Hybrid Transactional Analytical Store Built On Spark.,2016
+2438445,"Daniel J. Abadi,Jose M. Faleiro,Kun Ren",SIGMOD Conference,06-11-18,Design Principles for Scaling Multi-core OLTP Under High Contention.,2016
+2438455,"Beng Chin Ooi,Chang Yao,Divyakant Agrawal,Gang Chen 0001,Sai Wu",SIGMOD Conference,06-11-18,Adaptive Logging: Optimizing Logging and Recovery Costs in Distributed In-memory Databases.,2016
+2438538,"Meng-Kai Liao,Shan-Hung Wu,Shao-Kan Pi,Tsai-Yu Feng,Yu-Shan Lin",SIGMOD Conference,06-11-18,T-Part: Partitioning of Transactions for Forward-Pushing in Deterministic Database Systems.,2016
+2438564,"Feifei Li 0001,Lei Zou 0001,Zhao Chang",SIGMOD Conference,06-11-18,Privacy Preserving Subgraph Matching on Large Graphs in Cloud.,2016
+2438590,"Dingming Wu 0001,Jieming Shi,Nikos Mamoulis",SIGMOD Conference,06-11-18,Top-k Relevant Semantic Place Retrieval on Spatial RDF Data.,2016
+2438593,"Alexander Alexandrov 0001,Andreas Salzmann,Asterios Katsifodimos,Georgi Krastev,Volker Markl",SIGMOD Conference,06-11-18,Emma in Action: Declarative Dataflows for Scalable Data Analysis.,2016
+2438594,"Chuan Lei,Elke A. Rundensteiner,Medhabi Ray",SIGMOD Conference,06-11-18,Scalable Pattern Sharing on Event Streams.,2016
+2438614,"Christoph Quix,Rihan Hai,Sandra Geisler",SIGMOD Conference,06-11-18,Constance: An Intelligent Data Lake System.,2016
+2438616,"Haibo Chen,Han Yi,Jinyang Li 0001,Shuai Mu 0001,Yang Cui,Zhaoguo Wang",SIGMOD Conference,06-11-18,Scaling Multicore Databases via Constrained Parallel Execution.,2016
+2438632,"Stratos Idreos,Zezhou Liu",SIGMOD Conference,06-11-18,Main Memory Adaptive Denormalization.,2016
+2438637,"Bin Yao 0002,Dong Xie 0001,Feifei Li 0001,Gefei Li 0002,Liang Zhou,Minyi Guo",SIGMOD Conference,06-11-18,Simba: Efficient In-Memory Spatial Analytics.,2016
+2438640,"Han Zhu,Jianmin Wang 0001,Shaoxu Song",SIGMOD Conference,06-11-18,Constraint-Variance Tolerant Data Repairing.,2016
+2438663,"BiChen Rao,Erkang Zhu",SIGMOD Conference,06-11-18,Searching Web Data using MinHash LSH.,2016
+2438725,"Bingsheng He,Shuang Chen,Shunning Jiang,Xueyan Tang",SIGMOD Conference,06-11-18,A Study of Sorting Algorithms on Approximate Memory.,2016
+2438740,"Akhil Arora 0001,Sainyam Galhotra,Shourya Roy",SIGMOD Conference,06-11-18,Holistic Influence Maximization: Combining Scalability and Efficiency with Opinion-Aware Models.,2016
+2438754,"Anja Jentzsch,Felix Naumann,Jorge-Arnulfo Quiané-Ruiz,Sebastian Kruse 0001,Thorsten Papenbrock,Zoi Kaoudi",SIGMOD Conference,06-11-18,RDFind: Scalable Conditional Inclusion Dependency Discovery in RDF Datasets.,2016
+2438836,"Alexander Shkapsky,Carlo Zaniolo,Hsuan Chiu,Matteo Interlandi,Mohan Yang,Tyson Condie",SIGMOD Conference,14-11-18,Big Data Analytics with Datalog Queries on Spark.,2016
+2438848,"Dimitrios Tsoumakos,Ioannis Mytilinis,Nectarios Koziris",SIGMOD Conference,06-11-18,Distributed Wavelet Thresholding for Maximum Error Metrics.,2016
+2438869,"Julien Pilourdault,Sihem Amer-Yahia,Vincent Leroy 0001",SIGMOD Conference,06-11-18,Distributed Evaluation of Top-k Temporal Joins.,2016
+2438892,"Boon Thau Loo,Mengmeng Liu,Zachary G. Ives",SIGMOD Conference,14-11-18,Enabling Incremental Query Re-Optimization.,2016
+2438899,"Artyom Nikitin,Denis Antyukhov,Muhammad Saad,Panagiotis Karras,Rudrika Bhatt,Stratos Idreos",SIGMOD Conference,06-11-18,Adaptive Indexing over Encrypted Numeric Data.,2016
+2438994,"Jürgen Hölsch,Marc H. Scholl,Michael Grossniklaus",SIGMOD Conference,06-11-18,Optimization of Nested Queries using the NF2 Algebra.,2016
+2439009,"Cornelio Inigo,Edward Ma,Jeff LeFevre,Lupita Paz,Malú Castellanos,Meichun Hsu,Rui Liu",SIGMOD Conference,06-11-18,Building the Enterprise Fabric for Big Data with Vertica and Spark Integration.,2016
+2439032,"Eyal Altshuler,Tova Milo",SIGMOD Conference,06-11-18,An Efficient MapReduce Cube Algorithm for Varied DataDistributions.,2016
+2439054,"George Chernishev,Valentin Grigorev",SIGMOD Conference,06-11-18,K-means Split Revisited: Well-grounded Approach and Experimental Evaluation.,2016
+2434598,"Manos Athanassoulis,Michael S. Kester,Stratos Idreos",SIGMOD Conference,06-11-18,Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?,2017
+2434625,"Shimin Chen,Zhiyi Wang",SIGMOD Conference,06-11-18,Exploiting Common Patterns for Tree-Structured Data.,2017
+2434658,"Haoqiong Bian,Liang Jeff Chen,Thomas Moscibroda,Wenbo Tao,Xiaoyong Du,Ying Yan,Yueguo Chen",SIGMOD Conference,06-11-18,Wide Table Layout Optimization based on Column Ordering and Duplication.,2017
+2434717,"Bin Cui 0001,Ce Zhang,Jiawei Jiang,Lele Yu",SIGMOD Conference,06-11-18,Heterogeneity-aware Distributed Parameter Servers.,2017
+2434725,"Gao Cong,Jiaheng Lu,Tao Guo,Xin Cao,Xuemin Lin",SIGMOD Conference,06-11-18,Distributed Algorithms on Exact Personalized PageRank.,2017
+2434850,"Bohan Zhang,Chao Tian,Jiaxin Jiang,Jingbo Xu,Wenfei Fan,Wenyuan Yu,Yang Cao,Yinghui Wu,Zeyu Zheng",SIGMOD Conference,14-11-18,Parallelizing Sequential Graph Computations.,2017
+2434945,"Elena Kakoulli,Herodotos Herodotou",SIGMOD Conference,14-11-18,OctopusFS: A Distributed File System with Tiered Storage Management.,2017
+2434961,"Kamalika Chaudhuri,Shuang Song,Yizhen Wang",SIGMOD Conference,06-11-18,Pufferfish Privacy Mechanisms for Correlated Data.,2017
+2434967,"Abhishek Roy,Avinash Abhyankar,Clinton Howarth,Rémi Le Priol,Toby Bloom,Uday Evani,Yanlei Diao",SIGMOD Conference,06-11-18,Massively Parallel Processing of Whole Genome Sequence Data: An In-Depth Performance Study.,2017
+2434970,"K. Venkatesh Emani,Karthik Ramachandra 0002,S. Sudarshan 0001,Tejas Deshpande",SIGMOD Conference,06-11-18,DBridge: Translating Imperative Code to SQL.,2017
+2435005,"Byron Choi,Chengkai Li,Sourav S. Bhowmick",SIGMOD Conference,06-11-18,Graph Querying Meets HCI: State of the Art and Future Directions.,2017
+2435059,"Bolin Ding,Srikanth Kandula,Surajit Chaudhuri",SIGMOD Conference,06-11-18,Approximate Query Processing: No Silver Bullet.,2017
+2435154,"Alvin Cheung,Artem Minyaylov,Brandon Haynes,Luis Ceze,Magdalena Balazinska",SIGMOD Conference,06-11-18,VisualCloud Demonstration: A DBMS for Virtual Reality.,2017
+2435163,"Alvin Cheung,Maaz Bin Safeer Ahmad",SIGMOD Conference,06-11-18,Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks.,2017
+2435196,Anastasia Ailamaki,SIGMOD Conference,06-11-18,The Next 700 Transaction Processing Engines.,2017
+2435213,"Jieying She,Lei Chen 0002,Tianshu Song,Yongxin Tong",SIGMOD Conference,06-11-18,Feedback-Aware Social Event-Participant Arrangement.,2017
+2435252,"Amol Deshpande,Konstantinos Xirogiannopoulos",SIGMOD Conference,06-11-18,Extracting and Analyzing Hidden Graphs from Relational Databases.,2017
+2435304,"Hideaki Kim,Koh Takeuchi,Mathieu Blondel,Naoki Marumo,Naonori Ueda,Tomoharu Iwata,Yasuhiro Fujiwara",SIGMOD Conference,06-11-18,Scaling Locally Linear Embedding.,2017
+2435358,"Manos Athanassoulis,Niv Dayan,Stratos Idreos",SIGMOD Conference,06-11-18,Monkey: Optimal Navigable Key-Value Store.,2017
+2435401,"Alan Fern,Arash Termehchy,Jose Picado,Parisa Ataei",SIGMOD Conference,06-11-18,Schema Independent Relational Learning.,2017
+2435416,"Chao Xie,Chunzhi Su,Cong Ding,Lorenzo Alvisi,Natacha Crooks",SIGMOD Conference,06-11-18,Bringing Modular Concurrency Control to the Next Level.,2017
+2435429,"Ashraf Aboulnaga,Essam Mansour,Ibrahim Abdelaziz,Mourad Ouzzani,Panos Kalnis",SIGMOD Conference,06-11-18,A Demonstration of Lusail: Querying Linked Data at Scale.,2017
+2435448,"Ahmed K. Elmagarmid,Armando Solar-Lezama,Jorge-Arnulfo Quiané-Ruiz,Nan Tang 0001,Paolo Papotti,Rohit Singh 0002,Samuel Madden,Venkata Vamsikrishna Meduri",SIGMOD Conference,06-11-18,Generating Concise Entity Matching Rules.,2017
+2435460,"Brett Walenz,Jun Yang 0001,Sudeepa Roy",SIGMOD Conference,06-11-18,Optimizing Iceberg Queries with Complex Joins.,2017
+2435462,"Davide Mottin,Emmanuel Müller",SIGMOD Conference,06-11-18,Graph Exploration: From Users to Large Graphs.,2017
+2435478,"Anurag Khandelwal,Evan Ye,Ion Stoica,Rachit Agarwal 0001,Zongheng Yang",SIGMOD Conference,06-11-18,ZipG: A Memory-efficient Graph Store for Interactive Queries.,2017
+2435553,"Aman Shaikh,Gordon Woodhull,N. K. Shankaranarayanan,Pramod A. Jamkhedkar,Theodore Johnson,Vladislav Shkapenyuk,Yaron Kanza",SIGMOD Conference,06-11-18,Virtualized Network Service Topology Exploration Using Nepal.,2017
+2435559,"Alvin Cheung,Chenglong Wang,Dan Suciu,Daniel Li,Shumo Chu",SIGMOD Conference,06-11-18,Demonstration of the Cosette Automated SQL Prover.,2017
+2435574,"Arvind Arasu,Donald Kossmann,Ken Eguro,Pingfan Meng,Raghav Kaushik,Ravi Ramamurthy,Vineet Pandey",SIGMOD Conference,06-11-18,Concerto: A High Concurrency Key-Value Store with Integrity.,2017
+2435591,"Ashwin Machanavajjhala,Gerome Miklau,Ios Kotsogiannis,Michael Hay",SIGMOD Conference,06-11-18,Pythia: Data Dependent Differentially Private Algorithm Selection.,2017
+2435631,"Barzan Mozafari,Grant Schoenebeck,Jiamin Huang,Thomas F. Wenisch",SIGMOD Conference,06-11-18,A Top-Down Approach to Achieving Performance Predictability in Database Systems.,2017
+2435705,"David Sidler,Gustavo Alonso,Muhsen Owaida,Zsolt István",SIGMOD Conference,06-11-18,Accelerating Pattern Matching Queries in Hybrid CPU-FPGA Architectures.,2017
+2435712,"Akhil Arora 0001,Sainyam Galhotra,Sayan Ranu",SIGMOD Conference,06-11-18,Debunking the Myths of Influence Maximization: An In-Depth Benchmarking Study.,2017
+2435753,"Ashwin Machanavajjhala,Michael Hay,Xi He",SIGMOD Conference,06-11-18,Differential Privacy in the Wild: A Tutorial on Current Practices & Open Challenges.,2017
+2435772,"Christoph Koch 0001,Immanuel Trummer",SIGMOD Conference,06-11-18,Solving the Join Ordering Problem via Mixed Integer Linear Programming.,2017
+2435810,"Andrew Pavlo,Joy Arulraj",SIGMOD Conference,06-11-18,How to Build a Non-Volatile Memory Database Management System.,2017
+2435835,"Claude Barthels,Darko Makreshanski,Gustavo Alonso,Jana Giceva",SIGMOD Conference,06-11-18,BatchDB: Efficient Isolated Execution of Hybrid OLTP+OLAP Workloads for Interactive Applications.,2017
+2435919,"Jeffrey Xu Yu,Kangfei Zhao",SIGMOD Conference,06-11-18,All-in-One: Graph Processing in RDBMSs Revisited.,2017
+2435930,"Ashwin Machanavajjhala,Gerome Miklau,Ios Kotsogiannis,Margaret Orr,Michael Hay",SIGMOD Conference,06-11-18,DIAS: Differentially Private Interactive Algorithm Selection using Pythia.,2017
+2435931,"Arun Kumar,Jun Yang 0001,Matthias Boehm 0001",SIGMOD Conference,06-11-18,"Data Management in Machine Learning: Challenges, Techniques, and Systems.",2017
+2436067,"Gustavo Alonso,Jana Giceva,Kaan Kara",SIGMOD Conference,06-11-18,FPGA-based Data Partitioning.,2017
+2436199,"Beng Chin Ooi,Gang Chen 0001,Ji Wang,Kian-Lee Tan,Rui Liu 0002,Tien Tuan Anh Dinh",SIGMOD Conference,06-11-18,BLOCKBENCH: A Framework for Analyzing Private Blockchains.,2017
+2436207,"Divy Agrawal,Jorge-Arnulfo Quiané-Ruiz,Sanjay Chawla,Saravanan Thirumuruganathan,Zoi Kaoudi",SIGMOD Conference,06-11-18,A Cost-based Optimizer for Gradient Descent Optimization.,2017
+2436208,"Brandon Fain,Kamesh Munagala,Mayuresh Kunjir,Shivnath Babu",SIGMOD Conference,06-11-18,ROBUS: Fair Cache Allocation for Data-parallel Workloads.,2017
+2436209,"Lijun Chang,Wei Li,Wenjie Zhang",SIGMOD Conference,06-11-18,Computing A Near-Maximum Independent Set in Linear Time by Reducing-Peeling.,2017
+2436217,"Hao Wang,Leong Hou U,Ngai Meng Kou,Yan Li,Zhiguo Gong",SIGMOD Conference,06-11-18,Crowdsourced Top-k Queries by Confidence-Aware Pairwise Judgments.,2017
+2436218,"Alvaro A. A. Fernandes,Bernd Neumayr,Cristina Civili,Edward Abel,Emanuel Sallinger,Georg Gottlob,John A. Keane,Leonid Libkin,Martin Koehler,Nikolaos Konstantinou 0001,Norman W. Paton",SIGMOD Conference,14-11-18,The VADA Architecture for Cost-Effective Data Wrangling.,2017
+2436264,"Badrish Chandramouli,Jonathan Goldstein,Milos Nikolic",SIGMOD Conference,06-11-18,Enabling Signal Processing over Data Streams.,2017
+2436305,Barzan Mozafari,SIGMOD Conference,06-11-18,Approximate Query Engines: Commercial Challenges and Research Opportunities.,2017
+2436312,"Aditya G. Parameswaran,Christopher Ré,Hector Garcia-Molina,Manas Joglekar,Theodoros Rekatsinas",SIGMOD Conference,06-11-18,SLiMFast: Guaranteed Results for Data Fusion and Source Reliability.,2017
+2436337,"Amine Mhedbhi,Chathura Kankanamge,Jeremy Chen,Semih Salihoglu,Siddhartha Sahu",SIGMOD Conference,06-11-18,Graphflow: An Active Graph Database.,2017
+2436349,"Hao Xin,Lei Chen 0002,Peng Cheng 0003",SIGMOD Conference,06-11-18,Utility-Aware Ridesharing on Road Networks.,2017
+2436405,"Abolfazl Asudeh,Azade Nazi,Gautam Das 0001,Nan Zhang 0004",SIGMOD Conference,06-11-18,Efficient Computation of Regret-ratio Minimizing Set: A Compact Maxima Representative.,2017
+2436413,"Chuan Lei,Elke A. Rundensteiner,Olga Poppe,Salah Ahmed",SIGMOD Conference,06-11-18,Complete Event Trend Detection in High-Rate Event Streams.,2017
+2436437,"Alexander J. Ratner,Christopher Ré,Henry R. Ehrenberg,Stephen H. Bach",SIGMOD Conference,06-11-18,Snorkel: Fast Training Set Generation for Information Extraction.,2017
+2436461,"Jimmy Lin,Kareem El Gebaly",SIGMOD Conference,06-11-18,In-Browser Interactive SQL Analytics with Afterburner.,2017
+2436511,"Dongchul Kim,Xiang Lian",SIGMOD Conference,06-11-18,Efficient Ad-Hoc Graph Inference and Matching in Biological Databases.,2017
+2436531,"Adam Dickinson,Alexander Lloyd,Andrew Fikes,Andrey Gubarev,Brian F. Cooper,Campbell Fraser,Christopher Taylor,Dale Woodford,David F. Bacon,David Shue,Eugene Kogan,Marcel van der Holst,Milind Joshi,Nathan Bales,Nicolas Bruno,Rajesh Rao,Sergey Melnik 0001",SIGMOD Conference,06-11-18,Spanner: Becoming a SQL System.,2017
+2436626,"Abhijith Kashyap,Mahbub Hasan,Pritom Ahmed,Vagelis Hristidis,Vassilis J. Tsotras",SIGMOD Conference,06-11-18,Efficient Computation of Top-k Frequent Terms over Spatio-temporal Ranges.,2017
+2436627,"Edward Gan,Peter Bailis",SIGMOD Conference,06-11-18,Scalable Kernel Density Classification via Threshold-Based Pruning.,2017
+2436642,Andrew Pavlo,SIGMOD Conference,06-11-18,What Are We Doing With Our Lives?: Nobody Cares About Our Concurrency Control Research.,2017
+2436656,"Bo Tang,Kyriakos Mouratidis,Man Lung Yiu",SIGMOD Conference,06-11-18,Determining the Impact Regions of Competing Options in Preference Space.,2017
+2436698,"Anupam Alur,Boon Thau Loo,Chen Chen 0019,Harshal Tushar Lehri,Lay Kuan Loh,Limin Jia,Wenchao Zhou",SIGMOD Conference,06-11-18,Distributed Provenance Compression.,2017
+2436752,"Carsten Binnig,Eli Upfal,Emanuel Zgraggen,Lorenzo De Stefani,Tim Kraska,Zheguang Zhao",SIGMOD Conference,06-11-18,Controlling False Discoveries During Interactive Data Exploration.,2017
+2436753,"Andrew Pavlo,Bohan Zhang,Dana Van Aken,Geoffrey J. Gordon",SIGMOD Conference,06-11-18,Automatic Database Management System Tuning Through Large-scale Machine Learning.,2017
+2436789,"Alvin Cheung,Chenglong Wang,Rastislav Bodík",SIGMOD Conference,06-11-18,Interactive Query Synthesis from Input-Output Examples.,2017
+2436802,"Babak Salimi,Dan R. K. Ports,Dan Suciu,Helga Gudmundsdottir,Magdalena Balazinska",SIGMOD Conference,06-11-18,A Demonstration of Interactive Analysis of Performance Measurements with Viska.,2017
+2436864,"Anastasia Ailamaki,Antonios Anagnostou,Matthaios Olma",SIGMOD Conference,06-11-18,Alpine: Efficient In-Situ Data Exploration in the Presence of Updates.,2017
+2436875,"Azza Abouzied,Laura Chiticariu,Maeda F. Hanafi,Yunyao Li 0001",SIGMOD Conference,06-11-18,Synthesizing Extraction Rules from User Examples with SEER.,2017
+2436916,"Carsten Binnig,Kayhan Dursun,Tim Kraska,Ugur Çetintemel",SIGMOD Conference,06-11-18,Revisiting Reuse in Main Memory Database Systems.,2017
+2436956,"Avraham Shinnar,Joshua S. Auerbach,Jérôme Siméon,Louis Mandel,Martin Hirzel",SIGMOD Conference,06-11-18,Q*cert: A Platform for Implementing and Verifying Query Compilers.,2017
+2436960,"Matteo Interlandi,Miryung Kim,Muhammad Ali Gulzar,Tyson Condie",SIGMOD Conference,06-11-18,Debugging Big Data Analytics in Spark with ,2017
+2436967,"Elias Stehle,Hans-Arno Jacobsen",SIGMOD Conference,06-11-18,A Memory Bandwidth-Efficient Hybrid Radix Sort on GPUs.,2017
+2436991,"AnHai Doan,Esteban Arcaute,Ganesh Krishnan,Jeffrey F. Naughton,Paul Suganthan G. C.,Rohit Deep,Sanjib Das,Vijay Raghavendra,Youngchoon Park",SIGMOD Conference,06-11-18,Falcon: Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services.,2017
+2437071,"Asif R. Khan,Hector Garcia-Molina",SIGMOD Conference,06-11-18,CrowdDQS: Dynamic Question Selection in Crowdsourcing Systems.,2017
+2437085,Tim Kraska,SIGMOD Conference,06-11-18,Approximate Query Processing for Interactive Data Science.,2017
+2437086,"Acar Tamersoy,Alex Endert,Duen Horng Chau,Fred Hohman,Hanghang Tong,Robert Pienta,Shamkant B. Navathe",SIGMOD Conference,06-11-18,Visual Graph Query Construction and Refinement.,2017
+2437193,"George H. L. Fletcher,Lucien D. J. Valstar,Yuichi Yoshida",SIGMOD Conference,06-11-18,Landmark Indexing for Evaluation of Label-Constrained Reachability Queries.,2017
+2437320,"Chee-Yong Chan,Kian-Lee Tan,Wentian Guo,Yingjun Wu",SIGMOD Conference,06-11-18,Fast Failure Recovery for Main-Memory DBMSs on Multicores.,2017
+2437365,"Jiawei Han 0001,Jingbo Shang,Meng Jiang 0001,Xiang Ren",SIGMOD Conference,06-11-18,Building Structured Databases of Factual Knowledge from Massive Text Corpora.,2017
+2437374,"Atul Sikaria,Balaji Krishnamachari-Sampath,Baskar Sridharan,Chris Douglas,John R. Douceur,Karthick Krishnamoorthy,Mitica Manu,Neil Sharman,Pavan Kasturi,Peng Li,Raghu Ramakrishnan,Ramarathnam Venkatesan,Richard Draves,Rogério Ramos,Shankar Shastry,Shrikant S. Naidu,Simon Sun,Spiro Michaylov,Youssef Barakat,Zee Xu",SIGMOD Conference,06-11-18,Azure Data Lake Store: A Hyperscale Distributed File Service for Big Data Analytics.,2017
+2437412,"Ashwin Machanavajjhala,John M. Abowd,Lars Vilhuber,Mark Kutzbach,Matthew Graham,Samuel Haney",SIGMOD Conference,06-11-18,Utility Cost of Formal Privacy for Releasing National Employer-Employee Statistics.,2017
+2437435,"Amir Shaikhha,Christoph Koch 0001,Mohammad Dashti,Sachin Basil John",SIGMOD Conference,06-11-18,Transaction Repair for Multi-Version Concurrency Control.,2017
+2437445,"H. V. Jagadish,Michael J. Cafarella,Michael R. Anderson,Zhongjun Jin",SIGMOD Conference,06-11-18,Foofah: A Programming-By-Example System for Synthesizing Data Transformation Programs.,2017
+2437494,"Ismail Oukid,Wolfgang Lehner",SIGMOD Conference,06-11-18,Data Structure Engineering For Byte-Addressable Non-Volatile Memory.,2017
+2437532,"Arun Kumar 0001,Fengan Li,Jeffrey F. Naughton,Kamalika Chaudhuri,Somesh Jha,Xi Wu 0001",SIGMOD Conference,06-11-18,Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics.,2017
+2437550,"Michael A. Bender,Prashant Pandey,Rob Johnson,Robert Patro",SIGMOD Conference,06-11-18,A General-Purpose Counting Filter: Making Every Bit Count.,2017
+2437563,"Andreas Behrend,Hannes Voigt,Jonas Rausch,Kai Herrmann,Wolfgang Lehner",SIGMOD Conference,06-11-18,Living in Parallel Realities: Co-Existing Schema Versions with a Bidirectional Database Evolution Language.,2017
+2437618,"Chunbin Lin,Jianguo Wang 0001,Steven Swanson,Yannis Papakonstantinou",SIGMOD Conference,06-11-18,An Experimental Study of Bitmap Compression vs. Inverted List Compression.,2017
+2437681,"Jinghan Meng,Yi-Cheng Tu",SIGMOD Conference,06-11-18,Flexible and Feasible Support Measures for Mining Frequent Patterns in Large Labeled Graphs.,2017
+2437697,"Angela Bonifati,Emmanuel Coquery,Romuald Thion,Ugo Comignani",SIGMOD Conference,06-11-18,Interactive Mapping Specification with Exemplar Tuples.,2017
+2437720,"Ken-ichi Kawarabayashi,Naoto Ohsaka,Sumio Fujita,Tomohiro Sonobe",SIGMOD Conference,06-11-18,Coarsening Massive Influence Networks for Scalable Diffusion Analysis.,2017
+2437742,"Ahmad Shahab Tajik,Barzan Mozafari,Michael J. Cafarella,Yongjoo Park",SIGMOD Conference,06-11-18,Database Learning: Toward a Database that Becomes Smarter Every Time.,2017
+2437750,"Abdurrahman Ghanem,Ashraf Aboulnaga,Carlos H. C. Teixeira,Eslam Hussein,Georgos Siganos,Ghadeer AbuOda,Gianmarco De Francisci Morales,Marco Serafini,Mohammed J. Zaki,Vinícius Vitor dos Santos Dias",SIGMOD Conference,06-11-18,Graph Data Mining with Arabesque.,2017
+2437751,"Alejandro P. Buchmann,Ilia Petrov,Robert Gottstein,Sergey Hardock",SIGMOD Conference,06-11-18,From In-Place Updates to In-Place Appends: Revisiting Out-of-Place Updates on Flash.,2017
+2437756,"Ke Yi,Yu Chen",SIGMOD Conference,06-11-18,Two-Level Sampling for Join Size Estimation.,2017
+2437765,"Fan Yang,Guanxian Jiang,James Cheng,Jinfeng Li,Yunjian Zhao,Yuzhen Huang",SIGMOD Conference,06-11-18,The Best of Both Worlds: Big Data Programming with Both Productivity and Performance.,2017
+2437767,"Davood Rafiei,Yunyao Li 0001",SIGMOD Conference,06-11-18,Natural Language Data Management and Interfaces: Recent Development and Open Challenges.,2017
+2437778,"H. V. Jagadish,Michael J. Cafarella,Michael R. Anderson,Zhongjun Jin",SIGMOD Conference,06-11-18,Foofah: Transforming Data By Example.,2017
+2437782,"Fisnik Kastrati,Guido Moerkotte",SIGMOD Conference,06-11-18,Optimization of Disjunctive Predicates for Main Memory Column Stores.,2017
+2437811,"Bin Dong,Florin Rusu,Kesheng Wu,Peter Nugent,Weijie Zhao",SIGMOD Conference,06-11-18,Incremental View Maintenance over Array Data.,2017
+2437820,"Edmund Wong,Eric Wang,Ethan Atkins,Nat Storer,Sean Rhea",SIGMOD Conference,06-11-18,LittleTable: A Time-Series Database and Its Uses.,2017
+2437848,"Yeye He,Yue Wang",SIGMOD Conference,06-11-18,Synthesizing Mapping Relationships Using Table Corpus.,2017
+2437855,"Alexandra Meliou,Eugene Wu 0002,Xiaolan Wang",SIGMOD Conference,06-11-18,QFix: Diagnosing Errors through Query Histories.,2017
+2437915,"Cheng Long,David M. Mount,Raymond Chi-Wing Wong,Victor Junqiu Wei",SIGMOD Conference,06-11-18,Distance Oracle on Terrain Surface.,2017
+2437951,"Carsten Binnig,Eli Upfal,Emanuel Zgraggen,Lorenzo De Stefani,Tim Kraska,Zheguang Zhao",SIGMOD Conference,06-11-18,Safe Visual Data Exploration.,2017
+2438001,"Abdul Wasay,Niv Dayan,Stratos Idreos,Xinding Wei",SIGMOD Conference,06-11-18,Data Canopy: Accelerating Exploratory Statistical Analysis.,2017
+2438022,"Abdulhakim Ali Qahtan,Ahmed K. Elmagarmid,Dong Deng,Essam Mansour,Ihab F. Ilyas,Michael Stonebraker,Mourad Ouzzani,Nan Tang 0001,Raul Castro Fernandez,Samuel Madden,Wenbo Tao,Ziawasch Abedjan",SIGMOD Conference,14-11-18,A Demo of the Data Civilizer System.,2017
+2438035,"Bo Tang,Dongmei Zhang,Man Lung Yiu,Rui Ding,Shi Han",SIGMOD Conference,06-11-18,Extracting Top-K Insights from Multi-dimensional Data.,2017
+2438050,"Alexandre Verbitski,Anurag Gupta,Debanjan Saha,Kamal Gupta,Murali Brahmadesam,Raman Mittal,Sailesh Krishnamurthy,Sandor Maurice,Tengiz Kharatishvili,Xiaofeng Bao",SIGMOD Conference,06-11-18,Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases.,2017
+2438055,"Deepak Narayanan,Edward Gan,Kexin Rong,Peter Bailis,Sahaana Suri,Samuel Madden",SIGMOD Conference,06-11-18,MacroBase: Prioritizing Attention in Fast Data.,2017
+2438078,"Anshuman Dutt,Surajit Chaudhuri,Vivek R. Narasayya",SIGMOD Conference,06-11-18,Leveraging Re-costing for Online Optimization of Parameterized Queries with Guarantees.,2017
+2438102,"Felix Naumann,Lukasz Golab,Ziawasch Abedjan",SIGMOD Conference,06-11-18,Data Profiling: A Tutorial.,2017
+2438110,"Caleb Horst,Keita Xagawa,Ryo Kikuchi",SIGMOD Conference,06-11-18,Cryptanalysis of Comparable Encryption in SIGMOD'16.,2017
+2438145,"Aaron J. Elmore,Aditya G. Parameswaran,Liqi Xu,SiLi Hui,Silu Huang",SIGMOD Conference,06-11-18,OrpheusDB: A Lightweight Approach to Relational Dataset Versioning.,2017
+2438328,"David G. Andersen,Hyeontaek Lim,Michael Kaminsky",SIGMOD Conference,06-11-18,Cicada: Dependably Fast Multi-Core In-Memory Transactions.,2017
+2438344,"Chao Tian,Chunming Hu,Wenfei Fan",SIGMOD Conference,14-11-18,Incremental Graph Computations: Doable and Undoable.,2017
+2438354,"Peter Bailis,Todd Warszawski",SIGMOD Conference,06-11-18,ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications.,2017
+2438386,"Harshada Chavan,Mohamed F. Mokbel",SIGMOD Conference,06-11-18,Scout: A GPU-Aware System for Interactive Spatio-temporal Data Visualization.,2017
+2438388,"Hans-Arno Jacobsen,Tilmann Rabl",SIGMOD Conference,06-11-18,Query Centric Partitioning and Allocation for Partially Replicated Database Systems.,2017
+2438421,"Junhao Gan,Yufei Tao",SIGMOD Conference,06-11-18,Dynamic Density Based Clustering.,2017
+2438427,"Guoliang Li 0001,Jiannan Wang,Ju Fan,Reynold Cheng,Yudian Zheng",SIGMOD Conference,06-11-18,Crowdsourced Data Management: Overview and Challenges.,2017
+2438433,"Hector Garcia-Molina,Vasilis Verroios,Yannis Papakonstantinou",SIGMOD Conference,06-11-18,Waldo: An Adaptive Human Interface for Crowd Entity Resolution.,2017
+2438457,"Charalampos Papamanthou,Ioannis Demertzis",SIGMOD Conference,06-11-18,Fast Searchable Encryption With Tunable Locality.,2017
+2438492,"Dongxiang Zhang,Ju Fan,Kian-Lee Tan,Yuchen Li",SIGMOD Conference,06-11-18,Discovering Your Selling Points: Personalized Social Influential Tags Exploration.,2017
+2438580,"Himchan Park,Min-Soo Kim 0002",SIGMOD Conference,06-11-18,TrillionG: A Trillion-scale Synthetic Graph Generator using a Recursive Vector Model.,2017
+2438582,"Haruo Yokota,Shoji Nishimura",SIGMOD Conference,06-11-18,QUILTS: Multidimensional Data Partitioning Framework Based on Query-Aware and Skew-Tolerant Space-Filling Curves.,2017
+2438584,"Niccolò Meneghetti,Oliver Kennedy,Wolfgang Gatterbauer",SIGMOD Conference,06-11-18,Beta Probabilistic Databases: A Scalable Approach to Belief Updating and Parameter Learning.,2017
+2438591,"Romila Pradhan,Siarhei Bykau,Sunil Prabhakar",SIGMOD Conference,06-11-18,Staging User Feedback toward Rapid Conflict Resolution in Data Fusion.,2017
+2438600,"Paraschos Koutris,Shaleen Deep",SIGMOD Conference,06-11-18,QIRANA: A Framework for Scalable Query Pricing.,2017
+2438634,"Fatma Özcan,Pinar Tözün,Yuanyuan Tian",SIGMOD Conference,06-11-18,Hybrid Transactional/Analytical Processing: A Survey.,2017
+2438651,"Chengliang Chai,Guoliang Li 0001,Haitao Yuan,Jian Li,Ju Fan,Xiang Yu,Xiaohang Zhang,Xueping Weng,Yuanbing Li,Yudian Zheng",SIGMOD Conference,06-11-18,CDB: Optimizing Queries with Crowd-Based Selections and Joins.,2017
+2438710,"Chris Jermaine,Luis Leopoldo Perez,Shangyu Luo,Zekai J. Gao",SIGMOD Conference,06-11-18,The BUDS Language for Distributed Bayesian Machine Learning.,2017
+2438714,"Andrew Pavlo,Gregory R. Ganger,Lianghong Xu,Sudipta Sengupta",SIGMOD Conference,06-11-18,Online Deduplication for Databases.,2017
+2438751,"Cláudio T. Silva,Fernando Chirigati,Harish Doraiswamy,Juliana Freire,Yeukyin Chan",SIGMOD Conference,06-11-18,Querying and Exploring Polygamous Relationships in Urban Spatio-Temporal Data Sets.,2017
+2438793,"Charles Lovering,Cuong Nguyen,Elke A. Rundensteiner,Gábor N. Sárközy,Ramoza Ahsan,Rodica Neamtu",SIGMOD Conference,06-11-18,Interactive Time Series Analytics Powered by ONEX.,2017
+2438798,"Laura Yu Chen,Tengfei Yuan,Wenfei Fan,Yanchao Li,Yang Cao,Yanghao Wang",SIGMOD Conference,14-11-18,BEAS: Bounded Evaluation of SQL Queries.,2017
+2438816,"Darius Sidlauskas,Ira Assent,Kenneth S. Bøgh,Sean Chester",SIGMOD Conference,06-11-18,Template Skycube Algorithms for Heterogeneous Parallelism on Multicore and GPU Architectures.,2017
+2438861,"Jorge-Arnulfo Quiané-Ruiz,Laure Berti-Équille,Mourad Ouzzani,Nan Tang 0001,Saravanan Thirumuruganathan",SIGMOD Conference,06-11-18,UGuide: User-Guided Discovery of FD-Detectable Errors.,2017
+2438881,"Jinhong Jung,Lee Sael,Namyong Park,U. Kang",SIGMOD Conference,06-11-18,BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart.,2017
+2438905,"Amit Chavan,Amol Deshpande",SIGMOD Conference,06-11-18,DEX: Query Execution in a Delta-based Storage System.,2017
+2438912,"Martín Ugarte,Muhammad Idris,Stijn Vansummeren",SIGMOD Conference,06-11-18,The Dynamic Yannakakis Algorithm: Compact and Efficient Query Processing Under Updates.,2017
+2438945,"Ahmed R. Mahmood,Walid G. Aref",SIGMOD Conference,06-11-18,Query Processing Techniques for Big Spatial-Keyword Data.,2017
+2438976,"Hui Li,Man Lung Yiu,Nikos Mamoulis,Tsz Nam Chan",SIGMOD Conference,06-11-18,FEXIPRO: Fast and Exact Inner Product Retrieval in Recommender Systems.,2017
+2438993,"Hao Wei,Jeffrey Xu Yu,Junfeng Zhou,Shijie Zhou,Xian Tang,Ziyang Chen",SIGMOD Conference,06-11-18,DAG Reduction: Fast Answering Reachability Queries.,2017
+2438997,"Edward Gan,Kexin Rong,Peter Bailis,Sahaana Suri",SIGMOD Conference,06-11-18,"Demonstration: MacroBase, A Fast Data Analysis Engine.",2017
+2439033,"Avraham Shinnar,Joshua S. Auerbach,Jérôme Siméon,Louis Mandel,Martin Hirzel",SIGMOD Conference,06-11-18,Handling Environments in a Nested Relational Algebra with Combinators and an Implementation in a Verified Query Compiler.,2017
+2439045,"David Sidler,Gustavo Alonso,Kaan Kara,Muhsen Owaida,Zsolt István",SIGMOD Conference,06-11-18,doppioDB: A Hardware Accelerated Database.,2017
+2439063,"Martin Zinkevich,Neoklis Polyzotis,Steven Euijong Whang,Sudip Roy 0002",SIGMOD Conference,06-11-18,Data Management Challenges in Production Machine Learning.,2017
+2434611,"Dan Suciu,Paris Koutris,Semih Salihoglu",SIGMOD Conference,21-11-18,Algorithmic Aspects of Parallel Query Processing.,2018
+2434670,Siddharth Bhatia,SIGMOD Conference,21-11-18,Approximate Triangle Count and Clustering Coefficient.,2018
+2434687,"Aaron J. Elmore,Abhishek Nigam,Aditya G. Parameswaran,Gunce Su Yilmaz,Liqi Xu,Tana Wattanawaroon",SIGMOD Conference,21-11-18,DataDiff: User-Interpretable Data Transformation Summaries for Collaborative Data Analysis.,2018
+2434732,Soyee Choi,SIGMOD Conference,21-11-18,SSD as SQLite Engine.,2018
+2434763,"Ashwin Machanavajjhala,Dan Zhang,Gerome Miklau,Ios Kotsogiannis,Michael Hay,Ryan McKenna",SIGMOD Conference,21-11-18,EKTELO: A Framework for Defining Differentially-Private Computations.,2018
+2434771,"Geonhwa Jeong,Hassan Chafi,Hyungyu Shin,In Seo,Jeong-Hoon Lee,Kyoungmin Kim,Sungpack Hong,Wook-Shin Han",SIGMOD Conference,21-11-18,TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data.,2018
+2434803,"Cristian Molinaro,Irina Trubitsyna,Nicola Fiorentino,Sergio Greco",SIGMOD Conference,21-11-18,ACID: A System for Computing Approximate Certain Query Answers over Incomplete Databases.,2018
+2434843,"Eugene Wu 0002,Haoci Zhang,Thibault Sellam,Viraj Raj",SIGMOD Conference,21-11-18,Precision Interfaces for Different Modalities.,2018
+2434851,"Sebastian Link,Ziheng Wei",SIGMOD Conference,21-11-18,DataProf: Semantic Profiling for Iterative Data Cleansing and Business Rule Acquisition.,2018
+2434981,"An Xu,James Cheng,Jian Zhang,Jie Liu,Jinfeng Li,Kelvin K. W. Ng,Ti-chung Cheng,Xiao Yan",SIGMOD Conference,21-11-18,A General and Efficient Querying Method for Learning to Hash.,2018
+2435002,"Carlos Mendizábal,Luca Schroeder,Thomas Lively",SIGMOD Conference,21-11-18,Splaying Log-Structured Merge-Trees.,2018
+2435014,"Derrick Bryant,Florian M. Waas,Lyublena Antova,Michael Duller,Mohamed A. Soliman,Tuan Cao",SIGMOD Conference,21-11-18,Rapid Adoption of Cloud Data Warehouse Technology Using Datometry Hyper-Q.,2018
+2435017,"Amin Saeidi,Ben Vandiver,Eden Zik,Jaimin Dave,Pratibha Rana,Pratyush Parimal,Shreya Prasad,Styliani Pantela",SIGMOD Conference,21-11-18,Eon Mode: Bringing the Vertica Columnar Database to the Cloud.,2018
+2435048,"Bernard Wong,Hongbo Zhang,Kenneth Salem,Linguan Yang,Tim Brecht,Xiayue Charles Lin,Xinan Yan",SIGMOD Conference,21-11-18,Carousel: Low-Latency Transaction Processing for Globally-Distributed Data.,2018
+2435133,"Gautam Das 0001,Md Farhadur Rahman,Nan Zhang 0004,Sona Hasani,Yeshwanth D. Gunasekaran",SIGMOD Conference,21-11-18,DBLOC: Density Based Clustering over LOCation Based Services.,2018
+2435142,"Eyal Dushkin,Tova Milo",SIGMOD Conference,21-11-18,Top-k Sorting Under Partial Order Information.,2018
+2435147,"Barzan Mozafari,Idris Hanafi,Jacob Yatvitskiy,Wen He,Yongjoo Park",SIGMOD Conference,21-11-18,"Demonstration of VerdictDB, the Platform-Independent AQP System.",2018
+2435148,"Edward C. Thayer,Jose Picado,Willis Lang",SIGMOD Conference,21-11-18,Survivability of Cloud Databases - Factors and Prediction.,2018
+2435158,"Amr El Abbadi,Divyakant Agrawal,Faisal Nawab",SIGMOD Conference,21-11-18,DPaxos: Managing Data Closer to Users for Low-Latency and Mobile Applications.,2018
+2435183,"Eamonn J. Keogh,Michele Linardi,Themis Palpanas,Yan Zhu 0014",SIGMOD Conference,21-11-18,Matrix Profile X: VALMOD - Scalable Discovery of Variable-Length Motifs in Data Series.,2018
+2435231,"Divesh Srivastava,Dmitri V. Kalashnikov,Laks V. S. Lakshmanan",SIGMOD Conference,21-11-18,FastQRE: Fast Query Reverse Engineering.,2018
+2435239,"Guoliang Li 0001,Zeyuan Shang,Zhifeng Bao",SIGMOD Conference,21-11-18,DITA: Distributed In-Memory Trajectory Analytics.,2018
+2435325,"Chee-Yong Chan,TaiNing Wang",SIGMOD Conference,21-11-18,Improving Join Reorderability with Compensation Operators.,2018
+2435352,Walter Cai,SIGMOD Conference,21-11-18,Tighter Upper Bounds for Join Cardinality Estimates.,2018
+2435359,"Ibrahim Sabek,Mashaal Musleh,Mohamed F. Mokbel",SIGMOD Conference,21-11-18,A Demonstration of Sya: A Spatial Probabilistic Knowledge Base Construction System.,2018
+2435383,"Alvin Cheung,Maaz Bin Safeer Ahmad",SIGMOD Conference,21-11-18,Automatically Leveraging MapReduce Frameworks for Data-Intensive Applications.,2018
+2435392,"Beng Chin Ooi,Fei He,Gene Yan Ooi,Qingchao Cai,Weilong Huang,Zhongle Xie",SIGMOD Conference,21-11-18,Cohort Analysis with Ease.,2018
+2435418,"Aaron J. Elmore,Jeffrey Xu Yu,Zechao Shang",SIGMOD Conference,21-11-18,RushMon: Real-time Isolation Anomalies Monitoring.,2018
+2435422,"Amir Ilkhechi,Arif Usta,Benjamin Hättasch,Carsten Binnig,Fuat Basik,Nathaniel Weir,Prasetya Utama,Shekar Ramaswamy,Ugur Çetintemel",SIGMOD Conference,21-11-18,DBPal: A Learned NL-Interface for Databases.,2018
+2435441,"Henning Funke,Jens Teubner,Sebastian Breß,Stefan Noll,Volker Markl",SIGMOD Conference,21-11-18,Pipelined Query Processing in Coprocessor Environments.,2018
+2435444,"Jingbo Xu,Ping Lu,Qiang Yin,Ruiqi Xu,Wenfei Fan,Wenyuan Yu,Xiaojian Luo",SIGMOD Conference,21-11-18,Adaptive Asynchronous Parallelization of Graph Algorithms.,2018
+2435446,"Florian Wolf,Kai-Uwe Sattler,Norman May,Paul R. Willems",SIGMOD Conference,21-11-18,On the Calculation of Optimality Ranges for Relational Query Execution Plans.,2018
+2435494,"Ahmed Hefny,Andrew Pavlo,Dana Van Aken,Geoffrey J. Gordon,Gustavo Mezerhane,Lin Ma",SIGMOD Conference,21-11-18,Query-based Workload Forecasting for Self-Driving Database Management Systems.,2018
+2435581,"Ji-Rong Wen,Shuo Shang,Sibo Wang 0001,Xiaodong He,Xiaokui Xiao,Zhewei Wei",SIGMOD Conference,21-11-18,TopPPR: Top-k Personalized PageRank Queries with Precision Guarantees on Large Graphs.,2018
+2435615,"Joana M. F. da Trindade,Manasi Vartak,Matei Zaharia,Samuel Madden",SIGMOD Conference,21-11-18,MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis.,2018
+2435651,"Hao Xin,Lei Chen,Rui Meng",SIGMOD Conference,21-11-18,Subjective Knowledge Base Construction Powered By Crowdsourcing and Knowledge Base.,2018
+2435654,"Dirk Habich,Thomas Kissinger,Wolfgang Lehner",SIGMOD Conference,21-11-18,Adaptive Energy-Control for In-Memory Database Systems.,2018
+2435658,"Cong Yan,Yeye He",SIGMOD Conference,21-11-18,Synthesizing Type-Detection Logic for Rich Semantic Data Types using Open-source Code.,2018
+2435671,"Alekh Jindal,Hiren Patel,Jieming Di,Konstantinos Karanasos,Malay Bag,Marc Friedman,Shi Qiao,Sriram Rao,Yifung Lin,Zhicheng Yin",SIGMOD Conference,21-11-18,Computation Reuse in Analytics Job Service at Microsoft.,2018
+2435677,"Anand Viswanathan,Arun Raghavan,Balakrishnan Chandrasekaran 0003,Cagri Balkesen,Eric Sedlar,Felix Schmidt,Georgios Giannikis,Jarod Wen,Nipun Agarwal,Nitin Kunal,Pit Fender,Sam Idicula,Sandeep R. Agrawal,Seema Sundara,Venkatanathan Varadarajan",SIGMOD Conference,21-11-18,RAPID: In-Memory Analytical Query Processing Engine with Extreme Performance per Watt.,2018
+2435680,"Chengkai Li,Damian Jimenez,Gensheng Zhang",SIGMOD Conference,21-11-18,Maverick: Discovering Exceptional Facts from Knowledge Graphs.,2018
+2435681,"Akash Katipally,Eric Boutin,Eric N. Hanson,Michal Nowakiewicz,Robert Walzer",SIGMOD Conference,21-11-18,BIPie: Fast Selection and Aggregation on Encoded Data using Operator Specialization.,2018
+2435694,"Alex Beutel,Ed H. Chi,Jeffrey Dean,Neoklis Polyzotis,Tim Kraska",SIGMOD Conference,21-11-18,The Case for Learned Index Structures.,2018
+2435698,"Eugene Wu 0002,Jiannan Wang,Pei Wang,Ryan Shea,Yongjun He",SIGMOD Conference,21-11-18,Deeper: A Data Enrichment System Powered by Deep Web.,2018
+2435723,"Theodoros Rekatsinas,Xin Luna Dong",SIGMOD Conference,21-11-18,Data Integration and Machine Learning: A Natural Synergy.,2018
+2435747,"Marcos Antonio Vaz Salles,Vivek Shah 0001",SIGMOD Conference,21-11-18,"Reactors: A Case for Predictable, Virtualized Actor Database Systems.",2018
+2435761,"Ashwin Machanavajjhala,Gerome Miklau,Michael Hay,Roberto Yus,Sameera Ghayyur,Sharad Mehrotra,Yan Chen 0022",SIGMOD Conference,21-11-18,IoT-Detective: Analyzing IoT Data Under Differential Privacy.,2018
+2435817,"Bin Cui 0001,Jie Jiang,Minlan Yu,Steve Uhlig,Tong Yang 0003,Xiaoming Li,Yang Zhou",SIGMOD Conference,21-11-18,Cold Filter: A Meta-Framework for Faster and More Accurate Stream Processing.,2018
+2435844,"Demetrios Zeinalipour-Yazti,Konstantinos Pelechrinis,Panos K. Chrysanthis,Xiaoyu Ge",SIGMOD Conference,21-11-18,EPUI: Experimental Platform for Urban Informatics.,2018
+2435850,"Brian Hentschel,Demi Guo,Kostas Zoumpatianos,Michael S. Kester,Stratos Idreos",SIGMOD Conference,21-11-18,The Data Calculator: Data Structure Design and Cost Synthesis from First Principles and Learned Cost Models.,2018
+2435851,"Dan Olteanu,Milos Nikolic",SIGMOD Conference,21-11-18,Incremental View Maintenance with Triple Lock Factorization Benefits.,2018
+2435892,"Danai Koutra,H. V. Jagadish,Jie Song,Murali Mani",SIGMOD Conference,21-11-18,GeoFlux: Hands-Off Data Integration Leveraging Join Key Knowledge.,2018
+2435929,"Binhang Yuan,Carlos Monroy,Chris Jermaine,Jia Zou 0001,Kia Teymourian,R. Matthew Barnett,Shangyu Luo,Sourav Sikdar,Tania Lorido-Botran",SIGMOD Conference,21-11-18,"PlinyCompute: A Platform for High-Performance, Distributed, Data-Intensive Tool Development.",2018
+2435964,"Bingchen Lin,Peng Wang,Wei Cao,Xiao Lou,Xiaojie Feng,Yu Xie,Yusong Gao",SIGMOD Conference,21-11-18,TcpRT: Instrument and Diagnostic Analysis System for Service Quality of Cloud Databases at Massive Scale in Real-time.,2018
+2435974,"Jimmy Lin,Peilin Yang,Srikanth Thiagarajan",SIGMOD Conference,21-11-18,"Robust, Scalable, Real-Time Event Time Series Aggregation at Twitter.",2018
+2435979,"Gao Cong,Mingzhao Li 0001,Peishan Li,Tao Guo,Zhifeng Bao",SIGMOD Conference,12-12-18,POIsam: a System for Efficient Selection of Large-scale Geospatial Data on Maps.,2018
+2435995,Daniel Ting,SIGMOD Conference,21-11-18,Data Sketches for Disaggregated Subset Sum and Frequent Item Estimation.,2018
+2436002,"Fanghua Ye,Jeffrey Xu Yu,Lu Qin,Nong Xiao,Rong-Hua Li,Xiaokui Xiao,Zibin Zheng",SIGMOD Conference,21-11-18,Skyline Community Search in Multi-valued Networks.,2018
+2436077,"Dirk Habich,Matthias Werner 0004,Stefan T. J. de Bruijn,Till Kolditz,Wolfgang Lehner",SIGMOD Conference,21-11-18,AHEAD: Adaptable Data Hardening for On-the-Fly Hardware Error Detection during Database Query Processing.,2018
+2436141,"Eugene Wu 0002,Fotis Psallidas",SIGMOD Conference,21-11-18,Demonstration of Smoke: A Deep Breath of Data-Intensive Lineage Applications.,2018
+2436172,"Dirk Habich,Hermann Härtig,Marcus Hähnel,Thomas Kissinger,Till Smejkal,Wolfgang Lehner",SIGMOD Conference,21-11-18,Energy-Utility Function-Based Resource Control for In-Memory Database Systems LIVE.,2018
+2436176,"Cheng Xu 0004,Haibo Hu,Jianliang Xu,Man Ho Au",SIGMOD Conference,21-11-18,When Query Authentication Meets Fine-Grained Access Control: A Zero-Knowledge Approach.,2018
+2436185,"Disheng Qiu,Divesh Srivastava,Luciano Barbosa,Paolo Merialdo,Valter Crescenzi",SIGMOD Conference,21-11-18,Big Data Linkage for Product Specification Pages.,2018
+2436227,"Dongxiang Zhang,Jian Pei,Jiannan Wang,Jinglin Peng",SIGMOD Conference,21-11-18,AQP++: Connecting Approximate Query Processing With Aggregate Precomputation for Interactive Analytics.,2018
+2436241,"Andrew Pavlo,David G. Andersen,Huanchen Zhang,Hyeontaek Lim,Kimberly Keeton,Michael Kaminsky,Viktor Leis",SIGMOD Conference,21-11-18,SuRF: Practical Range Query Filtering with Fast Succinct Tries.,2018
+2436261,"Kris Ganjam,Kukjin Lee,Surajit Chaudhuri,Vivek R. Narasayya,Xu Chu,Yeye He,Yudian Zheng,Yue Wang",SIGMOD Conference,21-11-18,Transform-Data-by-Example (TDE): Extensible Data Transformation in Excel.,2018
+2436278,"Bernhard Radke,Thomas Neumann 0001",SIGMOD Conference,21-11-18,Adaptive Optimization of Very Large Join Queries.,2018
+2436397,"Guoliang Li 0001,Kaiyu Li,Xiaohang Zhang",SIGMOD Conference,21-11-18,A Rating-Ranking Method for Crowdsourced Top-k Computation.,2018
+2436420,"David Alexander Tedjopurnomo,Mingzhao Li 0001,Sheng Wang 0007,Xiaolin Qin,Yipeng Zhang,Zhifeng Bao",SIGMOD Conference,12-12-18,Trip Planning by an Integrated Search Paradigm.,2018
+2436438,"Dian Ouyang,Lijun Chang,Lu Qin,Qing Zhu,Xuemin Lin,Ying Zhang 0001",SIGMOD Conference,06-02-19,When Hierarchy Meets 2-Hop-Labeling: Efficient Shortest Distance Queries on Road Networks.,2018
+2436456,"Niv Dayan,Stratos Idreos",SIGMOD Conference,21-11-18,Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging.,2018
+2436479,"Adwait Tumbde,Jean-François Im,Jennifer Dai,Jialiang Li,Kishore Gopalakrishna,Mayank Shrivastava,Neha Pawar,Ravi Aringunram,Seunghyun Lee,Subbu Subramaniam,Xiaotian Jiang",SIGMOD Conference,21-11-18,Pinot: Realtime OLAP for 530 Million Users.,2018
+2436496,"Ali Ghodsi 0002,Burak Yavuz,Ion Stoica,Joseph Torres,Matei Zaharia,Michael Armbrust,Reynold Xin,Shixiong Zhu,Tathagata Das",SIGMOD Conference,21-11-18,Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark.,2018
+2436506,"Kavan Bharat Patel,Mohammadreza Esfandiari,Senjuti Basu Roy,Sihem Amer-Yahia",SIGMOD Conference,21-11-18,Crowdsourcing Analytics With CrowdCur.,2018
+2436532,"Seongyun Ko,Wook-Shin Han",SIGMOD Conference,21-11-18,TurboGraph++: A Scalable and Fast Graph Analytics System.,2018
+2436579,"Arnab Nandi 0001,Lilong Jiang,Protiva Rahman",SIGMOD Conference,21-11-18,"Evaluating Interactive Data Systems: Workloads, Metrics, and Guidelines.",2018
+2436586,"Srikanth Kandula,Surajit Chaudhuri,Yao Lu",SIGMOD Conference,21-11-18,Interactive Demonstration of Probabilistic Predicates.,2018
+2436621,"Azza Abouzied,Miro Mannino",SIGMOD Conference,21-11-18,Qetch: Time Series Querying with Expressive Sketches.,2018
+2436629,"Ildar Absalyamov,Michael J. Carey 0001,Vassilis J. Tsotras",SIGMOD Conference,21-11-18,Lightweight Cardinality Estimation in LSM-based Systems.,2018
+2436666,"Leong Hou U,Siyuan Wu,Sourav S. Bhowmick,Wolfgang Gatterbauer",SIGMOD Conference,21-11-18,PISTIS: A Conflict of Interest Declaration and Detection System for Peer Review Management.,2018
+2436690,"Anil Shanbhag,Holger Pirk,Samuel Madden",SIGMOD Conference,21-11-18,Efficient Top-K Query Processing on Massively Parallel Hardware.,2018
+2436722,"Beng Chin Ooi,Gang Chen 0001,Jian Dai,Ju Fan,Kee Yuan Ngiam,Meihui Zhang",SIGMOD Conference,21-11-18,Fine-grained Concept Linking using Neural Networks in Healthcare.,2018
+2436749,"Gao Cong,Kaiyu Feng,Tao Guo,Zhifeng Bao",SIGMOD Conference,21-11-18,Efficient Selection of Geospatial Data on Maps for Interactive and Visualized Exploration.,2018
+2436765,"Lei Zou 0001,Xinbo Zhang",SIGMOD Conference,21-11-18,IMPROVE-QA: An Interactive Mechanism for RDF Question/Answering Systems.,2018
+2436783,"Bill Howe,H. V. Jagadish,Julia Stoyanovich",SIGMOD Conference,21-11-18,Special Session: A Technical Research Agenda in Data Ethics and Responsible Data Management.,2018
+2436859,"Grace Au,Lu Ma,Mark Sirek,Mohamed Y. Eltabakh,Mohammed Al-Kateb,Paul Sinclair,Sanjay Nair",SIGMOD Conference,21-11-18,Joins over UNION ALL Queries in Teradata®: Demonstration of Optimized Execution.,2018
+2436878,"Matthias Weidlich,Peter R. Pietzuch,Pijika Watcharapichat,Raul Castro Fernandez,Victoria Lopez Morales,William Culhane",SIGMOD Conference,21-11-18,Meta-Dataflows: Efficient Exploratory Dataflow Jobs.,2018
+2436900,"Andrew Pavlo,David G. Andersen,Huanchen Zhang,Hyeontaek Lim,Michael Kaminsky,Viktor Leis,Ziqi Wang",SIGMOD Conference,21-11-18,Building a Bw-Tree Takes More Than Just Buzz Words.,2018
+2436924,"Abolfazl Asudeh,Bill Howe,Gerome Miklau,H. V. Jagadish,Julia Stoyanovich,Ke Yang",SIGMOD Conference,21-11-18,A Nutritional Label for Rankings.,2018
+2436999,"Hyun Chai Jeong,Mohamed S. Hassan,Mohammad Sadoghi,Tatiana Kuznetsova,Walid G. Aref",SIGMOD Conference,21-11-18,GRFusion: Graphs as First-Class Citizens in Main-Memory Relational Database Systems.,2018
+2437094,Haolin Yu,SIGMOD Conference,21-11-18,RDSQ: Reliable Queue Protocol over Shared Logs.,2018
+2437113,"Guoliang Li 0001,Nan Tang 0001,Xinran Wang,Xuedi Qin,Yuyu Luo",SIGMOD Conference,21-11-18,DeepEye: Creating Good Data Visualizations by Keyword Search.,2018
+2437123,"Ashwin Lall,Cheng Long,Jian Li 0015,Min Xie,Raymond Chi-Wing Wong",SIGMOD Conference,21-11-18,Efficient k-Regret Query Algorithm with Restriction-free Bound for any Dimensionality.,2018
+2437144,"Daniel Lemire,Edmon Begoli,Jesús Camacho-Rodríguez,Julian Hyde,Michael J. Mior",SIGMOD Conference,21-11-18,Apache Calcite: A Foundational Framework for Optimized Query Processing Over Heterogeneous Data Sources.,2018
+2437173,"Dong Deng,Guoliang Li 0001,Yufei Tao",SIGMOD Conference,21-11-18,Overlap Set Similarity Joins with Theoretical Guarantees.,2018
+2437185,"Bin Cui 0001,Ce Zhang,Fangcheng Fu,Jiawei Jiang",SIGMOD Conference,21-11-18,DimBoost: Boosting Gradient Boosting Decision Tree to Higher Dimensions.,2018
+2437197,"Bowen Du,Jieping Ye,Lei Chen,Libin Wang,Yongxin Tong,Zimu Zhou",SIGMOD Conference,21-11-18,Dynamic Pricing in Spatial Crowdsourcing: A Matching-Based Approach.,2018
+2437237,Michael Günther,SIGMOD Conference,21-11-18,FREDDY: Fast Word Embeddings in Database Systems.,2018
+2437245,"Kenneth Salem,Martin Karsten,Mustafa Korkmaz,Semih Salihoglu",SIGMOD Conference,21-11-18,Workload-Aware CPU Performance Scaling for Transactional Database Systems.,2018
+2437274,"Arijit Khan,Gao Cong,Xiangyu Ke",SIGMOD Conference,21-11-18,Finding Seeds and Relevant Tags Jointly: For Targeted Influence Maximization in Social Networks.,2018
+2437284,"Arash Termehchy,Behrouz Touri,Ben McCamish,Liang Huang 0001,Vahid Ghadakchi",SIGMOD Conference,21-11-18,The Data Interaction Game.,2018
+2437343,"Alastair Green,Andrés Taylor,Leonid Libkin,Mats Rydberg,Nadime Francis,Paolo Guagliardo,Petra Selmer,Stefan Plantikow,Tobias Lindaaker,Victor Marsault",SIGMOD Conference,21-11-18,Cypher: An Evolving Query Language for Property Graphs.,2018
+2437350,"Frederick Xu,Harrison Lundberg,Prajakta Kalmegh,Shivnath Babu,Sudeepa Roy",SIGMOD Conference,21-11-18,iQCAR: A Demonstration of an Inter-Query Contention Analyzer for Cluster Computing Frameworks.,2018
+2437398,"Divesh Srivastava,Graham Cormode,Tejas Kulkarni",SIGMOD Conference,21-11-18,Marginal Release Under Local Differential Privacy.,2018
+2437401,"Gregory Valiant,Kai Sheng Tai,Peter Bailis,Vatsal Sharan",SIGMOD Conference,21-11-18,Sketching Linear Classifiers over Data Streams.,2018
+2437409,"Batya Kenig,Benny Kimelfeld,Haoyue Ping,Julia Stoyanovich,Uzi Cohen",SIGMOD Conference,21-11-18,A Query Engine for Probabilistic Preferences.,2018
+2437440,Oren Kalinsky,SIGMOD Conference,21-11-18,Efficient Exploration of Linked Data.,2018
+2437446,"Matthias Ruhl,Mukund Sundararajan,Qiqi Yan",SIGMOD Conference,21-11-18,The Cascading Analysts Algorithm.,2018
+2437451,Pedro Domingos,SIGMOD Conference,21-11-18,Machine Learning for Data Management: Problems and Solutions.,2018
+2437466,"Jeffrey Xu Yu,Lei Zou 0001,Shuo Han",SIGMOD Conference,21-11-18,Speeding Up Set Intersections in Graph Algorithms using SIMD Instructions.,2018
+2437480,"Florian Hahn 0001,Florian Kerschbaum,Nicolas Loza",SIGMOD Conference,21-11-18,Practical and Secure Substring Search.,2018
+2437567,"Abdussalam Alawini,Gianmaria Silvello,Susan B. Davidson,Yinjun Wu",SIGMOD Conference,21-11-18,Data Citation: Giving Credit Where Credit is Due.,2018
+2437626,"Aakanksha Chowdhery,Srikanth Kandula,Surajit Chaudhuri,Yao Lu",SIGMOD Conference,21-11-18,Accelerating Machine Learning Inference with Probabilistic Predicates.,2018
+2437635,"Jing Tang 0004,Junsong Yuan,Xiaokui Xiao,Xueyan Tang",SIGMOD Conference,21-11-18,Online Processing Algorithms for Influence Maximization.,2018
+2437666,Roee Shraga,SIGMOD Conference,21-11-18,(Artificial) Mind over Matter: Integrating Humans and Algorithms in Solving Matching Problems.,2018
+2437738,"Aman Shaikh,N. K. Shankaranarayanan,Pramod A. Jamkhedkar,Theodore Johnson,Vladislav Shkapenyuk,Yaron Kanza",SIGMOD Conference,21-11-18,A Graph Database for a Virtualized Network Infrastructure.,2018
+2437758,"Ashraf Aboulnaga,Francisco Jose Andrade,Marco Serafini,Michael Stonebraker,Nosayba El-Sayed,Rebecca Taft,Ricardo Mayerhofer,Yu Lu",SIGMOD Conference,21-11-18,P-Store: An Elastic Database System with Predictive Provisioning.,2018
+2437818,"Byron Choi,Huey-Eng Chua,Shuigeng Zhou,Sourav S. Bhowmick,Yinglong Song",SIGMOD Conference,21-11-18,BOOMER: Blending Visual Formulation and Processing of P -Homomorphic Queries on Large Networks.,2018
+2437830,"Alexandra Meliou,Anna Fariha,Sheikh Muhammad Sarwar",SIGMOD Conference,21-11-18,SQuID: Semantic Similarity-Aware Query Intent Discovery.,2018
+2437837,"Mohammad Hossein Namaki,Xin Zhang,Yinghui Wu",SIGMOD Conference,21-11-18,GExp: Cost-aware Graph Exploration with Keywords.,2018
+2437853,"Brian Hentschel,Michael S. Kester,Stratos Idreos",SIGMOD Conference,21-11-18,Column Sketches: A Scan Accelerator for Rapid and Robust Predicate Evaluation.,2018
+2437854,"Olga Papaemmanouil,Ryan Marcus,Sofiya Semenova,Solomon Garber",SIGMOD Conference,21-11-18,"NashDB: An End-to-End Economic Method for Elastic Database Fragmentation, Replication, and Provisioning.",2018
+2437909,"Alexander van Renen,Alfons Kemper,Kazuichi Oe,Lilian Harada,Mitsuru Sato,Takushi Hashida,Thomas Neumann 0001,Viktor Leis,Yoshiyasu Doi",SIGMOD Conference,21-11-18,Managing Non-Volatile Memory in Database Systems.,2018
+2437914,"Barzan Mozafari,Dong Young Yoon,Mosharaf Chowdhury",SIGMOD Conference,21-11-18,Distributed Lock Management with RDMA: Decentralization without Starvation.,2018
+2437979,"Mohiuddin Abdul Qader,Shiwen Cheng,Vagelis Hristidis",SIGMOD Conference,21-11-18,A Comparative Study of Secondary Indexing Techniques in LSM-based NoSQL Databases.,2018
+2437991,"Braden Hancock,Christopher Ré,Luke Hsiao,Philip Levis,Sen Wu 0002,Theodoros Rekatsinas,Xiao Cheng",SIGMOD Conference,21-11-18,Fonduer: Knowledge Base Construction from Richly Formatted Data.,2018
+2438006,Gábor Szárnyas,SIGMOD Conference,21-11-18,Incremental View Maintenance for Property Graph Queries.,2018
+2438062,"Chen Li 0001,Lingfeng Deng,Wenhai Li,Yang Li",SIGMOD Conference,21-11-18,ZigZag: Supporting Similarity Queries on Vector Space Models.,2018
+2438096,Georgia Koutrika,SIGMOD Conference,21-11-18,Modern Recommender Systems: from Computing Matrices to Thinking with Neurons.,2018
+2438097,"Anshumali Shrivastava,Jonathan Wang,Junghee Ryu,Yiqiu Wang",SIGMOD Conference,21-11-18,Randomized Algorithms Accelerated over CPU-GPU for Ultra-High Dimensional Similarity Search.,2018
+2438109,"Babak Salimi,Dan Suciu,Johannes Gehrke",SIGMOD Conference,21-11-18,"Bias in OLAP Queries: Detection, Explanation, and Removal.",2018
+2438112,"Barzan Mozafari,Joseph Sorenson,Junhao Wang,Yongjoo Park",SIGMOD Conference,21-11-18,VerdictDB: Universalizing Approximate Query Processing.,2018
+2438146,"Sibo Wang 0001,Yufei Tao",SIGMOD Conference,21-11-18,Efficient Algorithms for Finding Approximate Heavy Hitters in Personalized PageRanks.,2018
+2438156,"Divesh Srivastava,Graham Cormode,Ninghui Li,Somesh Jha,Tejas Kulkarni,Tianhao Wang 0001",SIGMOD Conference,08-12-18,Privacy at Scale: Local Differential Privacy in Practice.,2018
+2438201,"Barna Saha,Divesh Srivastava,Donatella Firmani,Sainyam Galhotra",SIGMOD Conference,21-11-18,Robust Entity Resolution using Random Graphs.,2018
+2438213,"Ankur Sharma,Felix Martin Schuhknecht,Jens Dittrich",SIGMOD Conference,21-11-18,Accelerating Analytical Processing in MVCC using Fine-Granular High-Frequency Virtual Snapshotting.,2018
+2438232,"Aoying Zhou,Feifei Li 0001,Jinwei Guo,Weining Qian,Yanqing Peng",SIGMOD Conference,21-11-18,Persistent Bloom Filter: Membership Testing for the Entire History.,2018
+2438335,"Hwanjun Song,Jae-Gil Lee 0001",SIGMOD Conference,21-11-18,RP-DBSCAN: A Superfast Parallel DBSCAN Algorithm Based on Random Partitioning.,2018
+2438369,Yuxing Chen,SIGMOD Conference,21-11-18,Worst Case Optimal Joins on Relational and XML data.,2018
+2438393,"Grégory M. Essertel,Ruby Y. Tahboub,Tiark Rompf",SIGMOD Conference,21-11-18,"How to Architect a Query Compiler, Revisited.",2018
+2438401,"Aditya G. Parameswaran,Silu Huang,Yihan Gao",SIGMOD Conference,21-11-18,Navigating the Data Lake with DATAMARAN: Automatically Extracting Structure from Log Datasets.,2018
+2438404,"Yeye He,Zhipeng Huang 0001",SIGMOD Conference,21-11-18,Auto-Detect: Data-Driven Error Detection in Tables.,2018
+2438418,"AnHai Doan,Esteban Arcaute,Ganesh Krishnan,Han Li,Rohit Deep,Sidharth Mudgal,Theodoros Rekatsinas,Vijay Raghavendra,Youngchoon Park",SIGMOD Conference,21-11-18,Deep Learning for Entity Matching: A Design Space Exploration.,2018
+2438438,"Chao Tian,Ping Lu,Wenfei Fan,Xueli Liu",SIGMOD Conference,21-11-18,Catching Numeric Inconsistencies in Graphs.,2018
+2438439,"Eva Zangerle,Günther Specht,Martin Pichl,Robert Binna,Viktor Leis",SIGMOD Conference,21-11-18,HOT: A Height Optimized Trie Index for Main-Memory Database Systems.,2018
+2438481,"Jun Yang 0001,Sudeepa Roy,Xiaodan Zhu,Yuhao Wen",SIGMOD Conference,21-11-18,QAGView: Interactively Summarizing High-Valued Aggregate Query Answers.,2018
+2438487,"Anastasia Ailamaki,Cláudio T. Silva,Eleni Tzirita Zacharatou,Fábio Miranda,Harish Doraiswamy,Juliana Freire,Marcos Lage",SIGMOD Conference,21-11-18,Interactive Visual Exploration of Spatio-Temporal Urban Data Sets using Urbane.,2018
+2438664,"Junhao Gan,Yufei Tao",SIGMOD Conference,21-11-18,Fast Euclidean OPTICS with Bounded Precision in Low Dimensional Space.,2018
+2438687,"Chunming Hu,Ping Lu,Wenfei Fan,Xueli Liu",SIGMOD Conference,21-11-18,Discovering Graph Functional Dependencies.,2018
+2438708,"Eamonn J. Keogh,Michele Linardi,Themis Palpanas,Yan Zhu 0014",SIGMOD Conference,21-11-18,VALMOD: A Suite for Easy and Exact Detection of Variable Length Motifs in Data Series.,2018
+2438737,"Adam Dziedzic,Bolin Ding,Jingjing Wang,Manoj Syamala,Sudipto Das,Vivek R. Narasayya",SIGMOD Conference,21-11-18,Columnstore and B+ tree - Are Hybrid Physical Designs Important?,2018
+2438743,Mark Raasveldt,SIGMOD Conference,21-11-18,MonetDBLite: An Embedded Analytical Database.,2018
+2438772,"Feifei Li 0001,Ke Yi,Robert Christensen,Xiao Hu,Zhuoyue Zhao",SIGMOD Conference,21-11-18,Random Sampling over Joins Revisited.,2018
+2438815,"Ashish R. Mittal,Diptikalyan Saha,Jaydeep Sen,Karthik Sankaranarayanan",SIGMOD Conference,21-11-18,An Ontology based Dialog Interface to Database.,2018
+2438820,"Guoliang Li 0001,Zeyuan Shang,Zhifeng Bao",SIGMOD Conference,21-11-18,DITA: A Distributed In-Memory Trajectory Analytics System.,2018
+2438830,"Bin Cui 0001,Fangcheng Fu,Jiawei Jiang,Tong Yang 0003",SIGMOD Conference,21-11-18,SketchML: Accelerating Distributed Machine Learning with Data Sketches.,2018
+2438867,"Alexandre Verbitski,Anurag Gupta,Debanjan Saha,James Corey,Kamal Gupta,Murali Brahmadesam,Raman Mittal,Sailesh Krishnamurthy,Sandor Maurice,Tengiz Kharatishvili,Xiaofeng Bao",SIGMOD Conference,21-11-18,"Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes.",2018
+2438880,"Mirek Riedewald,Rundong Li,Xinyan Deng",SIGMOD Conference,21-11-18,Submodularity of Distributed Join Computation.,2018
+2439006,"Badrish Chandramouli,Donald Kossmann,Guna Prasaad,James Hunter,Justin J. Levandoski,Mike Barnett",SIGMOD Conference,21-11-18,FASTER: A Concurrent Key-Value Store with In-Place Updates.,2018
+2439017,Eric Brewer,SIGMOD Conference,21-11-18,Kubernetes and the New Cloud.,2018
+2439056,"Claudio Gutierrez,George H. L. Fletcher,Hannes Voigt,Juan F. Sequeda,Marcelo Arenas,Marcus Paradies,Oskar van Rest,Pablo Barceló,Peter A. Boncz,Renzo Angles,Stefan Plantikow,Tobias Lindaaker",SIGMOD Conference,21-11-18,G-CORE: A Core for Future Graph Query Languages.,2018

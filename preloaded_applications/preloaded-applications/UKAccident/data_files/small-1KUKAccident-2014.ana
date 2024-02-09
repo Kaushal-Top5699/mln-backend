@@ -1,0 +1,449 @@
+OUTPUT_DIRECTORY=$MLN_USR/UKAccident/analysis_results
+USERNAME=itlab
+
+IMPORT small-1KUKAccident-2014.gen
+
+################# difference_in_day_of_week #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=difference_in_day_of_week_louvain
+ANALYSIS_EXPRESSION=Louvain(difference_in_day_of_week)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_day_of_week layer
+ANALYSIS_NAME=difference_in_day_of_week_infomap
+ANALYSIS_EXPRESSION=Infomap(difference_in_day_of_week)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_day_of_week layer
+ANALYSIS_NAME=difference_in_day_of_week_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(difference_in_day_of_week)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_day_of_week layer
+ANALYSIS_NAME=difference_in_day_of_week_walktrap
+ANALYSIS_EXPRESSION=Walktrap(difference_in_day_of_week)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_day_of_week layer
+ANALYSIS_NAME=difference_in_day_of_week_multilevel
+ANALYSIS_EXPRESSION=Multilevel(difference_in_day_of_week)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_day_of_week layer
+ANALYSIS_NAME=difference_in_day_of_week_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(difference_in_day_of_week)
+END_ANALYSIS
+
+################# difference_in_no_of_casualties #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=difference_in_no_of_casualties_louvain
+ANALYSIS_EXPRESSION=Louvain(difference_in_no_of_casualties)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_no_of_casualties layer
+ANALYSIS_NAME=difference_in_no_of_casualties_infomap
+ANALYSIS_EXPRESSION=Infomap(difference_in_no_of_casualties)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_no_of_casualties layer
+ANALYSIS_NAME=difference_in_no_of_casualties_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(difference_in_no_of_casualties)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_no_of_casualties layer
+ANALYSIS_NAME=difference_in_no_of_casualties_walktrap
+ANALYSIS_EXPRESSION=Walktrap(difference_in_no_of_casualties)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_no_of_casualties layer
+ANALYSIS_NAME=difference_in_no_of_casualties_multilevel
+ANALYSIS_EXPRESSION=Multilevel(difference_in_no_of_casualties)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_no_of_casualties layer
+ANALYSIS_NAME=difference_in_no_of_casualties_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(difference_in_no_of_casualties)
+END_ANALYSIS
+
+################# difference_in_number_of_vehicles #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=difference_in_number_of_vehicles_louvain
+ANALYSIS_EXPRESSION=Louvain(difference_in_number_of_vehicles)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_number_of_vehicles layer
+ANALYSIS_NAME=difference_in_number_of_vehicles_infomap
+ANALYSIS_EXPRESSION=Infomap(difference_in_number_of_vehicles)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_number_of_vehicles layer
+ANALYSIS_NAME=difference_in_number_of_vehicles_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(difference_in_number_of_vehicles)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_number_of_vehicles layer
+ANALYSIS_NAME=difference_in_number_of_vehicles_walktrap
+ANALYSIS_EXPRESSION=Walktrap(difference_in_number_of_vehicles)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_number_of_vehicles layer
+ANALYSIS_NAME=difference_in_number_of_vehicles_multilevel
+ANALYSIS_EXPRESSION=Multilevel(difference_in_number_of_vehicles)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_number_of_vehicles layer
+ANALYSIS_NAME=difference_in_number_of_vehicles_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(difference_in_number_of_vehicles)
+END_ANALYSIS
+
+################# difference_in_road_type #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=difference_in_road_type_louvain
+ANALYSIS_EXPRESSION=Louvain(difference_in_road_type)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_road_type layer
+ANALYSIS_NAME=difference_in_road_type_infomap
+ANALYSIS_EXPRESSION=Infomap(difference_in_road_type)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_road_type layer
+ANALYSIS_NAME=difference_in_road_type_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(difference_in_road_type)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_road_type layer
+ANALYSIS_NAME=difference_in_road_type_walktrap
+ANALYSIS_EXPRESSION=Walktrap(difference_in_road_type)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_road_type layer
+ANALYSIS_NAME=difference_in_road_type_multilevel
+ANALYSIS_EXPRESSION=Multilevel(difference_in_road_type)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_road_type layer
+ANALYSIS_NAME=difference_in_road_type_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(difference_in_road_type)
+END_ANALYSIS
+
+################# difference_in_speed_limit #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=difference_in_speed_limit_louvain
+ANALYSIS_EXPRESSION=Louvain(difference_in_speed_limit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_speed_limit layer
+ANALYSIS_NAME=difference_in_speed_limit_infomap
+ANALYSIS_EXPRESSION=Infomap(difference_in_speed_limit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_speed_limit layer
+ANALYSIS_NAME=difference_in_speed_limit_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(difference_in_speed_limit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_speed_limit layer
+ANALYSIS_NAME=difference_in_speed_limit_walktrap
+ANALYSIS_EXPRESSION=Walktrap(difference_in_speed_limit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_speed_limit layer
+ANALYSIS_NAME=difference_in_speed_limit_multilevel
+ANALYSIS_EXPRESSION=Multilevel(difference_in_speed_limit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_in_speed_limit layer
+ANALYSIS_NAME=difference_in_speed_limit_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(difference_in_speed_limit)
+END_ANALYSIS
+
+################# difference_date_of_accident_occurance #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=difference_date_of_accident_occurance_louvain
+ANALYSIS_EXPRESSION=Louvain(difference_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_date_of_accident_occurance layer
+ANALYSIS_NAME=difference_date_of_accident_occurance_infomap
+ANALYSIS_EXPRESSION=Infomap(difference_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_date_of_accident_occurance layer
+ANALYSIS_NAME=difference_date_of_accident_occurance_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(difference_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_date_of_accident_occurance layer
+ANALYSIS_NAME=difference_date_of_accident_occurance_walktrap
+ANALYSIS_EXPRESSION=Walktrap(difference_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_date_of_accident_occurance layer
+ANALYSIS_NAME=difference_date_of_accident_occurance_multilevel
+ANALYSIS_EXPRESSION=Multilevel(difference_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_date_of_accident_occurance layer
+ANALYSIS_NAME=difference_date_of_accident_occurance_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(difference_date_of_accident_occurance)
+END_ANALYSIS
+
+################# difference_gap_between_accident_occurance_time #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=difference_gap_between_accident_occurance_time_louvain
+ANALYSIS_EXPRESSION=Louvain(difference_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=difference_gap_between_accident_occurance_time_infomap
+ANALYSIS_EXPRESSION=Infomap(difference_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=difference_gap_between_accident_occurance_time_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(difference_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=difference_gap_between_accident_occurance_time_walktrap
+ANALYSIS_EXPRESSION=Walktrap(difference_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=difference_gap_between_accident_occurance_time_multilevel
+ANALYSIS_EXPRESSION=Multilevel(difference_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the difference_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=difference_gap_between_accident_occurance_time_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(difference_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+################# distance_between_accidents #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=distance_between_accidents_louvain
+ANALYSIS_EXPRESSION=Louvain(distance_between_accidents)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the distance_between_accidents layer
+ANALYSIS_NAME=distance_between_accidents_infomap
+ANALYSIS_EXPRESSION=Infomap(distance_between_accidents)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the distance_between_accidents layer
+ANALYSIS_NAME=distance_between_accidents_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(distance_between_accidents)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the distance_between_accidents layer
+ANALYSIS_NAME=distance_between_accidents_walktrap
+ANALYSIS_EXPRESSION=Walktrap(distance_between_accidents)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the distance_between_accidents layer
+ANALYSIS_NAME=distance_between_accidents_multilevel
+ANALYSIS_EXPRESSION=Multilevel(distance_between_accidents)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the distance_between_accidents layer
+ANALYSIS_NAME=distance_between_accidents_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(distance_between_accidents)
+END_ANALYSIS
+
+################# same_date_of_accident_occurance #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=same_date_of_accident_occurance_louvain
+ANALYSIS_EXPRESSION=Louvain(same_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_date_of_accident_occurance layer
+ANALYSIS_NAME=same_date_of_accident_occurance_infomap
+ANALYSIS_EXPRESSION=Infomap(same_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_date_of_accident_occurance layer
+ANALYSIS_NAME=same_date_of_accident_occurance_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(same_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_date_of_accident_occurance layer
+ANALYSIS_NAME=same_date_of_accident_occurance_walktrap
+ANALYSIS_EXPRESSION=Walktrap(same_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_date_of_accident_occurance layer
+ANALYSIS_NAME=same_date_of_accident_occurance_multilevel
+ANALYSIS_EXPRESSION=Multilevel(same_date_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_date_of_accident_occurance layer
+ANALYSIS_NAME=same_date_of_accident_occurance_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(same_date_of_accident_occurance)
+END_ANALYSIS
+
+################# same_gap_between_accident_occurance_time #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=same_gap_between_accident_occurance_time_louvain
+ANALYSIS_EXPRESSION=Louvain(same_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=same_gap_between_accident_occurance_time_infomap
+ANALYSIS_EXPRESSION=Infomap(same_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=same_gap_between_accident_occurance_time_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(same_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=same_gap_between_accident_occurance_time_walktrap
+ANALYSIS_EXPRESSION=Walktrap(same_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=same_gap_between_accident_occurance_time_multilevel
+ANALYSIS_EXPRESSION=Multilevel(same_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_gap_between_accident_occurance_time layer
+ANALYSIS_NAME=same_gap_between_accident_occurance_time_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(same_gap_between_accident_occurance_time)
+END_ANALYSIS
+
+################# same_light_condition #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=same_light_condition_louvain
+ANALYSIS_EXPRESSION=Louvain(same_light_condition)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_light_condition layer
+ANALYSIS_NAME=same_light_condition_infomap
+ANALYSIS_EXPRESSION=Infomap(same_light_condition)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_light_condition layer
+ANALYSIS_NAME=same_light_condition_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(same_light_condition)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_light_condition layer
+ANALYSIS_NAME=same_light_condition_walktrap
+ANALYSIS_EXPRESSION=Walktrap(same_light_condition)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_light_condition layer
+ANALYSIS_NAME=same_light_condition_multilevel
+ANALYSIS_EXPRESSION=Multilevel(same_light_condition)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_light_condition layer
+ANALYSIS_NAME=same_light_condition_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(same_light_condition)
+END_ANALYSIS
+
+################# time_of_accident_occurance #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=time_of_accident_occurance_louvain
+ANALYSIS_EXPRESSION=Louvain(time_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the time_of_accident_occurance layer
+ANALYSIS_NAME=time_of_accident_occurance_infomap
+ANALYSIS_EXPRESSION=Infomap(time_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the time_of_accident_occurance layer
+ANALYSIS_NAME=time_of_accident_occurance_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(time_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the time_of_accident_occurance layer
+ANALYSIS_NAME=time_of_accident_occurance_walktrap
+ANALYSIS_EXPRESSION=Walktrap(time_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the time_of_accident_occurance layer
+ANALYSIS_NAME=time_of_accident_occurance_multilevel
+ANALYSIS_EXPRESSION=Multilevel(time_of_accident_occurance)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the time_of_accident_occurance layer
+ANALYSIS_NAME=time_of_accident_occurance_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(time_of_accident_occurance)
+END_ANALYSIS
+

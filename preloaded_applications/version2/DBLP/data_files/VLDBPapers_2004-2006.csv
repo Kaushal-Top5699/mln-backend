@@ -1,0 +1,428 @@
+id,author,conference,mdate,title,year
+2742555,"Mohamed F. Mokbel,Moustafa A. Hammad,Sunil Prabhakar,Susanne E. Hambrusch,Walid G. Aref,Xiaopeng Xiong",VLDB,17-09-12,PLACE: A Query Processor for Handling Real-time Spatio-temporal Data Streams.,2004
+2742556,"Paul Bird,Walid Rjaibi",VLDB,17-09-12,A Multi-Purpose Implementation of Mandatory Access Control in Relational Database Management Systems.,2004
+2742558,"Beng Chin Ooi,Chenyi Xia,Hongjun Lu,Jin Hu",VLDB,17-09-12,Gorder: An Efficient Method for KNN Join Processing.,2004
+2742582,Ramesh Bhashyam,VLDB,17-09-12,Technology Challenges in a Data Warehouse.,2004
+2742600,"Alan Halverson,Guy M. Lohman,Hamid Pirahesh,Mathias Mörschel,Vanja Josifovski",VLDB,17-09-12,ROX: Relational Over XML.,2004
+2742653,"Rakesh Agrawal 0001,Ramakrishnan Srikant",VLDB,07-11-17,Whither Data Mining?,2004
+2742665,"Charu C. Aggarwal,Jianyong Wang,Jiawei Han 0001,Philip S. Yu",VLDB,05-06-17,A Framework for Projected Clustering of High Dimensional Data Streams.,2004
+2742679,"Carlos A. Heuser,Susan B. Davidson,Vanessa P. Braganholo",VLDB,17-09-12,From XML View Updates to Relational View Updates: old solutions to a new problem.,2004
+2742681,"Dimitrios Gunopulos,Eamonn J. Keogh,Marc Cardle,Themis Palpanas,Victor B. Zordan",VLDB,17-09-12,Indexing Large Human-Motion Databases.,2004
+2742698,"Ganesh Ramesh,Laks V. S. Lakshmanan,Wendy Hui Wang,Zheng (Jessica) Zhao",VLDB,17-09-12,On Testing Satisfiability of Tree Pattern Queries.,2004
+2742720,"Glenn Simmons Iwerks,Hanan Samet,Kenneth P. Smith",VLDB,16-03-17,Maintenance of Spatial Semijoin Queries on Moving Points.,2004
+2742747,"Patrick Hunt,Raymie Stata,Thiruvalluvan M. G.",VLDB,17-09-12,The Bloomba Personal Content Database.,2004
+2742758,"Arnon Rosenthal,Marianne Winslett",VLDB,17-09-12,Security of Shared Data in Large Systems: State of the Art and Research Directions.,2004
+2742780,"Amr El Abbadi,Chengyu Sun,Divyakant Agrawal,Nagender Bandi",VLDB,17-09-12,Hardware Acceleration in Commercial Databases: A Case Study of Spatial Operations.,2004
+2742785,"Adam J. Storm,Christian Garcia-Arellano,Daniel C. Zilio,Guy M. Lohman,Jun Rao,Sam Lightstone,Scott Fadden",VLDB,17-09-12,DB2 Design Advisor: Integrated Automatic Physical Database Design.,2004
+2742789,"Boualem Benatallah,Fabio Casati,Halvard Skogsrud,Manh Q. Dinh",VLDB,17-09-12,Trust-Serv: A Lightweight Trust Negotiation Service.,2004
+2742801,"Andreas Neumann 0001,Eugene J. Shekita,Jason Y. Zien,Marcus Fontoura,Sridhar Rajagopalan",VLDB,13-07-16,High Performance Index Build Algorithms for Intranet Search Engines.,2004
+2742806,"Fang Du,Juliana Freire,Sihem Amer-Yahia",VLDB,17-09-12,ShreX: Managing XML Documents in Relational Databases.,2004
+2742808,"Chen Li 0001,Xiaochun Yang 0001",VLDB,11-12-17,Secure XML Publishing without Information Leakage in the Presence of Data Inference.,2004
+2742815,"Anurag Maskey,Arvind Arasu,David Maier 0001,Eduardo F. Galvez,Esther Ryvkina,Michael Stonebraker,Mitch Cherniack,Richard Tibbetts",VLDB,05-11-17,Linear Road: A Stream Data Management Benchmark.,2004
+2742853,"Chulyun Kim,Kyuseok Shim,Sudipto Guha",VLDB,17-09-12,XWAVE: Approximate Extended Wavelets for Streaming Data.,2004
+2742857,"Anastassia Ailamaki,Gregory R. Ganger,Jiri Schindler,Minglong Shao,Steven W. Schlosser",VLDB,17-09-12,Clotho: Decoupling memory page layout from storage organization.,2004
+2742878,"Amit P. Sheth,Boanerges Aleman-Meza,Christian Halaschek-Wiener,Ismailcem Budak Arpinar",VLDB,17-09-12,Discovering and Ranking Semantic Associations over a Large RDF Metabase.,2004
+2742879,"Gerhard Weikum,Martin Theobald,Ralf Schenkel",VLDB,17-09-12,Top-k Query Evaluation with Probabilistic Guarantees.,2004
+2742897,"Blaine French,Roger MacNicol",VLDB,17-09-12,Sybase IQ Multiplex - Designed For Analytics.,2004
+2742914,"Elke A. Rundensteiner,Hong Su,Murali Mani",VLDB,17-09-12,Semantic Query Optimization in an Automata-Algebra Combined XQuery Engine over XML Streams.,2004
+2742926,"Andrei Lopatenko,Enrico Franconi,Gabriel M. Kuper,Ilya Zaihrayeu",VLDB,17-09-12,Queries and Updates in the coDB Peer to Peer Database System.,2004
+2742938,"Beng Chin Ooi,Kian-Lee Tan,Nick Koudas,Rui Zhang 0003",VLDB,17-09-12,Approximate NN queries on Streams with Guaranteed Error/performance Bounds.,2004
+2742966,"Jeffrey Scott Vitter,Rahul Shah,Reynold Cheng,Sunil Prabhakar,Yuni Xia",VLDB,17-09-12,Efficient Indexing Methods for Probabilistic Threshold Queries over Uncertain Data.,2004
+2742970,"Gideon Schaller,Istvan Cseri,Leo Giakoumakis,Oliver Seeliger,Shankar Pal,Vasili Vasili Zolotov",VLDB,17-09-12,Indexing XML Data Stored in a Relational Database.,2004
+2743003,"Mariano P. Consens,Ricardo A. Baeza-Yates",VLDB,17-09-12,The Continued Saga of DB-IR Integration.,2004
+2743013,"Jens Teubner,Maurice van Keulen,Sabine Mayer,Torsten Grust",VLDB,17-09-12,An Injection of Tree Awareness: Adding Staircase Join to PostgreSQL.,2004
+2743030,"Jayant R. Haritsa,Parag Sarda",VLDB,17-09-12,Green Query Optimization: Taming Query Optimization Overheads through Plan Recycling.,2004
+2743041,Alon Y. Halevy,VLDB,17-09-12,"Structures, Semantics and Statistics.",2004
+2743077,"Arunprasad P. Marathe,Lubor Kollár,Manoj Syamala,Sanjay Agrawal,Surajit Chaudhuri,Vivek R. Narasayya",VLDB,17-09-12,Database Tuning Advisor for Microsoft SQL Server 2005.,2004
+2743079,"Michael J. Franklin,Sirish Chandrasekaran",VLDB,17-09-12,Remembrance of Streams Past: Overload-Sensitive Management of Archived Streams.,2004
+2743093,"Arvind Arasu,Jennifer Widom",VLDB,17-09-12,Resource Sharing in Continuous Sliding-Window Aggregates.,2004
+2743098,"Anand Manikutty,James W. Warner,Muralidhar Krishnaprasad,Susan Kotsovolos,Vikas Arora,Zhen Hua Liu",VLDB,17-09-12,Query Rewrite for XML in Oracle XML DB.,2004
+2743111,"Benoît Dageville,Dinesh Das,Karl Dias,Khaled Yagoub,Mohamed Zaït,Mohamed Ziauddin",VLDB,17-09-12,Automatic SQL Tuning in Oracle 10g.,2004
+2743116,"Andrey Balmin,Vagelis Hristidis,Yannis Papakonstantinou",VLDB,17-09-12,ObjectRank: Authority-Based Keyword Search in Databases.,2004
+2743120,"Mahathi S. Mahabhashyam,Pavan Kumar C. Singitham,Prabhakar Raghavan",VLDB,17-09-12,Efficiency-Quality Tradeoffs for Vector Score Aggregation.,2004
+2743122,"Alon Y. Halevy,Igor Tatarinov,Xin Dong 0001",VLDB,04-03-13,Containment of Nested XML Queries.,2004
+2743157,"Beng Chin Ooi,Christian S. Jensen,Dan Lin 0001",VLDB,14-11-17,Query and Update Efficient B+-Tree Based Indexing of Moving Objects.,2004
+2743196,"François Dang Ngoc,Luc Bouganim,Philippe Pucheral",VLDB,17-09-12,Client-Based Access Control Management for XML documents.,2004
+2743214,"Jignesh M. Patel,Richard A. Hankins,Sandeep Tata",VLDB,17-09-12,Practical Suffix Tree Construction.,2004
+2743229,"Hans-Peter Kriegel,Martin Ester,Matthias Schubert",VLDB,17-09-12,Accurate and Efficient Crawling for Relevant Websites.,2004
+2743236,"Daniel Kifer,Johannes Gehrke,Shai Ben-David",VLDB,17-09-12,Detecting Change in Data Streams.,2004
+2743285,"Amit Marathe,Divesh Srivastava,Nick Koudas",VLDB,17-09-12,Flexible String Matching Against Large Databases in Practice.,2004
+2743292,Joseph M. Hellerstein,VLDB,17-09-12,Architectures and Algorithms for Internet-Scale (P2P) Data Management.,2004
+2743324,"Keishi Tajima,Yoshiki Fukui",VLDB,17-09-12,Answering XPath Queries over Networks by Sending Minimal Views.,2004
+2743344,"Bill Howe,David Maier 0001",VLDB,05-11-17,Algebraic Manipulation of Scientific Datasets.,2004
+2743356,"Andreas Behm,Richard Swagerman,Serge Rielau",VLDB,17-09-12,Returning Modified Rows - SELECT Statements with Side Effects.,2004
+2743389,"Rim Moussa,Thomas J. E. Schwarz,Witold Litwin",VLDB,17-09-12,LH*RS: A Highly Available Distributed Data Storage.,2004
+2743412,"Carles Farré,Carlos Beltrán,David Gañán,Ernest Teniente,Toni Urpí",VLDB,17-09-12,SVT: Schema Validation Tool for Microsoft SQL-Server.,2004
+2743422,"Abhinandan Das,Minos N. Garofalakis,Rajeev Rastogi,Sumit Ganguly",VLDB,17-09-12,Distributed Set Expression Cardinality Estimation.,2004
+2743462,"Hector Garcia-Molina,Mayank Bawa,Prasanna Ganesan",VLDB,17-09-12,Online Balancing of Range-Partitioned Data with Applications to Peer-to-Peer Systems.,2004
+2743500,"Dilys Thomas,Gagan Aggarwal,Hector Garcia-Molina,Jennifer Widom,Krishnaram Kenthapadi,Mayank Bawa,Nina Mishra,Prasanna Ganesan,Rajeev Motwani,Utkarsh Srivastava,Ying Xu 0002",VLDB,17-09-12,Vision Paper: Enabling Privacy for the Paranoids.,2004
+2743526,David Campbell,VLDB,17-09-12,Production Database Systems: Making Them Easy is Hard Work.,2004
+2743533,"Ted Sharpe,Toby Bloom",VLDB,17-09-12,Managing Data from High-Throughput Genomic Processing: A Case Study.,2004
+2743552,"Anthony K. H. Tung,Beng Chin Ooi,Gao Cong,Kian-Lee Tan,Xin Xu",VLDB,17-09-12,Semantic Mining and Analysis of Gene Expression Data.,2004
+2743584,"Ashraf Aboulnaga,Ihab F. Ilyas,Paul G. Brown,Peter J. Haas,Volker Markl",VLDB,17-09-12,CORDS: Automatic Generation of Correlation Statistics in DB2.,2004
+2743594,William O'Connell,VLDB,17-09-12,Trends in Data Warehousing: A Practitioner's View.,2004
+2743600,"Ashraf Aboulnaga,Guy M. Lohman,Ivan Popivanov,Peter J. Haas,Sam Lightstone,Vijayshankar Raman,Volker Markl",VLDB,17-09-12,Automated Statistics Collection in DB2 UDB.,2004
+2743611,"Dan Suciu,Nilesh N. Dalvi",VLDB,17-09-12,Efficient Query Evaluation on Probabilistic Databases.,2004
+2743622,"Amit Marathe,Divesh Srivastava,Nick Koudas,Sudipto Guha",VLDB,17-09-12,Merging the Results of Approximate Match Operations.,2004
+2743633,"Andreas Thor,Erhard Rahm",VLDB,17-09-12,AWESOME - A Data Warehouse-based System for Adaptive Website Recommendations.,2004
+2743717,"Frederick H. Lochovsky,Ji-Rong Wen,Jiying Wang,Wei-Ying Ma",VLDB,17-09-12,Instance-based Schema Matching for Web Databases by Domain-specific Query Probing.,2004
+2743789,"David E. Simmen,Guy M. Lohman,Hamid Pirahesh,Vijayshankar Raman,Volker Markl",VLDB,17-09-12,Progressive Optimization in Action.,2004
+2743821,"Julia Stoyanovich,Kenneth A. Ross",VLDB,17-09-12,Symmetric Relations and Cardinality-Bounded Multisets in Database Systems.,2004
+2743823,"Bijit Hore,Gene Tsudik,Sharad Mehrotra",VLDB,17-09-12,A Privacy-Preserving Index for Range Queries.,2004
+2743842,"Haifeng Jiang,Hongjun Lu,Jeffrey Xu Yu,Wei Wang 0011",VLDB,17-09-12,Bloom Histogram: Path Selectivity Estimation for XML Data with Updates.,2004
+2743875,"Andrew Witkowski,Ramesh Bhashyam,Surajit Chaudhuri,William O'Connell",VLDB,17-09-12,Where is Business Intelligence taking today's Database Systems?,2004
+2743930,"Bernhard Stegmaier,Christoph Koch 0001,Nicole Schweikardt,Stefanie Scherzinger",VLDB,03-03-16,Schema-based Scheduling of Event Processors and Buffer Minimization for Queries on Structured Data Streams.,2004
+2743931,"Anastassia Ailamaki,Stavros Harizopoulos",VLDB,17-09-12,STEPS towards Cache-resident Transaction Processing.,2004
+2743944,"Evan W. Steeg,H. V. Jagadish,Mike Tyers,Susan B. Davidson,Thodoros Topaloglou,Victor M. Markowitz",VLDB,17-09-12,"Biological Data Management: Research, Practice and Opportunities.",2004
+2743950,"Bhuvan Bamba,Sougata Mukherjea",VLDB,17-09-12,BioPatentMiner: An Information Retrieval System for BioMedical Patents.,2004
+2743972,"Garrett Jacobson,Joseph M. Hellerstein,Michael J. Franklin,Sailesh Krishnamurthy",VLDB,17-09-12,The Case for Precision Sharing.,2004
+2744032,"Amol Deshpande,Joseph M. Hellerstein",VLDB,17-09-12,Lifting the Burden of History from Adaptive Query Processing.,2004
+2744068,"Carlo Zaniolo,Haixun Wang,Yan-Nei Law",VLDB,17-09-12,Query Languages and Data Models for Database Sequences and Data Streams.,2004
+2744070,"Deepavali Bhagwat,Gaurav Vijayvargiya,Laura Chiticariu,Wang Chiew Tan",VLDB,17-09-12,An Annotation Management System for Relational Databases.,2004
+2744073,"Hector Garcia-Molina,Jan O. Pedersen,Zoltán Gyöngyi",VLDB,17-09-12,Combating Web Spam with TrustRank.,2004
+2744085,"Albert A. Rizzo,Bahareh Navai,Cyrus Shahabi,Farid Parvini,Mehdi Sharifzadeh",VLDB,17-09-12,AIDA: an Adaptive Immersive Data Analyzer.,2004
+2744104,"Ulrich Güntzer,Wolf-Tilo Balke",VLDB,17-09-12,Multi-objective Query Processing for Database Systems.,2004
+2744123,"Arek Kasprzyk,Byron Choi,Wenfei Fan,Xibei Jia",VLDB,17-09-12,A Uniform System for Publishing and Maintaining XML Data.,2004
+2744136,"Chee Yong Chan,Wenfei Fan,Yiming Zeng",VLDB,17-09-12,Taming XPath Queries by Minimizing Wildcard Steps.,2004
+2744149,"Jeffrey F. Naughton,Raghav Kaushik,Rajasekar Krishnamurthy",VLDB,17-09-12,Efficient XML-to-SQL Query Translation: Where to Add the Intelligence?,2004
+2744196,"Alin Deutsch,Yannis Papakonstantinou,Yu Xu",VLDB,17-09-12,The NEXT Logical Framework for XQuery.,2004
+2744208,"Andrey Balmin,Fatma Özcan,Hamid Pirahesh,Kevin S. Beyer,Roberta Cochrane",VLDB,17-09-12,A Framework for Using Materialized XPath Views in XML Query Processing.,2004
+2744230,"Christof Bornhövd,Joachim Schaper,Stephan Haller,Tao Lin",VLDB,17-09-12,Integrating Automatic Data Acquisition with Business Processes - Experiences with SAP's Auto-ID Infrastructure.,2004
+2744237,Wei Fan 0001,VLDB,12-06-18,StreamMiner: A Classifier Ensemble-based Engine to Mine Concept-drifting Data Streams.,2004
+2744251,"Arie Shoshani,Ekow J. Otoo,Kesheng Wu",VLDB,17-09-12,On the performance of bitmap indices for high cardinality attributes.,2004
+2744280,"Ari Mozes,Wei Li",VLDB,17-09-12,Computing Frequent Itemsets Inside Oracle 10G.,2004
+2744308,"Henrike Berthold,Sven Schmidt,Wolfgang Lehner",VLDB,17-09-12,QStream: Deterministic Querying of Data Streams.,2004
+2744309,"Agnieszka Rutkowska,Boualem Benatallah,Bryan Harianto,Christophe Rey,Farouk Toumani,Hye-Young Paik,Karim Baïna",VLDB,17-09-12,"WS-CatalogNet: An Infrastructure for Creating, Peering, and Querying e-Catalog Communities.",2004
+2744329,"Jens Teubner,Sherif Sakr,Torsten Grust",VLDB,17-09-12,XQuery on SQL Hosts.,2004
+2744331,"Cemil Alper,Ediz Saykol,Mehmet Emin Dönderler,Ugur Güdükbay,Özgür Ulusoy",VLDB,17-09-12,BilVideo Video Database Management System.,2004
+2744333,"Sanjay E. Sarma,Sridhar Ramachandran,Sudarshan S. Chawathe,Venkat Krishnamurthy",VLDB,08-04-16,Managing RFID Data.,2004
+2744387,"Anil Edakkunni,Eugene Wu 0002,Frederick Reiss,Michael J. Franklin,Owen Cooper,Sailesh Krishnamurthy,Shariq Rizvi,Shawn R. Jeffery,Wei Hong 0001",VLDB,19-10-17,HiFi: A Unified Architecture for High Fan-in Systems.,2004
+2744388,David Yach,VLDB,17-09-12,Databases in a Wireless World.,2004
+2744405,"Christian Zimmer 0001,Gerhard Weikum,Jens Graupmann,Martin Theobald,Matthias Bender 0001,Michael Biwer,Patrick Zimmer",VLDB,16-07-18,"COMPASS: A Concept-based Web Search Engine for HTML, XML, and Deep Web Data.",2004
+2744421,"Bernhard Stegmaier,Christoph Koch 0001,Nicole Schweikardt,Stefanie Scherzinger",VLDB,03-03-16,FluXQuery: An Optimizing XQuery Processor for Streaming XML Data.,2004
+2744444,"Guido Moerkotte,Thomas Neumann 0001",VLDB,19-12-12,A Combined Framework for Grouping and Order Optimization.,2004
+2744446,Anastassia Ailamaki,VLDB,17-09-12,Database Architecture for New Hardware.,2004
+2744449,"Eugene Inseok Chong,George Eadon,Jagannathan Srinivasan,Souripriya Das",VLDB,17-09-12,Supporting Ontology-Based Semantic matching in RDBMS.,2004
+2744478,"Hai H. Wang,Ji Zhang,Meng Lou,Tok Wang Ling",VLDB,17-09-12,HOS-Miner: A System for Detecting Outlying Subspaces of High-dimensional Data.,2004
+2744485,Goetz Graefe,VLDB,17-09-12,Write-Optimized B-Trees.,2004
+2744538,"Evimaria Terzi,Floris Geerts,Heikki Mannila",VLDB,17-09-12,Relational link-based ranking.,2004
+2744559,"Jennifer Widom,Utkarsh Srivastava",VLDB,17-09-12,Memory-Limited Execution of Windowed Stream Joins.,2004
+2744611,"Benoît Dageville,Guy M. Lohman,Surajit Chaudhuri",VLDB,17-09-12,Self-Managing Technology in Database Management Systems.,2004
+2744629,"Donna M. Nystrom,Eamonn J. Keogh,Jeffrey P. Lankford,Jessica Lin 0001,Stefano Lonardi",VLDB,17-09-12,VizTree: a Tool for Visually Mining and Monitoring Massive Time Series Databases.,2004
+2744641,"John M. Stephens,Meikel Poess",VLDB,17-09-12,Generating Thousand Benchmark Queries in Seconds.,2004
+2744661,"Christopher Olston,Kedar Dhamdhere,Sandeep Pandey",VLDB,17-09-12,WIC: A General-Purpose Algorithm for Monitoring Web Information Sources.,2004
+2744723,"Dimitris Papadias,Xiang Lian,Yufei Tao",VLDB,17-09-12,Reverse kNN Search in Arbitrary Dimensionality.,2004
+2744738,"Bishwaranjan Bhattacharjee,Sam Lightstone",VLDB,08-04-16,Automated design of multidimensional clustering tables for relational databases.,2004
+2744791,"Michael J. Franklin,Shariq Rizvi,Yanlei Diao",VLDB,17-09-12,Towards an Internet-Scale XML Dissemination Service.,2004
+2744808,"Aidong Zhang,Daxin Jiang,Jian Pei",VLDB,17-09-12,GPX: Interactive Mining of Gene Expression Data.,2004
+2744823,"Chinya V. Ravishankar,Shanzhong Zhu",VLDB,17-09-12,"Stochastic Consistency, and Scalable Pull-Based Caching for Erratic Data Sources.",2004
+2744868,"Aditya Phatak,Mushtaq Ahmed,Rakesh Nagarajan",VLDB,17-09-12,Database Challenges in the Integration of Biomedical Data Sets.,2004
+2744898,"Bradford Pielech,Elke A. Rundensteiner,Luping Ding,Nishant K. Mehta,Timothy M. Sutherland,Yali Zhu",VLDB,22-02-13,CAPE: Continuous Query Engine with Heterogeneous-Grained Adaptivity.,2004
+2744915,"Catriel Beeri,Eliyahu Safra,Yaron Kanza,Yehoshua Sagiv",VLDB,17-09-12,Object Fusion in Geographic Information Systems.,2004
+2744923,"Haifeng Liu,Hans-Arno Jacobsen",VLDB,17-09-12,A-ToPSS: A Publish/Subscribe System Supporting Imperfect Information Processing.,2004
+2744929,"Christian S. Collberg,Richard T. Snodgrass,Shilong (Stanley) Yao",VLDB,17-09-12,Tamper Detection in Audit Logs.,2004
+2744939,"Alon Y. Halevy,Ema Nemes,Jayant Madhavan,Jun Zhang,Xin Dong 0001",VLDB,04-03-13,Simlarity Search for Web Services.,2004
+2745026,"Cong Yu 0001,H. V. Jagadish,Yunyao Li 0001",VLDB,29-06-18,Schema-Free XQuery.,2004
+2745032,"Boon Thau Loo,Ion Stoica,Joseph M. Hellerstein,Ryan Huebsch,Scott Shenker",VLDB,17-09-12,Enhancing P2P File-Sharing with an Internet-Scale Query Processor.,2004
+2745044,"Hans-Arno Jacobsen,Zhengdao Xu",VLDB,17-09-12,Efficient Constraint Processing for Highly Personalized Location Based Services.,2004
+2745083,"Aoying Zhou,Hongjun Lu,Jeffrey Xu Yu,Zhihong Chong",VLDB,17-09-12,False Positive or False Negative: Mining Frequent Itemsets from High Speed Transactional Data Streams.,2004
+2745111,"Niels Nes,Peter A. Boncz,Stefan Manegold",VLDB,17-09-12,Cache-Conscious Radix-Decluster Projections.,2004
+2745122,"Hector Gonzalez,Jiawei Han 0001,Xiaolei Li",VLDB,05-06-17,High-Dimensional OLAP: A Minimal Cubing Approach.,2004
+2745129,"David S. Johnson,Jatin Chhugani,Shankar Krishnan,Subodh Kumar,Suresh Venkatasubramanian",VLDB,17-09-12,Compressing Large Boolean Matrices using Reordering Techniques.,2004
+2745173,"Gautam Das 0001,Gerhard Weikum,Surajit Chaudhuri,Vagelis Hristidis",VLDB,22-05-18,Probabilistic Ranking of Database Query Results.,2004
+2745199,"Conor Cunningham,César A. Galindo-Legaria,Goetz Graefe",VLDB,17-09-12,PIVOT and UNPIVOT: Optimization and Execution Strategies in an RDBMS.,2004
+2745205,"David J. DeWitt,Yuan Wang",VLDB,17-09-12,Computing PageRank in a Distributed Internet Search Engine System.,2004
+2745210,"Christos Faloutsos,Jerry Kiernan,Rakesh Agrawal 0001,Ralf Rantzau,Ramakrishnan Srikant,Roberto J. Bayardo Jr.",VLDB,07-11-17,Auditing Compliance with a Hippocratic Database.,2004
+2745214,"Cyrus Shahabi,Mohammad R. Kolahdouzan",VLDB,17-09-12,Voronoi-Based K Nearest Neighbor Search for Spatial Network Databases.,2004
+2745218,"Nick Roussopoulos,Yannis Sismanis",VLDB,17-09-12,The Complexity of Fully Materialized Coalesced Cubes.,2004
+2745223,"Lei Chen 0002,Raymond T. Ng",VLDB,17-09-12,On The Marriage of Lp-norms and Edit Distance.,2004
+2745230,"Daniel J. Abadi,Jörg Schuler,Samuel Madden,Wolfgang Lindner 0001",VLDB,05-08-18,An Integration Framework for Sensor Networks and Data Stream Management Systems.,2004
+2745247,"Holger Schwarz,Tobias Kraft",VLDB,17-09-12,CHICAGO: A Test and Evaluation Environment for Coarse-Grained Optimization.,2004
+2745272,"Anastasios Kementsietsidis,Marcelo Arenas",VLDB,17-09-12,Data Sharing Through Query Translation in Autonomous Sources.,2004
+2745277,"Jungchul Woo,Kyuseok Shim,Sudipto Guha",VLDB,17-09-12,REHIST: Relative Error Histogram Construction Algorithms.,2004
+2745301,"David T. Liu,Michael J. Franklin",VLDB,17-09-12,The Design of GridDB: A Data-Centric Overlay for the Scientific Grid.,2004
+2745312,"Mikhail J. Atallah,Radu Sion,Sunil Prabhakar",VLDB,17-09-12,Resilient Rights Protection for Sensor Streams.,2004
+2745316,"David J. DeWitt,Kristen LeFevre,Raghu Ramakrishnan,Rakesh Agrawal 0001,Vuk Ercegovac,Yirong Xu",VLDB,07-11-17,Limiting Disclosure in Hippocratic Databases.,2004
+2745337,"Amol Deshpande,Carlos Guestrin,Joseph M. Hellerstein,Samuel Madden,Wei Hong 0001",VLDB,19-10-17,Model-Driven Data Acquisition in Sensor Networks.,2004
+2745349,"Changbin Song,Sang Kyun Cha",VLDB,17-09-12,P*TIME: Highly Scalable OLTP DBMS for Managing Update-Intensive Stream Workload.,2004
+2745350,"Ugur Çetintemel,Yanif Ahmad",VLDB,17-09-12,Networked Query Processing for Distributed Stream-Based Applications.,2004
+2745375,"Alberto O. Mendelzon,Alejandro A. Vaisman,Flavio Rizzolo",VLDB,17-09-12,Indexing Temporal XML Documents.,2004
+2745380,"Giansalvatore Mecca,Paolo Merialdo,Paolo Missier,Valter Crescenzi",VLDB,17-09-12,An Automatic Data Grabber for Large Web Sites.,2004
+2742545,"Can Türker,Fuat Akal,Hans-Jörg Schek,Lourens Veen,Torsten Grabs,Yuri Breitbart",VLDB,20-02-18,Fine-Grained Replication and Scheduling with Freshness and Correctness Guarantees.,2005
+2742549,"Bee-Chung Chen,Lei Chen 0003,Raghu Ramakrishnan,Yi Lin",VLDB,20-02-18,Prediction Cubes.,2005
+2742552,"Hrishikesh Karambelkar,Rushi Desai,S. Sudarshan 0001,Shashank Pandit,Soumen Chakrabarti,Varun Kacholia",VLDB,20-02-18,Bidirectional Expansion For Keyword Search on Graph Databases.,2005
+2742554,"Ankit Garg,Lee-Ming Zen,Michael Kassoff,Michael R. Genesereth",VLDB,20-02-18,PrediCalc: A Logical Spreadsheet Management System.,2005
+2742565,"Graham Cormode,Irina Rozenbaum,S. Muthukrishnan",VLDB,20-02-18,Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling.,2005
+2742569,Charu C. Aggarwal,VLDB,20-02-18,On k-Anonymity and the Curse of Dimensionality.,2005
+2742574,"Andreas Heuer 0001,Christian S. Jensen,David J. DeWitt,Holger Meyer 0001,Jennifer Widom,Kyu-Young Whang,M. Tamer Özsu,Philip A. Bernstein,Richard T. Snodgrass,Zachary G. Ives",VLDB,20-02-18,Database Publication Practices.,2005
+2742606,"Jeffrey Scott Vitter,Lipyeow Lim,Min Wang 0001",VLDB,22-02-18,CXHist : An On-line Classification-Based Histogram for XML String Selectivity Estimation.,2005
+2742607,"Daniela Berardi,Diego Calvanese,Giuseppe De Giacomo,Massimo Mecella,Richard Hull 0001",VLDB,20-02-18,Automatic Composition of Transition-based Semantic Web Services with Messaging.,2005
+2742638,"Amarnath Gupta,Li Chen,M. Erdem Kurul",VLDB,20-02-18,Stack-based Algorithms for Pattern Matching on DAGs.,2005
+2742652,"Johann Gamper,Michael H. Böhlen,Nikolaus Augsten",VLDB,20-02-18,Approximate Matching of Hierarchical Data Using pq-Grams.,2005
+2742675,"Anastassia Ailamaki,Christopher B. Colohan,J. Gregory Steffan,Todd C. Mowry",VLDB,20-02-18,Optimistic Intra-Transaction Parallelism on Chip Multiprocessors.,2005
+2742682,"Bhushan Mandhani,Dan Suciu",VLDB,20-02-18,Query Caching and View Selection for XML Databases.,2005
+2742683,"David J. DeWitt,Raghu Ramakrishnan,Vuk Ercegovac",VLDB,20-02-18,The TEXTURE Benchmark: Measuring Performance of Text Queries on a Relational DBMS.,2005
+2742725,"Chen Li 0001,Liang Jin",VLDB,20-02-18,Selectivity Estimation for Fuzzy String Predicates in Large Data Sets.,2005
+2742732,"Sebastian Schär,Sven Schmidt,Thomas Legler,Wolfgang Lehner",VLDB,20-02-18,Robust Real-time Query Processing with QStream.,2005
+2742745,"Andrew Tomkins,D. Sivakumar,Jasmine Novak,Phokion G. Kolaitis,Ravi Kumar 0001,Ronald Fagin",VLDB,20-02-18,Efficient Implementation of Large-Scale Multi-Structural Databases.,2005
+2742760,"George Kollios,Marios Hadjieleftheriou,Petko Bakalov,Vassilis J. Tsotras",VLDB,20-02-18,Complex Spatio-Temporal Pattern Queries.,2005
+2742762,"Chao Yao,Sushil Jajodia,Xiaoyang Sean Wang",VLDB,20-02-18,Checking for k-Anonymity Violation by Views.,2005
+2742765,"Ernest Szeto,Frank Korzeniewski,Krishna Palaniappan,Natalia Ivanova,Nikos Kyrpides,Victor M. Markowitz",VLDB,20-02-18,The Integrated Microbial Genomes (IMG) System: A Case Study in Biological Data Management.,2005
+2742775,"Jonas Oreland,Mikael Ronström",VLDB,20-02-18,Recovery Principles in MySQL Cluster 5.1.,2005
+2742870,"Andreas Meier 0001,Martin Albrecht,Miltiadis Sarakinos,Nicolas Werro",VLDB,20-02-18,Using a Fuzzy Classification Query Language for Customer Relationship Management.,2005
+2742874,"Abhinav Gupta,Andrew Witkowski,Lei Sheng,Nathan Folkert,Sankar Subramanian,Shrikanth Shankar,Srikanth Bellamkonda,Tolga Bozkaya",VLDB,20-02-18,Optimizing Refresh of a Set of Materialized Views.,2005
+2742891,"Dan Suciu,Nilesh N. Dalvi",VLDB,20-02-18,Answering Queries from Statistics and Probabilistic Views.,2005
+2742895,"Bongki Moon,Joonho Kwon,Praveen Rao,Sukho Lee",VLDB,20-02-18,FiST: Scalable XML Document Filtering by Sequencing Twig Patterns.,2005
+2742923,"Christian Kleinerman,César A. Galindo-Legaria,Florian Waas,Torsten Grabs",VLDB,20-02-18,Database Change Notifications: Primitives for Efficient Database Query Result Caching.,2005
+2742930,"Jae-Gil Lee 0001,Kyu-Young Whang,Min-Jae Lee,Min-Soo Kim 0002",VLDB,20-02-18,n-Gram/2L: A Space and Time Efficient Two-Level n-Gram Inverted Index Structure.,2005
+2742957,"Amol Ghoting,Anthony D. Nguyen,Daehyun Kim,Gregory Buehrer,Pradeep Dubey,Srinivasan Parthasarathy 0001,Yen-Kuang Chen",VLDB,20-02-18,Cache-conscious Frequent Pattern Mining on a Modern Processor.,2005
+2742999,"AnHai Doan,Bedoor K. AlShebli,Hoa Nguyen,Long H. Vu,Quoc Le,Robert McCann",VLDB,20-02-18,Mapping Maintenance for Data Integration Systems.,2005
+2743067,"Clement T. Yu,Hai He,Weiyi Meng,Zonghuan Wu",VLDB,20-02-18,WISE-Integrator: A System for Extracting and Integrating Complex Web Search Interfaces of the Deep Web.,2005
+2743076,"Fusheng Wang,Peiya Liu",VLDB,20-02-18,Temporal Management of RFID Data.,2005
+2743085,"Chengkai Li,Ihab F. Ilyas,Kevin Chen-Chuan Chang,Mohamed A. Soliman",VLDB,20-02-18,RankSQL: Supporting Ranking Queries in Relational Database Management Systems.,2005
+2743110,"Graham Cormode,Minos N. Garofalakis",VLDB,20-02-18,Sketching Streams Through the Net: Distributed Approximate Query Tracking.,2005
+2743139,"Jingren Zhou,Per-Åke Larson",VLDB,20-02-18,View Matching for Outer-Join Views.,2005
+2743152,"Ariel Fuxman,Diego Fuxman,Renée J. Miller",VLDB,20-02-18,ConQuer: A System for Efficient Querying Over Inconsistent Databases.,2005
+2743165,"Bin Liu 0005,Elke A. Rundensteiner",VLDB,20-02-18,Revisiting Pipelined Parallelism in Multi-Join Query Processing.,2005
+2743221,"Georgia Koutrika,Yannis E. Ioannidis",VLDB,20-02-18,Personalized Systems: Models and Methods from an IR and DB Perspective.,2005
+2743226,"Hongfei Guo,Per-Åke Larson,Raghu Ramakrishnan",VLDB,20-02-18,"Caching with 'Good Enough' Currency, Consistency, and Completeness.",2005
+2743230,"Wanhong Xu,Z. Meral Özsoyoglu",VLDB,20-02-18,Rewriting XPath Queries Using Materialized Views.,2005
+2743244,"Reynold Cheng,Sarvjeet Singh,Sunil Prabhakar",VLDB,20-02-18,U-DBMS: A Database System for Managing Constantly-Evolving Data.,2005
+2743274,"Marcel Kutsch,Nimrod Megiddo,Peter J. Haas,Tam Minh Tran,Utkarsh Srivastava,Volker Markl",VLDB,20-02-18,Consistently Estimating the Selectivity of Conjuncts of Predicates.,2005
+2743323,"Alan Fekete,Dean Kuo,Paul Greenfield,Surya Nepal",VLDB,20-02-18,Consistency for Web Services Applications.,2005
+2743337,"Chun Zhang,Guy M. Lohman,Ning Zhang 0002,Peter J. Haas,Vanja Josifovski",VLDB,20-02-18,Statistical Learning Techniques for Costing XML Queries.,2005
+2743346,"Jagannathan Srinivasan,Seema Sundara,Timothy Chorma,Ying Hu",VLDB,20-02-18,Supporting RFID-based Item Tracking Applications in Oracle DBMS Using a Bitmap Datatype.,2005
+2743378,"Mirella Moura Moro,Vassilis J. Tsotras,Zografoula Vagena",VLDB,20-02-18,Tree-Pattern Queries on a Lightweight XML Processor.,2005
+2743399,"Donghui Zhang,Evangelos Kanoulas,Tian Xia,Yang Du",VLDB,20-02-18,On Computing Top-t Most Influential Spatial Sites.,2005
+2743444,"Daniel J. Abadi,Samuel Madden,Wolfgang Lindner 0001",VLDB,05-08-18,"REED: Robust, Efficient Filtering and Event Detection in Sensor Networks.",2005
+2743445,"Anwitaman Datta,Karl Aberer,Manfred Hauswirth,Roman Schmidt",VLDB,20-02-18,Indexing Data-oriented Overlay Networks.,2005
+2743448,"Avigdor Gal,Louiqa Raschid,Qiang Ye,Vladimir Zadorozhny",VLDB,20-02-18,AReNA: Adaptive Distributed Catalog Infrastructure Based On Relevance Networks.,2005
+2743461,"Peter Mork,Philip A. Bernstein,Sergey Melnik 0001",VLDB,20-02-18,Interactive Schema Translation with Instance-Level Mappings.,2005
+2743477,Aleksander Øhrn,VLDB,20-02-18,Contextual Insight in Search: Enabling Technologies and Applications.,2005
+2743478,"Alexander Bilke,Christoph Böhm 0001,Felix Naumann,Jens Bleiholder,Karsten Draba,Melanie Weis",VLDB,20-02-18,Automatic Data Fusion with HumMer.,2005
+2743486,"Christoffer Hall,Philippe Bonnet",VLDB,20-02-18,Getting Priorities Straight: Improving Linux Support for Database I/O.,2005
+2743521,"Donald Kossmann,Eric Lo,Florian Haftmann",VLDB,20-02-18,Parallel Execution of Test Runs for Database Application Systems.,2005
+2743565,"Jarek Gryz,Parke Godfrey,Ryan Shipley",VLDB,20-02-18,Maximal Vector Computation in Large Data Sets.,2005
+2743591,"Cong Yu 0001,Lucian Popa 0001",VLDB,20-02-18,Semantic Adaptation of Schema Mappings when Schemas Evolve.,2005
+2743608,"Christian Zimmer 0001,Gerhard Weikum,Matthias Bender 0001,Peter Triantafillou,Sebastian Michel 0001",VLDB,16-07-18,MINERVA: Collaborative P2P Search.,2005
+2743612,"H. V. Jagadish,Stelios Paparizos",VLDB,20-02-18,Pattern Tree Algebras: Sets or Sequences?,2005
+2743615,"Angel Janevski,Julia Stoyanovich,Kenneth A. Ross",VLDB,20-02-18,A Faceted Query Engine Applied to Archaeology.,2005
+2743639,"Anat Eyal,Catriel Beeri,Simon Kamenkovich,Tova Milo",VLDB,20-02-18,Querying Business Processes with BP-QL.,2005
+2743671,"Haifeng Jiang,Hongjun Lu,Hongzhi Wang,Jianzhong Li,Wei Wang 0011,Xuemin Lin",VLDB,20-02-18,Efficient Processing of XML Path Queries Using the Disk-based F&B Index.,2005
+2743694,"Anastassia Ailamaki,Phillip B. Gibbons,Shimin Chen,Todd C. Mowry",VLDB,20-02-18,Inspector Joins.,2005
+2743725,"Beng Chin Ooi,H. V. Jagadish,Quang Hieu Vu",VLDB,20-02-18,BATON: A Balanced Tree Structure for Peer-to-Peer Networks.,2005
+2743779,"Divesh Srivastava,Nick Koudas,SungRan Cho",VLDB,20-02-18,MIX: A Meta-data Indexing System for XML.,2005
+2743784,Bjørn Olstad,VLDB,20-02-18,Why Search Engines are Used Increasingly to Offload Queries from Databases.,2005
+2743785,"Abhijit Pol,Alin Dobra,Chris Jermaine,Shantanu Joshi 0001",VLDB,20-02-18,Online Estimation For Subset-Based SQL Queries.,2005
+2743799,Sudipto Guha,VLDB,20-02-18,Space Efficiency in Synopsis Construction Algorithms.,2005
+2743801,"Anna Maddalena,Barbara Catania,Maurizio Mazza",VLDB,20-02-18,PSYCHO: A Prototype System for Pattern Management.,2005
+2743828,"Boriana L. Milenova,Joseph Yarmus,Marcos M. Campos",VLDB,20-02-18,SVM in Oracle Database 10g: Removing the Barriers to Widespread Adoption of Support Vector Machines.,2005
+2743891,"Alfons Kemper,Angelika Reiser,Bernhard Stegmaier,Richard Kuntschke",VLDB,20-02-18,StreamGlobe: Processing and Sharing Data Streams in Grid-Based P2P Infrastructures.,2005
+2743900,"Nicolas Bruno,Surajit Chaudhuri",VLDB,20-02-18,Flexible Database Generators.,2005
+2743913,"Dong Xin,Hong Cheng,Jiawei Han 0001,Xifeng Yan",VLDB,20-02-18,Mining Compressed Frequent-Pattern Sets.,2005
+2743934,"David Konopnicki,Oded Shmueli",VLDB,20-02-18,Database-Inspired Search.,2005
+2743945,"Eugene Inseok Chong,George Eadon,Jagannathan Srinivasan,Souripriya Das",VLDB,20-02-18,An Efficient SQL-based RDF Querying Scheme.,2005
+2743989,"Carola Wenk,Dieter Pfoser,Randall Salas,Sotiris Brakatsoulas",VLDB,20-02-18,On Map-Matching Vehicle Tracking Data.,2005
+2743990,"Anthony K. H. Tung,Chen Li 0001,Liang Jin,Nick Koudas",VLDB,20-02-18,Indexing Mixed Types for Approximate Retrieval.,2005
+2744008,"Abdelsalam Helal,Ahmed K. Elmagarmid,Ibrahim Kamel,Mohamed F. Mokbel,Mohamed H. Ali,Raja Bose,Walid G. Aref",VLDB,20-02-18,NILE-PDT: A Phenomenon Detection and Tracking Framework for Data Stream Management Systems.,2005
+2744140,"Alan Kwan,Ben Kao,Reynold Cheng,Sunil Prabhakar,Yi-Cheng Tu",VLDB,20-02-18,Adaptive Stream Filters for Entity-based Queries with Non-Value Tolerance.,2005
+2744141,"Bert Van der Linden,Matthias Nicola",VLDB,20-02-18,Native XML Support in DB2 Universal Database.,2005
+2744153,"Ahmed Metwally 0001,Amr El Abbadi,Divyakant Agrawal",VLDB,24-08-18,Using Association Rules for Fraud Detection in Web Advertising Networks.,2005
+2744189,"Elke A. Rundensteiner,Hong Su,Murali Mani",VLDB,20-02-18,Semantic Query Optimization for XQuery over XML Streams.,2005
+2744195,"Meikel Poess,Raghunath Othayoth Nambiar",VLDB,20-02-18,Large Scale Data Warehouses on Grid: Oracle Database 10g and HP ProLiant Systems.,2005
+2744198,"Alberto O. Mendelzon,Denilson Barbosa,Juliana Freire",VLDB,20-02-18,Designing Information-Preserving Mapping Schemes for XML.,2005
+2744209,"Jayant R. Haritsa,Naveen Reddy",VLDB,20-02-18,Analyzing Plan Diagrams of Database Query Optimizers.,2005
+2744220,"Michael Flaster,P. P. S. Narayan,Philip Bohannon,Wenfei Fan",VLDB,20-02-18,Information Preserving XML Schema Embedding.,2005
+2744248,"Bin He 0001,Kevin Chen-Chuan Chang,Zhen Zhang 0001",VLDB,20-02-18,Light-weight Domain-based Form Assistant: Querying Web Databases On the Fly.,2005
+2744252,"Gerhard Weikum,Jens Graupmann,Ralf Schenkel",VLDB,20-02-18,The SphereSearch Engine for Unified Ranked Retrieval of Heterogeneous XML and Web Documents.,2005
+2744256,"Nan Zhang 0004,Wei Zhao 0001",VLDB,20-02-18,Distributed Privacy Preserving Information Sharing.,2005
+2744326,"Jeffrey Xu Yu,Qing Liu 0001,Qing Zhang 0001,Wei Wang 0011,Xuemin Lin,Yidong Yuan",VLDB,09-07-18,Efficient Computation of the Skyline Cube.,2005
+2744335,"Inderpal Narang,Vijayshankar Raman,Vishal S. Batra,Wei Han,Wen-Syan Li",VLDB,20-02-18,QoS-based Data Access and Placement for Federated Information Systems.,2005
+2744411,"Gabriel Pui Cheong Fung,Hongjun Lu,Jeffrey Xu Yu,Philip S. Yu",VLDB,20-02-18,Parameter Free Bursty Events Detection in Text Streams.,2005
+2744475,"Subbarao Kambhampati,Ullas Nambiar",VLDB,20-02-18,Answering Imprecise Queries over Web Databases.,2005
+2744492,"Christopher Olston,Junghoo Cho,Sandeep Pandey,Soumen Chakrabarti,Sourashis Roy",VLDB,20-02-18,Shuffling a Stacked Deck: The Case for Partially Randomized Ranking of Search Engine Results.,2005
+2744496,"Jian Pei,Martin Ester,Wen Jin,Yufei Tao",VLDB,20-02-18,Catching the Best Views of Skyline: A Semantic Approach Based on Decisive Subspaces.,2005
+2744503,"Bin Liu 0005,Bradley Momberger,Elke A. Rundensteiner,Mariana Jbantova,Yali Zhu",VLDB,20-02-18,A Dynamically Adaptive Distributed System for Processing Complex Continuous Queries.,2005
+2744509,"Haifeng Liu,Hans-Arno Jacobsen,Milenko Petrovic",VLDB,20-02-18,CMS-ToPSS: Efficient Dissemination of RSS Documents.,2005
+2744513,"Andrei Arion,Ioana Manolescu,Ravi Vijay,Véronique Benzaken",VLDB,20-02-18,ULoad: Choosing the Right Storage for Your XML Application.,2005
+2744548,"Guillaume Raschia,Noureddine Mouaddib,Régis Saint-Paul",VLDB,20-02-18,General Purpose Database Summarization.,2005
+2744566,"Gerhard Weikum,Peter Triantafillou,Sebastian Michel 0001",VLDB,16-07-18,KLEE: A Framework for Distributed Top-k Query Algorithms.,2005
+2744570,"Anastasios Kementsietsidis,Iluju Kiringa,John Mylopoulos,Lei Jiang 0002,Maddalena Garzetti,Mehedi Masud,Patricia Rodríguez-Gianolli,Renée J. Miller",VLDB,20-02-18,Data Sharing in the Hyperion Peer Database System.,2005
+2744591,"Nikos Mamoulis,Panagiotis Karras",VLDB,20-02-18,One-Pass Wavelet Synopses for Maximum-Error Metrics.,2005
+2744594,"Christos Faloutsos,Jimeng Sun,Spiros Papadimitriou",VLDB,20-02-18,Streaming Pattern Discovery in Multiple Time-Series.,2005
+2744608,"Jan Rittinger,Jens Teubner,Maurice van Keulen,Peter A. Boncz,Stefan Manegold,Torsten Grust",VLDB,20-02-18,Pathfinder: XQuery - The Relational Way.,2005
+2744619,"Karl Aberer,Philippe Cudré-Mauroux",VLDB,20-02-18,Semantic Overlay Networks.,2005
+2744648,Radu Sion,VLDB,20-02-18,Query Execution Assurance for Outsourced Databases.,2005
+2744684,"Hui-I Hsiao,Joshua Hui,Kevin S. Beyer,Ning Li",VLDB,20-02-18,Hubble: An Advanced Dynamic Folder Technology for XML.,2005
+2744703,"AnHai Doan,Arnon Rosenthal,Mayssam Sayyadian,Yoonkyong Lee",VLDB,20-02-18,Tuning Schema Matching Software using Synthetic Scenarios.,2005
+2744716,"Allison Waingold,Aman Naimat,Andrew Witkowski,Lei Sheng,Sankar Subramanian,Srikanth Bellamkonda,Tolga Bozkaya",VLDB,20-02-18,Query By Excel.,2005
+2744720,"Hector Garcia-Molina,Zoltán Gyöngyi",VLDB,20-02-18,Link Spam Alliances.,2005
+2744762,"Hongjun Lu,Jeffrey Xu Yu,Jianhua Lu,Rajeev Rastogi,Wenfei Fan",VLDB,20-02-18,Query Translation from XPath to SQL in the Presence of Recursive DTDs.,2005
+2744763,"Donald Kossmann,Jens-Peter Dittrich,Lukas Blunschi,Marcos Antonio Vaz Salles",VLDB,20-02-18,iMeMex: Escapes from the Personal Information Jungle.,2005
+2744773,"Ben Kao,Reynold Cheng,Sunil Prabhakar,Wang Kay Ngai,Xiaokui Xiao,Yufei Tao",VLDB,20-02-18,Indexing Multi-Dimensional Uncertain Data with Arbitrary Probability Density Functions.,2005
+2744775,"Ada Wai-Chee Fu,Chotirat (Ann) Ratanamahatana,Eamonn J. Keogh,Leo Yung Hang Lau",VLDB,20-02-18,Scaling and Time Warping in Time Series Querying.,2005
+2744848,"Chinya V. Ravishankar,Krithi Ramamritham,Shetal Shah",VLDB,20-02-18,Client Assignment in Content Dissemination Networks for Dynamic Data.,2005
+2744864,"Amélie Marian,David Toman,Divesh Srivastava,Nick Koudas,Sihem Amer-Yahia",VLDB,20-02-18,Structure and Content Scoring for XML.,2005
+2744871,"Angela Bonifati,Elaine Qing Chang,Laks V. S. Lakshmanan,Rachel Pottinger,Terence Ho",VLDB,20-02-18,HePToX: Marrying XML and Heterogeneity in Your P2P Databases.,2005
+2744883,"Jayavel Shanmugasundaram,Sihem Amer-Yahia",VLDB,20-02-18,XML Full-Text Search: Challenges and Opportunities.,2005
+2744901,"Laks V. S. Lakshmanan,Raymond T. Ng,Shaofeng Bu",VLDB,20-02-18,MDL Summarization with Holes.,2005
+2744914,"Alexander Kreutz,Donald Kossmann,Jens-Peter Dittrich",VLDB,20-02-18,Bridging the Gap between OLAP and SQL.,2005
+2744969,"Irini Fundulaki,Laks V. S. Lakshmanan,Prateek Jain 0003,Sihem Amer-Yahia",VLDB,20-02-18,Personalizing XML Text Search in PimenT.,2005
+2745021,"James Elding,Jörg Sander 0001,Mario A. Nascimento,Slobodan Rasetic",VLDB,05-08-18,A Trajectory Splitting Model for Efficient Spatio-Temporal Indexing.,2005
+2745058,"Douglas Burdick,Prasad Deshpande,Raghu Ramakrishnan,Shivakumar Vaithyanathan,T. S. Jayram",VLDB,20-02-18,OLAP Over Uncertain and Imprecise Data.,2005
+2745067,Ramon Lawrence,VLDB,20-02-18,Early Hash Join: A Configurable Algorithm for the Efficient and Early Production of Join Results.,2005
+2745071,"David J. DeWitt,Jennifer Widom,Pedro Bizarro,Shivnath Babu",VLDB,20-02-18,Content-Based Routing: Different Plans for Different Data.,2005
+2745103,"Alberto O. Mendelzon,Attila Barta,Mariano P. Consens",VLDB,20-02-18,Benefits of Path Summaries in an XML Query Optimizer Supporting Multiple Access Methods.,2005
+2745118,"Andrew Tomkins,David Gibson,Ravi Kumar 0001",VLDB,20-02-18,Discovering Large Dense Subgraphs in Massive Graphs.,2005
+2745126,"Kyuseok Shim,Sudipto Guha",VLDB,20-02-18,Offline and Data Stream Algorithms for Efficient Computation of Synopsis Structures.,2005
+2745133,"Inderpal Narang,Vijayshankar Raman,Wei Han",VLDB,20-02-18,Parallel Querying with Non-Dedicated Computers.,2005
+2745152,"Milena Ivanova,Tore Risch",VLDB,20-02-18,Customizable Parallel Execution of Scientific Stream Queries.,2005
+2745167,"Adam Batkin,Alex Rasin,Amerson Lin,Daniel J. Abadi,Edmond Lau,Elizabeth J. O'Neil,Michael Stonebraker,Miguel Ferreira,Mitch Cherniack,Nga Tran,Patrick E. O'Neil,Samuel Madden,Stanley B. Zdonik,Xuedong Chen",VLDB,20-02-18,C-Store: A Column-oriented DBMS.,2005
+2745174,"Divesh Srivastava,Nick Koudas",VLDB,20-02-18,Approximate Joins: Concepts and Techniques.,2005
+2745190,"Oliver Spatscheck,S. Muthukrishnan,Theodore Johnson,Vladislav Shkapenyuk",VLDB,20-02-18,A Heartbeat Mechanism and Its Application in Gigascope.,2005
+2745219,"Adrian Baras,Brandon Berg,Denis Churin,Dragan Tomic,Eugene Kogan,Gideon Schaller,Istvan Cseri,Michael Rys,Oliver Seeliger,Shankar Pal,Wei Yu",VLDB,20-02-18,XQuery Implementation in a Relational Database System.,2005
+2745245,"Dhruv Mangla,HweeHwa Pang,Kian-Lee Tan,Xuan Zhou 0001",VLDB,20-02-18,WmXML: A System for Watermarking XML Data.,2005
+2745250,"Chin-Wan Chung,Hyung-Ju Cho",VLDB,20-02-18,An Efficient and Scalable Approach to CNN Queries in a Road Network.,2005
+2745261,"Haixun Wang,Philip S. Yu,Yun Chi",VLDB,20-02-18,Loadstar: Load Shedding in Data Stream Mining.,2005
+2745280,"Jingren Zhou,John Cieslewicz,Kenneth A. Ross,Mihir Shah",VLDB,20-02-18,Improving Database Performance on Simultaneous Multithreading Processors.,2005
+2745303,"H. S. Ramanujam,Ravindra Guravannavar,S. Sudarshan 0001",VLDB,20-02-18,Optimizing Nested Queries with Parameter Sort Orders.,2005
+2745308,"Gagan Agrawal,Xiaogang Li 0001",VLDB,20-02-18,Efficient Evaluation of XQuery over Streaming Data.,2005
+2745344,"Jost Enderle,Nicole Schneider,Thomas Seidl 0001",VLDB,20-02-18,Efficiently Processing Queries on Interval-and-Value Tuples in Relational Databases.,2005
+2745347,"Gerhard Weikum,Martin Theobald,Ralf Schenkel",VLDB,20-02-18,An Efficient and Versatile Query Engine for TopX Search.,2005
+2745383,"Chee Yong Chan,Jiaheng Lu,Ting Chen,Tok Wang Ling",VLDB,20-02-18,From Region Encoding To Extended Dewey: On Efficient Processing of XML Twig Pattern Matching.,2005
+2742551,"Cyrus Shahabi,Mehdi Sharifzadeh",VLDB,30-04-15,The Spatial Skyline Queries.,2006
+2742645,"Jiawei Han 0001,Philip S. Yu,Xiaoxin Yin",VLDB,05-06-17,LinkClus: Efficient Clustering via Heterogeneous Semantic Links.,2006
+2742671,"Alan Nash,Philip A. Bernstein,Sergey Melnik 0001,Todd J. Green",VLDB,23-12-17,Implementing Mapping Composition.,2006
+2742716,"Donghui Zhang,Tian Xia,Yang Du,Yufei Tao",VLDB,30-04-15,Progressive Computation of the Min-Dist Optimal-Location Query.,2006
+2742719,"Junhyong Kim,Sheng Guo,Shirley Cohen,Stephen Fisher,Susan B. Davidson,Yifeng Zheng",VLDB,30-04-15,Crimson: A Data Management System to Support Evaluating Phylogenetic Tree Reconstruction Algorithms.,2006
+2742733,Vishal Sikka,VLDB,30-04-15,Next Generation Data Management in Enterprise Application Platforms.,2006
+2742787,"Frederick Reiss,Joseph M. Hellerstein,Minos N. Garofalakis",VLDB,30-04-15,Compact Histograms for Hierarchical Identifiers.,2006
+2742790,"Hector Gonzalez,Jiawei Han 0001,Xiaolei Li",VLDB,05-06-17,FlowCube: Constructuing RFID FlowCubes for Multi-Dimensional Analysis of Commodity Flows.,2006
+2742797,"Alexandros Labrinidis,Kirk Pruhs,Mohamed A. Sharaf,Panos K. Chrysanthis",VLDB,30-04-15,Efficient Scheduling of Heterogeneous Continuous Queries.,2006
+2742803,"Ariel Fuxman,C. T. Howard Ho,Lucian Popa 0001,Mauricio A. Hernández,Paolo Papotti,Renée J. Miller",VLDB,25-12-17,Nested Mappings: Schema Mapping Reloaded.,2006
+2742807,"Alon Y. Halevy,Anand Rajaraman,Joann J. Ordille",VLDB,30-04-15,Data Integration: The Teenage Years.,2006
+2742821,"Frank Neven,Geert Jan Bex,Karl Tuyls,Thomas Schwentick",VLDB,30-04-15,Inference of Concise DTDs from XML Data.,2006
+2742828,"Rahul Gupta,Sunita Sarawagi",VLDB,30-04-15,Creating Probabilistic Databases from Information Extraction Models.,2006
+2742852,"Holger Kache,Stephan Ewen,Vijayshankar Raman,Volker Markl,Wook-Shin Han",VLDB,30-04-15,POP/FED: Progressive Query Optimization for Federated Queries in DB2.,2006
+2742856,"Kenneth Salem,Khuzaima Daudjee",VLDB,30-04-15,Lazy Database Replication with Snapshot Isolation.,2006
+2742900,"Dirk Habich,Sebastian Richly,Wolfgang Lehner",VLDB,30-04-15,GignoMDA - Exploiting Cross-Layer Optimization for Complex Database Applications.,2006
+2742902,"Gerhard Weikum,German Shegalov",VLDB,30-04-15,EOS,2006
+2742908,"Guido Moerkotte,Thomas Neumann 0001",VLDB,30-04-15,Analysis of Two Existing and One New Dynamic Programming Algorithm for the Generation of Optimal Bushy Join Trees without Cross Products.,2006
+2742910,"Hetal Thakkar,Jun Rao,Latha S. Colby,Sangeeta Doraiswamy",VLDB,30-04-15,A Deferred Cleansing Method for RFID Data Analytics.,2006
+2743004,"Hector Garcia-Molina,Jan O. Pedersen,Pavel Berkhin,Zoltán Gyöngyi",VLDB,30-04-15,Link Spam Detection Based on Mass Estimation.,2006
+2743023,"Gerhard Weikum,Surajit Chaudhuri",VLDB,30-04-15,Foundations of Automated Database Tuning.,2006
+2743038,"Laura Chiticariu,Wang Chiew Tan",VLDB,30-04-15,Debugging Schema Mappings with Routes.,2006
+2743042,"Marianne Winslett,Soumyadeb Mitra,Windsor W. Hsu",VLDB,30-04-15,Trustworthy Keyword Search for Regulatory-Compliant Record Retention.,2006
+2743048,"Amarnath Gupta,Li Chen,Lisa Fong,Maryann E. Martone,Mona Wong-Barnum",VLDB,30-04-15,OntoQuest: Exploring Ontological Data Made Easy.,2006
+2743083,Anant Jhingran,VLDB,30-04-15,"Enterprise Information Mashups: Integrating Information, Simply.",2006
+2743088,"Bolin Ding,Jeffrey Xu Yu,Jun Zhang,Lu Qin,Shan Wang,Sheng Wang,Zhaohui Peng",VLDB,30-04-15,NUITS: A Novel User Interface for Efficient Keyword Search over Databases.,2006
+2743099,"Jutta A. Mülle,Klemens Böhm,Nicolas Roper,Tobias Sunder",VLDB,30-04-15,Building Conference Proceedings Requires Adaptable Workflow and Content Management.,2006
+2743140,"C. Mohan 0001,Honesty C. Young,Meichun Hsu,P. Anandan,Rajeev Rastogi,Sang Kyun Cha,Vishal Sikka",VLDB,14-12-16,Globalization: Challenges to Database Community.,2006
+2743151,"Andrew Ross,Thomas Legler,Wolfgang Lehner",VLDB,30-04-15,Data Mining with the SAP Netweaver BI Accelerator.,2006
+2743188,"Biswanath Panda,Johannes Gehrke,L. Paul Chew,Mirek Riedewald,Stephen B. Pope",VLDB,30-04-15,Indexing for Function Approximation.,2006
+2743203,"Drew Ditto,Elke A. Rundensteiner,Hong Su,Ming Li 0008,Mingzhu Wei,Murali Mani,Shoushen Yang,Song Wang 0001",VLDB,21-03-18,R-SOX: Runtime Semantic Query Optimization over XML Streams.,2006
+2743225,"Ali Bahrami,Anne Hunt,Changzhou Wang,Jun Yuan,Marie O. Murray",VLDB,30-04-15,A Semantic Information Integration Tool Suite.,2006
+2743269,"Anish Das Sarma,Chris Hayworth,Jennifer Widom,Omar Benjelloun,Parag Agrawal,Shubha U. Nabar,Tomoe Sugihara",VLDB,30-04-15,"Trio: A System for Data, Uncertainty, and Lineage.",2006
+2743278,"Daniel J. Abadi,Samuel Madden,Stavros Harizopoulos,Velen Liang",VLDB,30-04-15,Performance Tradeoffs in Read-Optimized Databases.,2006
+2743297,"Agma J. M. Traina,Caetano Traina Jr.,Humberto Luiz Razente,Maria Camila Nardini Barioni",VLDB,30-04-15,SIREN: A Similarity Retrieval Engine for Complex Data.,2006
+2743320,"Hai Yu,Jun Yang 0001,Junyi Xie,Pankaj K. Agarwal",VLDB,30-04-15,Scalable Continuous Query Processing by Tracking Hotspots.,2006
+2743341,"Dimitrios Gunopulos,Dimitris Tsirogiannis,Gautam Das 0001,Nick Koudas",VLDB,17-05-18,Answering Top-k Queries Using Views.,2006
+2743352,"Divyakant Agrawal,Jun'ichi Tatemura,K. Selçuk Candan,Songting Chen,Wang-Pin Hsiung",VLDB,30-04-15,AFilter: Adaptable XML Filtering with Prefix-Caching and Suffix-Clustering.,2006
+2743366,"Jeong-Hyon Hwang,Stanley B. Zdonik,Ugur Çetintemel,Ying Xing",VLDB,30-04-15,Providing Resiliency to Load Variations in Distributed Stream Processing.,2006
+2743394,"Meikel Poess,Raghunath Othayoth Nambiar",VLDB,30-04-15,The Making of TPC-DS.,2006
+2743410,"Anastassia Ailamaki,Dinesh Manocha,Naga K. Govindaraju,Stavros Harizopoulos",VLDB,30-04-15,Query Co-Processing on Commodity Processors.,2006
+2743452,"Bin Yao,Song Liu,Sunil Prabhakar,Yi-Cheng Tu",VLDB,30-04-15,Load Shedding in Stream Databases: A Control-Based Approach.,2006
+2743499,"Himanshu Gupta,Mukesh K. Mohania,Prasan Roy,Venkatesan T. Chakaravarthy",VLDB,30-04-15,Efficiently Linking Text Documents with Relevant Structured Information.,2006
+2743506,"Jeffrey S. Chase,Piyush Shivam,Shivnath Babu",VLDB,30-04-15,Active and Accelerated Learning of Cost Models for Optimizing Scientific Applications.,2006
+2743515,"Debapriyo Majumdar,Gerhard Weikum,H. Bast,Martin Theobald,Ralf Schenkel",VLDB,30-04-15,IO-Top-k: Index-access Optimized Top-k Query Processing.,2006
+2743536,"Douglas Burdick,Prasad M. Deshpande,Raghu Ramakrishnan,Shivakumar Vaithyanathan,T. S. Jayram",VLDB,30-04-15,Efficient Allocation Algorithms for OLAP Over Imprecise Data.,2006
+2743537,"Elke A. Rundensteiner,Samrat Ganguly,Song Wang 0001,Sudeept Bhatnagar",VLDB,21-03-18,State-Slice: New Paradigm of Multi-query Optimization of Window-based Stream Queries.,2006
+2743539,"Laks V. S. Lakshmanan,Wendy Hui Wang,Zheng (Jessica) Zhao",VLDB,30-04-15,Answering Tree Pattern Queries Using Views.,2006
+2743556,"Bogdan Alexe,Laura Chiticariu,Wang Chiew Tan",VLDB,30-04-15,SPIDER: a Schema mapPIng DEbuggeR.,2006
+2743559,"Agma J. M. Traina,Christos Faloutsos,Hanghang Tong,José Fernando Rodrigues Jr.,Jure Leskovec",VLDB,30-04-15,"GMine: A System for Scalable, Interactive Graph Visualization and Mining.",2006
+2743577,"Dimitrios Gunopulos,Dimitris Papadopoulos,Sharmila Subramaniam,Themis Palpanas,Vana Kalogeraki",VLDB,30-04-15,Online Outlier Detection in Sensor Data Using Non-Parametric Models.,2006
+2743589,"Andrea Calì,Michael Kifer",VLDB,30-04-15,Containment of Conjunctive Object Meta-Queries.,2006
+2743635,"Anastasios Kementsietsidis,Floris Geerts,Wenfei Fan,Xibei Jia",VLDB,30-04-15,SMOQE: A System for Providing Secure Access to XML.,2006
+2743738,"Berthold Reinwald,Paul Brown,Peter J. Haas,Yannis Sismanis",VLDB,30-04-15,GORDIAN: Efficient and Scalable Discovery of Composite Keys.,2006
+2743773,"Chun Chen,Gang Chen 0001,Jinxiang Dong,Lidan Shou,Xiaoyan Li",VLDB,30-04-15,HISA: A Query System Bridging The Semantic Gap For Large Image Databases.,2006
+2743775,"Eamonn J. Keogh,Li Wei 0001,Michail Vlachos,Sang-Hee Lee,Xiaopeng Xi",VLDB,14-11-17,LB_Keogh Supports Exact Indexing of Shapes under Rotation Invariance with Arbitrary Representations and Distance Measures.,2006
+2743776,"Edmond Lau,Samuel Madden",VLDB,30-04-15,"An Integrated Approach to Recovery and High Availability in an Updatable, Distributed Data Warehouse.",2006
+2743794,"Garret Swart,Vijayshankar Raman",VLDB,30-04-15,How to Wring a Table Dry: Entropy Compression of Relations and Querying of Compressed Relations.,2006
+2743805,"Nicolas Bruno,Surajit Chaudhuri",VLDB,30-04-15,To Tune or not to Tune? A Lightweight Physical Design Alerter.,2006
+2743822,"Antony I. T. Rowstron,Austin Donnelly,Dushyanth Narayanan,Richard Mortier",VLDB,30-04-15,Delay Aware Querying with Seaweed.,2006
+2743825,"Carl-Christian Kanne,Guido Moerkotte",VLDB,30-04-15,A Linear Time Algorithm for Optimal Tree Sibling Partitioning and Approximation Algorithms in Natix.,2006
+2743888,"Benny Kimelfeld,Itzhak Fadida,Sara Cohen,Yaron Kanza,Yehoshua Sagiv",VLDB,30-04-15,Full Disjunctions: Polynomial-Delay Iterators in Action.,2006
+2743895,Gang Luo,VLDB,30-04-15,Efficient Detection of Empty-Result Queries.,2006
+2743904,"Amr El Abbadi,Arsany Sawires,Divyakant Agrawal,Jun'ichi Tatemura,K. Selçuk Candan,Oliver Po",VLDB,30-04-15,Maintaining XPath Views In Loosely Coupled Systems.,2006
+2744005,Sujeet Pradhan,VLDB,30-04-15,An Algebraic Query Model for Effective and Efficient Retrieval of XML Fragments.,2006
+2744038,"Arsalan Tavakoli,David Chu,Joseph M. Hellerstein,Lucian Popa 0002",VLDB,30-04-15,Entirely Declarative Sensor Network Systems.,2006
+2744049,"Jennifer Widom,Kamesh Munagala,Rajeev Motwani,Utkarsh Srivastava",VLDB,30-04-15,Query Optimization over Web Services.,2006
+2744051,"Dimitris Papadias,Kyriakos Mouratidis,Man Lung Yiu,Nikos Mamoulis",VLDB,30-04-15,Continuous Nearest Neighbor Monitoring in Road Networks.,2006
+2744056,"Ali Saman Tosun,Guadalupe Canahuate,Hakan Ferhatosmanoglu,Tan Apaydin",VLDB,30-04-15,Approximate Encoding for Direct Access and Query Processing over Compressed Bitmaps.,2006
+2744081,"Cong Yu 0001,H. V. Jagadish",VLDB,23-04-17,Efficient Discovery of XML Data Redundancies.,2006
+2744091,"Alon Y. Halevy,Anish Das Sarma,Jennifer Widom,Omar Benjelloun",VLDB,30-04-15,ULDBs: Databases with Uncertainty and Lineage.,2006
+2744119,"Chen Chen 0005,Dong Xin,Jiawei Han 0001",VLDB,05-06-17,Towards Robust Indexing for Ranked Queries.,2006
+2744163,"Christos Faloutsos,Evan Hoke,Jimeng Sun",VLDB,30-04-15,InteMon: Intelligent System Monitoring on Large Clusters.,2006
+2744164,"Chia-Hsin Huang,Hahn-Ming Lee,James J. Lu,Tyng-Ruey Chuang",VLDB,30-04-15,XML Evolution: A Two-phase XML Processing Model Using XML Prefiltering Techniques.,2006
+2744233,"Nesime Tatbul,Stanley B. Zdonik",VLDB,30-04-15,Window-Aware Load Shedding for Aggregation Queries over Data Streams.,2006
+2744240,Charu C. Aggarwal,VLDB,30-04-15,On Biased Reservoir Sampling in the Presence of Stream Evolution.,2006
+2744275,"Andrej Taliun,Arturas Mazeika,Michael H. Böhlen",VLDB,30-04-15,Adaptive Density Estimation.,2006
+2744314,"Johann Gamper,Michael H. Böhlen,Nikolaus Augsten",VLDB,30-04-15,An Incrementally Maintainable Index for Approximate Lookups in Hierarchical Data.,2006
+2744317,"Emmanuel D. Pontikakis,Joshua Spiegel,Neoklis Polyzotis,Suratna Budalakoti",VLDB,30-04-15,AQAX: A System for Approximate XML Query Answers.,2006
+2744327,"John E. Churchill,Philip A. Bernstein,Sergey Melnik 0001",VLDB,23-12-17,Incremental Schema Matching.,2006
+2744347,"Debora Donato,Gerhard Weikum,Josiane Xavier Parreira,Sebastian Michel 0001",VLDB,16-07-18,Efficient and Decentralized PageRank Approximation in a Peer-to-Peer Web Search Network.,2006
+2744356,"Elke A. Rundensteiner,Ling Wang 0002,Ming Jiang 0003,Murali Mani",VLDB,14-06-18,HUX: Handling Updates in XML.,2006
+2744378,"Arvind Arasu,Raghav Kaushik,Venkatesh Ganti",VLDB,30-04-15,Efficient Exact Set-Similarity Joins.,2006
+2744390,"Anat Eyal,Catriel Beeri,Simon Kamenkovich,Tova Milo",VLDB,30-04-15,Querying Business Processes.,2006
+2744393,"Bhaskara Marthi,Krishnaram Kenthapadi,Nina Mishra,Rajeev Motwani,Shubha U. Nabar",VLDB,30-04-15,Towards Robustness in Query Auditing.,2006
+2744407,"Konstantinos Morfonios,Yannis E. Ioannidis",VLDB,30-04-15,CURE for Cubes: Cubing Using a ROLAP Engine.,2006
+2744417,"Jens-Peter Dittrich,Marcos Antonio Vaz Salles",VLDB,30-04-15,iDM: A Unified and Versatile Data Model for Personal Dataspace Management.,2006
+2744479,"Enrico Zimuel,Loredana Afanasiev,Maarten Marx,Massimo Franceschet",VLDB,30-04-15,XCheck: A Platform for Benchmarking XQuery Engines.,2006
+2744506,"Andrey Balmin,Fatma Özcan,Kevin S. Beyer,Matthias Nicola",VLDB,30-04-15,On the Path to Efficient XML Queries.,2006
+2744511,"Dina Bitton,Franz Faerber,Jayavel Shanmugasundaram,Laura M. Haas",VLDB,30-04-15,Panel: One Platform for Mining Structured & Unstructured Data: Dream or Reality?,2006
+2744519,"Anthony K. H. Tung,Beng Chin Ooi,Nick Koudas,Rui Zhang 0003",VLDB,30-04-15,Similarity Search: A Matching Based Approach.,2006
+2744541,"Ki Yong Lee,Myoung-Ho Kim",VLDB,30-04-15,Efficient Incremental Maintenance of Data Cubes.,2006
+2744571,"Dik Lun Lee,Haibo Hu,Victor C. S. Lee",VLDB,30-04-15,Distance Indexing on Road Networks.,2006
+2744656,"Christopher M. Jermaine,Deepak Lachwani,Jayendra Venkateswaran,Tamer Kahveci",VLDB,30-04-15,Reference-based Indexing of Sequence Databases.,2006
+2744659,"Xiaokui Xiao,Yufei Tao",VLDB,30-04-15,Anatomy: Simple and Effective Privacy Preservation.,2006
+2744668,"Divyakant Agrawal,Hua-Gang Li,Jun'ichi Tatemura,K. Selçuk Candan,Songting Chen,Wang-Pin Hsiung",VLDB,30-04-15,Twig,2006
+2744693,"Baile Shi,Jian Pei,Junqi Zhang,Wei Wang 0009,Xiangdong Zhou",VLDB,30-04-15,Using High Dimensional Indexes to Support Relevance Feedback Based Interactive Images Retrival.,2006
+2744759,"Peter J. Haas,Rainer Gemulla,Wolfgang Lehner",VLDB,30-04-15,A Dip in the Reservoir: Maintaining Sample Synopses of Evolving Datasets.,2006
+2744772,In Ryu,VLDB,30-04-15,Home Network: Road to Ubiquitous World.,2006
+2744784,"Alun D. Preece,Binling Jin,Paolo Missier,R. Mark Greenwood,Suzanne M. Embury",VLDB,30-04-15,Quality Views: Capturing and Exploiting the User Perspective on Data Quality.,2006
+2744793,"Clement T. Yu,Eduard C. Dragut,Weiyi Meng",VLDB,30-04-15,Meaningful Labeling of Integrated Query Interfaces.,2006
+2744798,"Daniel Engovatov,Dmitry Lychagin,Michael J. Carey 0001,Nicola Onose,Till Westmann,Vinayak R. Borkar",VLDB,06-11-17,Query Processing in the AquaLogic Data Services Platform.,2006
+2744812,"Cong Yu 0001,H. V. Jagadish",VLDB,23-04-17,Schema Summarization.,2006
+2744835,"Jeffrey F. Naughton,Jiansheng Huang,Miron Livny",VLDB,30-04-15,TRAC: Toward Recency and Consistency Reporting in a Database with Distributed Data Sources.,2006
+2744863,"Anthony K. H. Tung,Kian-Lee Tan,Liping Ji",VLDB,30-04-15,Mining Frequent Closed Cubes in 3D Datasets.,2006
+2744919,"Anguel Novoselsky,Zhen Hua Liu",VLDB,30-04-15,Efficient XSLT Processing in Relational Database System.,2006
+2744925,"Divyakant Agrawal,Hua-Gang Li,Jun'ichi Tatemura,K. Selçuk Candan,Songting Chen,Wang-Pin Hsiung",VLDB,30-04-15,Safety Guarantee of Continuous Join Queries over Punctuated Data Streams.,2006
+2744967,"Allison W. Lee,Andrew Witkowski,Dinesh Das,Hong Su,Mohamed Zaït,Rafi Ahmed,Thierry Cruanes",VLDB,30-04-15,Cost-Based Query Transformation in Oracle.,2006
+2744971,"Gye-Jeong Kim,Han-Deok Lee,Hyun-Sook Lee,Moon Jeung Joe,Seung-Cheon Baek",VLDB,30-04-15,LGeDBMS: A Small DBMS for Embedded System with Flash Memory.,2006
+2744988,"Adam J. Storm,Christian Garcia-Arellano,Maheswaran Surendra,Sam Lightstone,Yixin Diao",VLDB,30-04-15,Adaptive Self-tuning Memory in DB2.,2006
+2745011,"Laks V. S. Lakshmanan,Wendy Hui Wang",VLDB,30-04-15,Efficient Secure Query Evaluation over Encrypted XML Databases.,2006
+2745029,"Matthew Denny,Michael J. Franklin",VLDB,30-04-15,Adaptive Execution of Variable-Accuracy Functions.,2006
+2745041,"Michael W. Mahoney,Petros Drineas",VLDB,30-04-15,Randomized Algorithms for Matrices and Massive Data Sets.,2006
+2745061,Jung-Hee Song,VLDB,30-04-15,IT839 Policy Leading to u-Korea.,2006
+2745072,"Dong Xin,Hong Cheng,Jiawei Han 0001,Xiaolei Li",VLDB,05-06-17,Answering Top-k Queries with Multi-Dimensional Selections: The Ranking Cube Approach.,2006
+2745076,"Michael J. Franklin,Minos N. Garofalakis,Shawn R. Jeffery",VLDB,30-04-15,Adaptive Cleaning for RFID Data Streams.,2006
+2745082,Changhyun Kim,VLDB,30-04-15,Advances in Memory Technology.,2006
+2745100,"Clement T. Yu,Hongkun Zhao,Weiyi Meng",VLDB,30-04-15,Automatic Extraction of Dynamic Record Sections From Search Engine Result Pages.,2006
+2745102,"Eiman Elnahrawy,Michael Flaster,Philip Bohannon,Wenfei Fan",VLDB,30-04-15,Putting Context into Schema Matching.,2006
+2745117,"Marek Kowalkiewicz,Tomasz Kaczmarek,Witold Abramowicz",VLDB,30-04-15,myPortal: Robust Extraction and Aggregation of Web Content.,2006
+2745125,"Dario Colazzo,Giuseppe Castagna,Kim Nguyen 0001,Véronique Benzaken",VLDB,30-04-15,Type-Based XML Projection.,2006
+2745132,"Graham Cormode,Minos N. Garofalakis",VLDB,30-04-15,Streaming in a Connected World.,2006
+2745162,"Bee-Chung Chen,Lei Chen 0003,Paul Barford,Raghu Ramakrishnan,Vinod Yegneswaran",VLDB,30-04-15,Composite Subset Measures.,2006
+2745187,"Sriram Mohan,Yuqing Wu",VLDB,30-04-15,IPAC - An Interactive Approach to Access Control for Semi-structured Data.,2006
+2745208,"Frank Wm. Tompa,Robert H. Warren",VLDB,30-04-15,Multi-column Substring Matching for Database Schema Translation.,2006
+2745215,"Anastasios Kementsietsidis,Gao Cong,Peter Buneman,Wenfei Fan",VLDB,30-04-15,Using Partial Evaluation in Distributed Query Evaluation.,2006
+2745240,"Bee-Chung Chen,Jude W. Shavlik,Pradeep Tamma,Raghu Ramakrishnan",VLDB,30-04-15,Bellwether Analysis: Predicting Global Aggregates from Local Regions.,2006
+2745246,"Ashraf Aboulnaga,Ihab F. Ilyas,M. Tamer Özsu,Ning Zhang 0002",VLDB,30-04-15,FIX: Feature-based Indexing Technique for XML Documents.,2006
+2745265,"Christian Lovis,Karl Aberer,Mirko Steinle,Sarunas Girdzijauskas",VLDB,30-04-15,Mapping Moving Landscapes by Mining Mountains of Logs: Novel Techniques for Dependency Model Generation.,2006
+2745282,"Konstantin Luttenberger,Michael Peter Haustein,Theo Härder",VLDB,30-04-15,Contest of XML Lock Protocols.,2006
+2745305,"Chi-Yin Chow,Mohamed F. Mokbel,Walid G. Aref",VLDB,30-04-15,The New Casper: Query Processing for Location Services without Compromising Privacy.,2006
+2745307,"Ali Salehi,Karl Aberer,Manfred Hauswirth",VLDB,30-04-15,A Middleware for Fast and Flexible Sensor Network Deployment.,2006
+2745320,"Dhiraj Joshi,James Ze Wang,Jia Li 0001,Marc Friedenberg,Ritendra Datta,W. P. Weiss,Ziming Zhuang",VLDB,19-10-17,PARAgrab: A Comprehensive Architecture for Web Image Management and Multimodal Querying.,2006
+2745323,Eamonn J. Keogh,VLDB,30-04-15,A Decade of Progress in Indexing and Mining Large Time Series Databases.,2006
+2745355,"Anthony K. H. Tung,Chen Li 0001,Nick Koudas,Rares Vernica",VLDB,25-06-15,Relaxing Join and Selection Queries.,2006
+2745367,"Kenneth Houkjær,Kristian Torp,Rico Wind",VLDB,30-04-15,Simple and Realistic Data Generation.,2006

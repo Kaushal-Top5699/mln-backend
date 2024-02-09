@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+    <title>MLN-Dashboard Login</title>
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("{{ url_for('static', filename='images/background.png') }}");
+    background-size: cover;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top:10px;
+    background-color:#4c8bf5;
+    display: flex;
+    align-items: center;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+    padding-left:0.5rem;
+    padding-right:0.5rem;
+}
+
+
+ul{
+list-style-type: "☑️ ";
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+    <div id="global-navigation">
+                <div id="logo-and-title">
+		<a href="https://itlab.uta.edu/MLN-DIVE/">
+			<img src="{{ url_for('static', filename='images/mln-dive-logo-1.png') }}" id="mln-dive-logo" alt="MLN-DIVE logo">
+			
+		</a>
+
+		<span id="site-title">
+			<h2 style="margin-left:0px; font-family:'Roboto', sans-serif; "><b>MLN-Dashboard</b></h2>
+			<h2 style="font-size:12pt;color:tomato;"> Generate, Analyze, and Visualize Complex Data Sets.</h2>
+		</span>
+                </div>
+		<div>
+			<a title="NSF Home" href="https://www.nsf.gov/index.jsp" target="_blank">
+				<img src="{{ url_for('static', filename='images/nsf-logo.png') }}" id="nsf-logo" alt="National Science Foundation logo">
+			</a>
+			<a title="ITLab Home" href="https://itlab.uta.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/itlab-logo.png') }}" id="itlab-logo" alt="ITLab logo">
+			</a>
+			<a title="UTA Home" href="https://www.uta.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/uta-logo.png') }}" id="uta-logo" alt="The University of Texas at Arlington logo">
+			</a>
+			<a title="UNT Home" href="https://www.unt.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/unt-logo.png') }}" id="unt-logo" alt="The University of North Texas logo">
+			</a>
+			<a title="PSU Home" href="https://www.psu.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/psu-logo.png') }}" id="psu-logo" alt="Penn State University logo">
+			</a>
+		</div>
+	</div>
+
+
+
+
+   <div>
+    <div class="box">
+
+        
+        <p id="pageDetail">Sign in with your username</p>
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+             <ul class="flashes">
+              {% for message in messages %}
+                 <li style="color:red;"> {{message}} </li>
+              {% endfor %}
+              
+             </ul>
+            {% endif %}
+          {% endwith %}
+        <form action="{{BASE_URL}}/login" method="POST">
+            <!-- <div class="inputBox">
+                <input type="email" name="email" required="" onkeyup="this.setAttribute('value', this.value);" value="">
+                <label>E-mail address</label>
+            </div> -->
+            {{form.hidden_tag()}}
+            <div style="color:red;">*</div>
+            <div class="inputBox">
+                {{form.username}}
+            </div>
+            <!-- <div class="inputBox">
+                <input type="password" name="password" required="" onkeyup="this.setAttribute('value', this.value);"
+                    value="">
+                <label>Password</label>
+            </div> -->
+            <div style="color:red;">*</div>
+            {% if form.password.errors %}
+            <ul class="errors">
+                {% for error in form.password.errors %}
+                <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            <div class="inputBox">
+                {{form.password}}
+            </div>
+            <!--<div class="forgot">
+                <button type="button">Forgot your address?</button>
+            </div>-->
+            {{form.submit}}
+            <a id="nonLink">New User ?<br>Click </a>
+            <a id="registerUser" href="{{url_for('register')}}">here</a>
+            <a id="nonLink" href="">to Register.</a>
+
+        </form>
+    </div>
+
+<div class="info_box">
+
+<font color="#a52a2a">MLN-Dashboard</font> <font color="purple">(ver 1.0)</font> is an interactive dashboard to <font color="#FF6F00"><strong>generate, analyze, 
+and visualize complex data sets using multilayer networks</strong></font>. This is built as part of a CCRI NSF-funded project. Salient features are:<br><br>
+<ul>
+<li>
+<font color="007BFF"> User Workspace:</font> Users can register, securely log in, and concurrently work in their independent workspace over multiple sessions.<br><br>
+</li>
+<li>
+<font color="007BFF"> Applications:</font> Applications based on real-world data sets like DBLP, IMDb, Accident, Airline, and Census have been pre-loaded.
+ <font color="red">For security reasons, the user capability of uploading new data sets is currently disabled.</font><br><br>
+</li>
+
+<li>
+<font color="007BFF"> MLN Layer Generation:</font> Configuration files with specific requirements (e.g., selected feature, similarity metric, thresholds) to generate layers (graphs)<br><br> 
+</li>
+
+<li>
+<font color="007BFF"> MLN Analysis:</font> Configuration files specify the analysis (community, centrality, …) to be performed on the generated layers. <br><br>
+</li>
+
+<li>
+<font color="007BFF"> Visualization:</font> Interactive visualization alternatives, such as networks and word cloud are currently supported.<br><br>
+</li>
+</ul>
+<div style="margin-left:40%;">
+<a href="https://www.youtube.com/watch?v=1IAAAPKUWDs" class="blue-button" target="_blank">Dashboard Demo</a>
+</div>
+</div>
+</div>
+
+
+<footer>
+    <div>
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/amey-shinde-cs" target="_blank">Amey Shinde</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/vsabhaya23/" target="_blank">Viraj Sabhaya</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/alikhan95/" target="_blank">Ali Khan</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/fariba-afrin-irany/" target="_blank">Fariba Afrin</a>&nbsp;|
+	<a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/abhishek-santra/" target="_blank">Abhishek Santra</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/sanjukta-bhowmick-3503a84/" target="_blank">Sanjukta Bhowmick</a>&nbsp;|
+        <a class="no-loading" style="text-decoration:none; color:white; font-size:12px;" href="https://www.linkedin.com/in/sharma-c-631b381/" target="_blank">Sharma Chakravarthy</a>&nbsp;
+    </div>
+
+    <a href="" style="text-decoration:none; color:white; margin-left: auto; font-size:12px; padding-right:1rem;">© 2023 The University of Texas at Arlington</a>
+
+</footer>
+</body>
+
+</html>

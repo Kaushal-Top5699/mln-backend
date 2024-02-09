@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/landing.css') }}">
+    <title>MLN-Dashboard Login</title>
+</head>
+
+<body>
+    <!-- <div style="height:160px; display:flex; justify-content:space-between; width:100%;">
+      <div style="margin-top:20px; display:flex; justify-content:flex-start; margin-left:20px;">
+	<img src="{{ url_for('static', filename='images/mln-dive-logo-1.png') }}" style="height:80px;"alt="">
+         <h1 style="color:#FC6A03; margin-top:10px;margin-left:10px;">MLN-DIVE <br>(where MLN Researchers, Developers, and End Users Interact, Share, and Learn)</h1>
+          
+      </div>
+      <div style="margin-top:20px; display:flex; justify-content:flex-end; margin-right:20px;">
+       <img src="{{ url_for('static', filename='images/nsf-logo.png') }}" style="height:80px; width:80px; margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/itlab-logo.png') }}" style="height:80px; width:80px; margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/uta-logo.png') }}" style="height:80px; width:100px; margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/unt-logo.png') }}" style="height:80px; width:100px;margin-right:10px;"alt="">
+       <img src="{{ url_for('static', filename='images/psu-logo.png') }}" style="height:80px; width:120px;margin-right:10px;"alt="">
+      </div>   
+    </div> -->
+
+    <div id="global-navigation">
+		<a href="https://itlab.uta.edu/MLN-DIVE/">
+			<img src="{{ url_for('static', filename='images/mln-dive-logo-1.png') }}" id="mln-dive-logo" alt="MLN-DIVE logo">
+			
+		</a>
+
+		<span id="site-title">
+			<h2 style="margin-left:0px; font-family:'Roboto', sans-serif; "><b>MLN-Dashboard</b></h2>
+			<h2 style="font-size:12pt;"> (where MLN Researchers, Developers, and End Users Interact, Share, and Learn)</h2>
+		</span>
+		<div>
+			<a title="NSF Home" href="https://www.nsf.gov/index.jsp" target="_blank">
+				<img src="{{ url_for('static', filename='images/nsf-logo.png') }}" id="nsf-logo" alt="National Science Foundation logo">
+			</a>
+			<a title="ITLab Home" href="https://itlab.uta.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/itlab-logo.png') }}" id="itlab-logo" alt="ITLab logo">
+			</a>
+			<a title="UTA Home" href="https://www.uta.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/uta-logo.png') }}" id="uta-logo" alt="The University of Texas at Arlington logo">
+			</a>
+			<a title="UNT Home" href="https://www.unt.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/unt-logo.png') }}" id="unt-logo" alt="The University of North Texas logo">
+			</a>
+			<a title="PSU Home" href="https://www.psu.edu/" target="_blank">
+				<img src="{{ url_for('static', filename='images/psu-logo.png') }}" id="psu-logo" alt="Penn State University logo">
+			</a>
+		</div>
+	</div>
+
+
+<div style="text-align:right;margin-right:20px;">
+<a class="blue-button" href="/mlndash-test/login">Login</a>
+<a class="blue-button" href="/mlndash-test/register">Register</a>
+</div>
+
+
+<div class="video-container">
+    <iframe width="560" height="315" src="{{ url_for('static', filename='video/dashboard_video.mp4') }}" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+    <div class="box">
+         <ul>
+     <li>  5 min video on the left walks you thru the dashboard</li>
+<li>After you login, left panel has pre-loaded applications (dirs)</li>
+<li>Choose an application for analysis (click on +)</li>
+<li>Go to data_files dir and choose a .gen config file</li>
+<li>Click Generate Layers to generate MLN layers for that app</li>
+<li>Log is displayed and .net files generated in layers_generated</li>
+<li>Choose a .ana config file for analysis (from data_files)</li>
+<li>Click on Analyze Layers for generating files in analysis_results</li>
+<li>Choose any .net, .vcom, and .ecom files in visualizations dir </li>
+<li>Click on visualization button and choose a visualization option</li>
+
+<li>Enjoy and don’t forget to provide feedback!</li>
+</ul>
+    </div>
+    <p>{{us | safe}}</p>
+</body>
+
+</html>

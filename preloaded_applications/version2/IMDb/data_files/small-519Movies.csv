@@ -1,0 +1,517 @@
+MLN_MID,IMDbMovieID,MovieName,MovieYear,MovieRating,MovieGenreList
+8,tt0070510,Paper Moon,1973,8.2,"Comedy,Crime,Drama"
+22,tt0074811,The Tenant,1976,7.8,"Drama,Thriller"
+25,tt0075314,Taxi Driver,1976,8.3,"Crime,Drama"
+38,tt0076759,Star Wars: Episode IV - A New Hope,1977,8.6,"Action,Adventure,Fantasy"
+46,tt0077651,Halloween,1978,7.8,"Horror,Thriller"
+55,tt0078902,Breaking Away,1979,7.7,"Comedy,Drama,Romance"
+72,tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,8.8,"Action,Adventure,Fantasy"
+82,tt0081283,Ordinary People,1980,7.8,Drama
+130,tt0083866,E.T. the Extra-Terrestrial,1982,7.9,"Family,Sci-Fi"
+170,tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,8.3,"Action,Adventure,Fantasy"
+171,tt0086197,The Right Stuff,1983,7.9,"Adventure,Biography,Drama"
+174,tt0086250,Scarface,1983,8.3,"Crime,Drama"
+194,tt0086979,Blood Simple.,1984,7.7,"Crime,Drama,Thriller"
+226,tt0087884,"Paris, Texas",1984,8.1,Drama
+239,tt0088247,The Terminator,1984,8,"Action,Sci-Fi"
+256,tt0088763,Back to the Future,1985,8.5,"Adventure,Comedy,Sci-Fi"
+258,tt0088847,The Breakfast Club,1985,7.9,"Comedy,Drama"
+261,tt0088939,The Color Purple,1985,7.8,Drama
+268,tt0089218,The Goonies,1985,7.8,"Adventure,Comedy,Family"
+289,tt0089853,The Purple Rose of Cairo,1985,7.7,"Comedy,Fantasy,Romance"
+316,tt0092048,Tampopo,1985,7.9,Comedy
+325,tt0090756,Blue Velvet,1986,7.8,"Drama,Mystery,Thriller"
+335,tt0091042,Ferris Bueller's Day Off,1986,7.8,Comedy
+360,tt0091638,No Picnic,1986,7.7,Drama
+363,tt0091725,Parting Glances,1986,7.7,"Drama,Music,Romance"
+365,tt0091763,Platoon,1986,8.1,"Drama,War"
+372,tt0092005,Stand by Me,1986,8.1,"Adventure,Drama"
+375,tt0092067,Castle in the Sky,1986,8.1,"Adventure,Animation,Family"
+410,tt0092965,Empire of the Sun,1987,7.8,"Drama,History,War"
+434,tt0093512,Maurice,1987,7.7,"Drama,Romance"
+444,tt0093779,The Princess Bride,1987,8.1,"Adventure,Family,Fantasy"
+462,tt0094226,The Untouchables,1987,7.9,"Crime,Drama,Thriller"
+467,tt0094336,Withnail & I,1987,7.8,"Comedy,Drama"
+503,tt0095016,Die Hard,1988,8.2,"Action,Thriller"
+531,tt0095647,Mississippi Burning,1988,7.8,"Crime,Drama,History"
+544,tt0095953,Rain Man,1988,8,Drama
+547,tt0096018,Running on Empty,1988,7.7,"Crime,Drama,Music"
+563,tt0096289,Torch Song Trilogy,1988,7.7,"Comedy,Drama,Romance"
+584,tt0246427,Das andere Ende der Welt,1988,7.8,\N
+599,tt0096874,Back to the Future Part II,1989,7.8,"Adventure,Comedy,Sci-Fi"
+612,tt0097165,Dead Poets Society,1989,8.1,"Comedy,Drama"
+624,tt0097441,Glory,1989,7.9,"Biography,Drama,History"
+628,tt0097499,Henry V,1989,7.7,"Action,Biography,Drama"
+637,tt0097814,Kiki's Delivery Service,1989,7.9,"Adventure,Animation,Drama"
+642,tt0097937,My Left Foot,1989,7.9,"Biography,Drama"
+705,tt0099348,Dances with Wolves,1990,8,"Adventure,Drama,Western"
+711,tt0099487,Edward Scissorhands,1990,7.9,"Drama,Fantasy,Romance"
+723,tt0099685,Goodfellas,1990,8.7,"Biography,Crime,Drama"
+745,tt0100150,Miller's Crossing,1990,7.8,"Crime,Drama,Thriller"
+803,tt0101410,Barton Fink,1991,7.7,"Comedy,Drama,Thriller"
+808,tt0101507,Boyz n the Hood,1991,7.8,"Crime,Drama"
+838,tt0102138,JFK,1991,8,"Drama,History,Thriller"
+857,tt0102536,Night on Earth,1991,7.8,"Comedy,Drama"
+877,tt0102926,The Silence of the Lambs,1991,8.6,"Crime,Drama,Thriller"
+881,tt0103064,Terminator 2,1991,8.5,"Action,Sci-Fi,Thriller"
+938,tt0104257,A Few Good Men,1992,7.7,"Drama,Thriller"
+943,tt0104348,Glengarry Glen Ross,1992,7.8,"Crime,Drama,Mystery"
+960,tt0104691,The Last of the Mohicans,1992,7.8,"Action,Adventure,Drama"
+968,tt0104797,Malcolm X,1992,7.7,"Biography,Drama,History"
+989,tt0105236,Reservoir Dogs,1992,8.3,"Crime,Drama,Thriller"
+993,tt0105323,Scent of a Woman,1992,8,Drama
+1026,tt0259534,Ramayana: The Legend of Prince Rama,1992,8.5,"Adventure,Animation,Drama"
+1045,tt0106333,Baazigar,1993,7.8,"Crime,Drama,Musical"
+1055,tt0106469,"Blood In, Blood Out",1993,8,"Crime,Drama"
+1058,tt0106519,Carlito's Way,1993,7.9,"Crime,Drama,Thriller"
+1065,tt0106677,Dazed and Confused,1993,7.7,Comedy
+1084,tt0106977,The Fugitive,1993,7.8,"Action,Crime,Drama"
+1098,tt0107207,In the Name of the Father,1993,8.1,"Biography,Drama"
+1103,tt0107290,Jurassic Park,1993,8.1,"Adventure,Sci-Fi,Thriller"
+1121,tt0107653,Naked,1993,7.9,"Comedy,Drama"
+1130,tt0107818,Philadelphia,1993,7.7,Drama
+1135,tt0107943,The Remains of the Day,1993,7.9,"Drama,Romance"
+1143,tt0108052,Schindler's List,1993,8.9,"Biography,Drama,History"
+1145,tt0108122,Short Cuts,1993,7.7,"Comedy,Drama"
+1165,tt0108358,Tombstone,1993,7.8,"Action,Biography,Drama"
+1167,tt0108394,Three Colors: Blue,1993,8,"Drama,Music,Mystery"
+1168,tt0108399,True Romance,1993,7.9,"Crime,Drama,Romance"
+1174,tt0108550,What's Eating Gilbert Grape,1993,7.8,Drama
+1186,tt0109555,Darr,1993,7.9,"Drama,Romance,Thriller"
+1224,tt0109707,Ed Wood,1994,7.9,"Biography,Comedy,Drama"
+1230,tt0109830,Forrest Gump,1994,8.8,"Drama,Romance"
+1252,tt0110222,Kabhi Haan Kabhi Naa,1994,8,"Comedy,Drama,Music"
+1256,tt0110357,The Lion King,1994,8.5,"Adventure,Animation,Drama"
+1262,tt0110413,L??on: The Professional,1994,8.6,"Crime,Drama,Thriller"
+1289,tt0110912,Pulp Fiction,1994,8.9,"Crime,Drama"
+1307,tt0111161,The Shawshank Redemption,1994,9.3,"Crime,Drama"
+1359,tt0112373,Anne Frank Remembered,1995,8.1,"Biography,Documentary,War"
+1369,tt0112471,Before Sunrise,1995,8.1,"Drama,Romance"
+1379,tt0112573,Braveheart,1995,8.4,"Biography,Drama,History"
+1383,tt0112641,Casino,1995,8.2,"Crime,Drama"
+1395,tt0112817,Dead Man,1995,7.7,"Drama,Fantasy,Western"
+1401,tt0112870,Dilwale Dulhania Le Jayenge,1995,8.2,"Comedy,Drama,Musical"
+1415,tt0113247,La Haine,1995,8.1,"Crime,Drama"
+1418,tt0113277,Heat,1995,8.2,"Crime,Drama,Thriller"
+1483,tt0114369,Se7en,1995,8.6,"Crime,Drama,Mystery"
+1484,tt0114388,Sense and Sensibility,1995,7.7,"Drama,Romance"
+1502,tt0114709,Toy Story,1995,8.3,"Adventure,Animation,Comedy"
+1504,tt0114746,Twelve Monkeys,1995,8,"Mystery,Sci-Fi,Thriller"
+1508,tt0114814,The Usual Suspects,1995,8.6,"Crime,Drama,Mystery"
+1557,tt0115751,Breaking the Waves,1996,7.9,Drama
+1595,tt0116282,Fargo,1996,8.1,"Crime,Drama,Thriller"
+1612,tt0116477,Hamlet,1996,7.8,Drama
+1649,tt0117040,Microcosmos,1996,7.9,Documentary
+1670,tt0117381,Primal Fear,1996,7.7,"Crime,Drama,Mystery"
+1683,tt0117666,Sling Blade,1996,8,Drama
+1700,tt0117951,Trainspotting,1996,8.2,Drama
+1761,tt0118749,Boogie Nights,1997,7.9,Drama
+1788,tt0119008,Donnie Brasco,1997,7.8,"Biography,Crime,Drama"
+1800,tt0119116,The Fifth Element,1997,7.7,"Action,Adventure,Sci-Fi"
+1806,tt0119174,The Game,1997,7.8,"Drama,Mystery,Thriller"
+1807,tt0119177,Gattaca,1997,7.8,"Drama,Sci-Fi,Thriller"
+1811,tt0119217,Good Will Hunting,1997,8.3,Drama
+1831,tt0119488,L.A. Confidential,1997,8.3,"Crime,Drama,Mystery"
+1860,tt0119822,As Good as It Gets,1997,7.7,"Comedy,Drama,Romance"
+1899,tt0120338,Titanic,1997,7.8,"Drama,Romance"
+1923,tt0125659,Open Your Eyes,1997,7.8,"Drama,Mystery,Romance"
+1931,tt0151335,Letters Not About Love,1997,7.8,Documentary
+1941,tt0118715,The Big Lebowski,1998,8.2,"Comedy,Crime"
+1949,tt0118929,Dark City,1998,7.7,"Mystery,Sci-Fi,Thriller"
+1992,tt0120382,The Truman Show,1998,8.1,"Comedy,Drama,Sci-Fi"
+1998,tt0120586,American History X,1998,8.5,"Crime,Drama"
+2014,tt0120669,Fear and Loathing in Las Vegas,1998,7.7,"Adventure,Comedy,Drama"
+2033,tt0120731,The Legend of 1900,1998,8.1,"Drama,Music,Romance"
+2034,tt0120735,"Lock, Stock and Two Smoking Barrels",1998,8.2,"Comedy,Crime"
+2062,tt0120815,Saving Private Ryan,1998,8.6,"Drama,War"
+2108,tt0128445,Rushmore,1998,7.7,"Comedy,Drama"
+2164,tt0164538,Dil Se..,1998,7.7,"Drama,Romance"
+2171,tt0172684,Kuch Kuch Hota Hai,1998,7.7,"Comedy,Drama,Musical"
+2181,tt0120363,Toy Story 2,1999,7.9,"Adventure,Animation,Comedy"
+2185,tt0120601,Being John Malkovich,1999,7.8,"Comedy,Drama,Fantasy"
+2196,tt0120689,The Green Mile,1999,8.5,"Crime,Drama,Fantasy"
+2226,tt0129167,The Iron Giant,1999,8,"Action,Adventure,Animation"
+2236,tt0132477,October Sky,1999,7.8,"Biography,Drama,Family"
+2241,tt0133093,The Matrix,1999,8.7,"Action,Sci-Fi"
+2250,tt0137523,Fight Club,1999,8.8,Drama
+2260,tt0140352,The Insider,1999,7.9,"Biography,Drama,Thriller"
+2271,tt0144117,The Boondock Saints,1999,7.9,"Action,Crime,Thriller"
+2348,tt0167404,The Sixth Sense,1999,8.1,"Drama,Mystery,Thriller"
+2353,tt0169547,American Beauty,1999,8.4,Drama
+2367,tt0175880,Magnolia,1999,8,Drama
+2458,tt0162222,Cast Away,2000,7.8,"Adventure,Drama,Romance"
+2468,tt0168629,Dancer in the Dark,2000,8,"Crime,Drama,Musical"
+2476,tt0172495,Gladiator,2000,8.5,"Action,Adventure,Drama"
+2493,tt0180093,Requiem for a Dream,2000,8.3,Drama
+2498,tt0181875,Almost Famous,2000,7.9,"Adventure,Comedy,Drama"
+2523,tt0190590,"O Brother, Where Art Thou?",2000,7.8,"Adventure,Comedy,Crime"
+2566,tt0203230,You Can Count on Me,2000,7.7,Drama
+2584,tt0208092,Snatch,2000,8.3,"Comedy,Crime"
+2587,tt0209144,Memento,2000,8.5,"Mystery,Thriller"
+2599,tt0210945,Remember the Titans,2000,7.8,"Biography,Drama,Sport"
+2637,tt0222012,Hey Ram,2000,8,"Crime,Drama,History"
+2649,tt0236027,Flickering Lights,2000,7.7,"Action,Comedy,Crime"
+2650,tt0240885,Scottsboro: An American Tragedy,2000,7.7,"Documentary,History"
+2654,tt0245712,Amores Perros,2000,8.1,"Drama,Thriller"
+2657,tt0249462,Billy Elliot,2000,7.7,"Drama,Music,Romance"
+2682,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Adventure,Drama,Fantasy"
+2685,tt0126029,Shrek,2001,7.9,"Adventure,Animation,Comedy"
+2687,tt0139654,Training Day,2001,7.7,"Crime,Drama,Thriller"
+2698,tt0166924,Mulholland Dr.,2001,8,"Drama,Mystery,Thriller"
+2715,tt0198781,"Monsters, Inc.",2001,8.1,"Adventure,Animation,Comedy"
+2786,tt0240772,Ocean's Eleven,2001,7.8,"Crime,Thriller"
+2792,tt0243017,Waking Life,2001,7.8,"Animation,Drama,Fantasy"
+2810,tt0245574,Y Tu Mam?? Tambi??n,2001,7.7,"Adventure,Comedy,Drama"
+2814,tt0246578,Donnie Darko,2001,8.1,"Drama,Sci-Fi,Thriller"
+2872,tt0265086,Black Hawk Down,2001,7.7,"Drama,History,War"
+2883,tt0268978,A Beautiful Mind,2001,8.2,"Biography,Drama"
+2897,tt0275309,Dogtown and Z-Boys,2001,7.7,"Documentary,Sport"
+2934,tt0165832,Interstate 60: Episodes of the Road,2002,7.7,"Adventure,Comedy,Drama"
+2937,tt0167261,The Lord of the Rings: The Two Towers,2002,8.7,"Adventure,Drama,Fantasy"
+2941,tt0181689,Minority Report,2002,7.7,"Action,Adventure,Crime"
+2968,tt0245844,The Count of Monte Cristo,2002,7.8,"Action,Adventure,Drama"
+2980,tt0253474,The Pianist,2002,8.5,"Biography,Drama,Music"
+2985,tt0257044,Road to Perdition,2002,7.7,"Crime,Drama,Thriller"
+2990,tt0258463,The Bourne Identity,2002,7.9,"Action,Mystery,Thriller"
+2995,tt0264464,Catch Me If You Can,2002,8.1,"Biography,Crime,Drama"
+3008,tt0268126,Adaptation.,2002,7.7,"Comedy,Drama"
+3093,tt0288439,Bang Bang You're Dead,2002,7.9,"Crime,Drama,Thriller"
+3123,tt0298845,In America,2002,7.8,Drama
+3128,tt0299977,Hero,2002,7.9,"Action,Adventure,History"
+3142,tt0307901,25th Hour,2002,7.7,Drama
+3154,tt0319769,Mondays in the Sun,2002,7.7,"Comedy,Drama"
+3170,tt0167260,The Lord of the Rings: The Return of the King,2003,8.9,"Adventure,Drama,Fantasy"
+3189,tt0266543,Finding Nemo,2003,8.1,"Adventure,Animation,Comedy"
+3190,tt0266697,Kill Bill: Vol. 1,2003,8.1,"Action,Crime,Thriller"
+3195,tt0276919,Dogville,2003,8,"Crime,Drama"
+3216,tt0290831,Rock That Uke,2003,7.8,"Comedy,Documentary,Music"
+3281,tt0315733,21 Grams,2003,7.7,"Crime,Drama,Thriller"
+3292,tt0319061,Big Fish,2003,8,"Adventure,Drama,Fantasy"
+3319,tt0325710,The Last Samurai,2003,7.7,"Action,Drama,History"
+3321,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8,"Action,Adventure,Fantasy"
+3326,tt0327056,Mystic River,2003,8,"Crime,Drama,Mystery"
+3349,tt0335266,Lost in Translation,2003,7.8,Drama
+3367,tt0340377,The Station Agent,2003,7.7,"Comedy,Drama"
+3372,tt0343129,Unchained Memories: Readings from the Slave Narratives,2003,8.1,Documentary
+3378,tt0347304,Kal Ho Naa Ho,2003,8,"Comedy,Drama,Romance"
+3388,tt0368721,Faster,2003,7.9,Documentary
+3391,tt0375663,A Closer Walk,2003,8.7,Documentary
+3398,tt0417582,Dal: Yma/Nawr,2003,7.7,Documentary
+3417,tt0304141,Harry Potter and the Prisoner of Azkaban,2004,7.8,"Adventure,Family,Fantasy"
+3422,tt0308644,Finding Neverland,2004,7.7,"Biography,Drama,Family"
+3433,tt0317705,The Incredibles,2004,8,"Action,Adventure,Animation"
+3434,tt0318462,The Motorcycle Diaries,2004,7.8,"Adventure,Biography,Drama"
+3449,tt0328107,Man on Fire,2004,7.7,"Action,Crime,Drama"
+3459,tt0332280,The Notebook,2004,7.9,"Drama,Romance"
+3476,tt0338013,Eternal Sunshine of the Spotless Mind,2004,8.3,"Drama,Romance,Sci-Fi"
+3492,tt0344510,A Very Long Engagement,2004,7.7,"Drama,Mystery,Romance"
+3508,tt0350258,Ray,2004,7.7,"Biography,Drama,Music"
+3536,tt0361862,The Machinist,2004,7.7,"Drama,Thriller"
+3557,tt0365748,Shaun of the Dead,2004,8,"Comedy,Horror"
+3560,tt0367110,Swades,2004,8.3,Drama
+3574,tt0369702,The Sea Inside,2004,8,"Biography,Drama,Romance"
+3575,tt0370986,Mysterious Skin,2004,7.7,"Drama,Mystery"
+3577,tt0372183,The Bourne Supremacy,2004,7.8,"Action,Mystery,Thriller"
+3588,tt0375679,Crash,2004,7.8,"Crime,Drama,Thriller"
+3599,tt0377752,Dear Frankie,2004,7.8,"Drama,Romance"
+3600,tt0378194,Kill Bill: Vol. 2,2004,8,"Action,Crime,Thriller"
+3609,tt0381681,Before Sunset,2004,8.1,"Drama,Romance"
+3617,tt0383694,Vera Drake,2004,7.7,"Crime,Drama"
+3626,tt0387564,Saw,2004,7.7,"Crime,Horror,Mystery"
+3636,tt0395169,Hotel Rwanda,2004,8.1,"Biography,Drama,History"
+3645,tt0405159,Million Dollar Baby,2004,8.1,"Drama,Sport"
+3647,tt0417791,Rory O'Shea Was Here,2004,7.9,"Comedy,Drama"
+3652,tt0420332,Veer-Zaara,2004,7.9,"Drama,Family,Musical"
+3673,tt0330373,Harry Potter and the Goblet of Fire,2005,7.7,"Adventure,Family,Fantasy"
+3687,tt0352248,Cinderella Man,2005,8,"Biography,Drama,Sport"
+3696,tt0358273,Walk the Line,2005,7.9,"Biography,Drama,Music"
+3697,tt0358456,Earthlings,2005,8.7,Documentary
+3730,tt0372784,Batman Begins,2005,8.3,"Action,Adventure,Thriller"
+3748,tt0379786,Serenity,2005,7.9,"Action,Adventure,Sci-Fi"
+3786,tt0388795,Brokeback Mountain,2005,7.7,"Drama,Romance"
+3819,tt0401792,Sin City,2005,8,"Crime,Thriller"
+3855,tt0414387,Pride & Prejudice,2005,7.8,"Drama,Romance"
+3857,tt0416320,Match Point,2005,7.7,"Drama,Romance,Thriller"
+3865,tt0418455,Adam's Apples,2005,7.8,"Comedy,Crime,Drama"
+3904,tt0434409,V for Vendetta,2005,8.2,"Action,Drama,Sci-Fi"
+3931,tt0466928,Polynesian Power,2005,8.3,Documentary
+3934,tt0492060,I'm King Kong!: The Exploits of Merian C. Cooper,2005,7.7,"Biography,Documentary"
+3936,tt0493393,Ashes and Snow,2005,8.3,"Documentary,Drama"
+3937,tt0206634,Children of Men,2006,7.9,"Drama,Sci-Fi,Thriller"
+3941,tt0301555,God Grew Tired of Us,2006,8,Documentary
+3959,tt0381061,Casino Royale,2006,8,"Action,Adventure,Thriller"
+3994,tt0407887,The Departed,2006,8.5,"Crime,Drama,Thriller"
+4012,tt0416449,300,2006,7.7,"Action,Fantasy"
+4037,tt0425210,Lucky Number Slevin,2006,7.8,"Crime,Drama,Mystery"
+4082,tt0446059,Fearless,2006,7.7,"Action,Biography,Drama"
+4090,tt0449059,Little Miss Sunshine,2006,7.8,"Comedy,Drama"
+4095,tt0450259,Blood Diamond,2006,8,"Adventure,Drama,Thriller"
+4116,tt0454921,The Pursuit of Happyness,2006,8,"Biography,Drama"
+4123,tt0455581,King Leopold's Ghost,2006,8.1,Documentary
+4125,tt0455590,The Last King of Scotland,2006,7.7,"Biography,Drama,History"
+4135,tt0457655,After the Wedding,2006,7.8,Drama
+4140,tt0460766,Deep Water,2006,7.8,"Documentary,History,Sport"
+4194,tt0482571,The Prestige,2006,8.5,"Drama,Mystery,Sci-Fi"
+4221,tt0498362,Laffit: All About Winning,2006,9.1,"Biography,Documentary,Sport"
+4222,tt0498380,Letters from Iwo Jima,2006,7.9,"Drama,History,War"
+4234,tt0800238,Beslan: Three Days in September,2006,8.1,Documentary
+4242,tt1020845,Uganda Rising,2006,8.3,Documentary
+4256,tt0381849,3:10 to Yuma,2007,7.7,"Adventure,Crime,Drama"
+4280,tt0421082,Control,2007,7.7,"Biography,Drama,Music"
+4284,tt0425112,Hot Fuzz,2007,7.9,"Action,Comedy"
+4305,tt0440963,The Bourne Ultimatum,2007,8,"Action,Mystery,Thriller"
+4309,tt0443706,Zodiac,2007,7.7,"Crime,Drama,History"
+4321,tt0452623,Gone Baby Gone,2007,7.7,"Crime,Drama,Mystery"
+4354,tt0469494,There Will Be Blood,2007,8.1,Drama
+4374,tt0477348,No Country for Old Men,2007,8.1,"Crime,Drama,Thriller"
+4399,tt0486655,Stardust,2007,7.7,"Adventure,Family,Fantasy"
+4424,tt0758758,Into the Wild,2007,8.1,"Adventure,Biography,Drama"
+4431,tt0763852,I Have Never Forgotten You: The Life & Legacy of Simon Wiesenthal,2007,7.9,"Biography,Documentary"
+4433,tt0765429,American Gangster,2007,7.8,"Biography,Crime,Drama"
+4434,tt0765443,Eastern Promises,2007,7.7,"Crime,Drama,Mystery"
+4447,tt0783233,Atonement,2007,7.8,"Drama,Mystery,Romance"
+4518,tt0871510,Chak de! India,2007,8.3,"Drama,Family,Sport"
+4548,tt1078188,Boy A,2007,7.7,Drama
+4550,tt1120899,Do You Sleep in the Nude?,2007,8.2,Documentary
+4558,tt0371746,Iron Man,2008,7.9,"Action,Adventure,Sci-Fi"
+4576,tt0421715,The Curious Case of Benjamin Button,2008,7.8,"Drama,Fantasy,Romance"
+4603,tt0468569,The Dark Knight,2008,9,"Action,Crime,Thriller"
+4639,tt0780536,In Bruges,2008,7.9,"Comedy,Crime,Drama"
+4663,tt0814314,Seven Pounds,2008,7.7,"Drama,Romance"
+4672,tt0824747,Changeling,2008,7.8,"Biography,Crime,Drama"
+4699,tt0870111,Frost/Nixon,2008,7.7,"Biography,Drama"
+4705,tt0876563,Ponyo,2008,7.7,"Adventure,Animation,Comedy"
+4725,tt0914798,The Boy in the Striped Pajamas,2008,7.8,"Drama,War"
+4731,tt0936501,Taken,2008,7.8,"Action,Crime,Thriller"
+4841,tt1125849,The Wrestler,2008,7.9,"Drama,Sport"
+4870,tt1277737,The Stoning of Soraya M.,2008,8,Drama
+4872,tt1320302,Truth in 24,2008,8.4,"Documentary,Sport"
+4874,tt1326150,The John Akii Bua Story: An African Tragedy,2008,7.7,Documentary
+4877,tt0295911,Corso: The Last Beat,2009,8,Documentary
+4878,tt0327597,Coraline,2009,7.7,"Animation,Family,Fantasy"
+4879,tt0361748,Inglourious Basterds,2009,8.3,"Adventure,Drama,War"
+4890,tt0432283,Fantastic Mr. Fox,2009,7.8,"Adventure,Animation,Comedy"
+4906,tt0485601,The Secret of Kells,2009,7.7,"Adventure,Animation,Family"
+4907,tt0485947,Mr. Nobody,2009,7.9,"Drama,Fantasy,Romance"
+4914,tt0499549,Avatar,2009,7.8,"Action,Adventure,Fantasy"
+4924,tt0796366,Star Trek,2009,8,"Action,Adventure,Sci-Fi"
+4945,tt0878804,The Blind Side,2009,7.7,"Biography,Drama,Sport"
+4977,tt0978762,Mary and Max,2009,8.1,"Animation,Comedy,Drama"
+4991,tt1022603,500 Days of Summer,2009,7.7,"Comedy,Drama,Romance"
+5042,tt1119646,The Hangover,2009,7.7,Comedy
+5080,tt1156398,Zombieland,2009,7.7,"Adventure,Comedy,Horror"
+5093,tt1182345,Moon,2009,7.9,"Drama,Mystery,Sci-Fi"
+5160,tt1283976,Earthwork,2009,7.9,Drama
+5182,tt1333667,The Doors: When You're Strange,2009,7.7,"Documentary,Music"
+5191,tt1454956,For the Next 7 Generations,2009,8.7,Documentary
+5195,tt1499300,Prove per una tragedia siciliana,2009,8,Drama
+5200,tt0398286,Tangled,2010,7.8,"Adventure,Animation,Comedy"
+5203,tt0435761,Toy Story 3,2010,8.3,"Adventure,Animation,Comedy"
+5231,tt0892769,How to Train Your Dragon,2010,8.1,"Adventure,Animation,Comedy"
+5237,tt0926084,Harry Potter and the Deathly Hallows: Part 1,2010,7.7,"Adventure,Family,Fantasy"
+5240,tt0947798,Black Swan,2010,8,"Drama,Thriller"
+5245,tt0964517,The Fighter,2010,7.8,"Biography,Drama,Sport"
+5282,tt1130884,Shutter Island,2010,8.1,"Mystery,Thriller"
+5302,tt1188996,My Name Is Khan,2010,8,Drama
+5340,tt1250777,Kick-Ass,2010,7.7,"Action,Comedy"
+5342,tt1262405,Burma Soldier,2010,8.1,"Biography,Documentary,History"
+5343,tt1262986,The Last Play at Shea,2010,7.9,"Biography,Documentary,History"
+5353,tt1285016,The Social Network,2010,7.7,"Biography,Drama"
+5374,tt1323594,Despicable Me,2010,7.7,"Adventure,Animation,Comedy"
+5393,tt1375666,Inception,2010,8.8,"Action,Adventure,Sci-Fi"
+5425,tt1433813,Hubble,2010,7.8,Documentary
+5452,tt1504320,The King's Speech,2010,8,"Biography,Drama"
+5494,tt2542490,Dreamworks How to Train Your Dragon Legends,2010,7.7,"Adventure,Animation,Comedy"
+5511,tt0780504,Drive,2011,7.8,"Crime,Drama"
+5550,tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,"Adventure,Drama,Fantasy"
+5573,tt1270798,X-Men: First Class,2011,7.8,"Action,Adventure,Sci-Fi"
+5577,tt1291584,Warrior,2011,8.2,"Drama,Sport"
+5582,tt1306980,50/50,2011,7.7,"Comedy,Drama,Romance"
+5629,tt1454029,The Help,2011,8.1,Drama
+5634,tt1465483,Grab,2011,8.5,Documentary
+5673,tt1568346,The Girl with the Dragon Tattoo,2011,7.8,"Crime,Drama,Mystery"
+5698,tt1605783,Midnight in Paris,2011,7.7,"Comedy,Fantasy,Romance"
+5730,tt1655442,The Artist,2011,7.9,"Comedy,Drama,Romance"
+5742,tt1683526,Detachment,2011,7.7,Drama
+5759,tt1708537,The Whale,2011,8.1,Documentary
+5764,tt1721677,Fastest,2011,7.8,"Action,Documentary,Sport"
+5780,tt1762300,One Life,2011,7.9,"Documentary,Family"
+5787,tt1787660,Being Elmo: A Puppeteer's Journey,2011,7.7,Documentary
+5789,tt1795369,Frankenstein,2011,9,Drama
+5805,tt1978512,Portraits in Dramatic Time,2011,7.9,\N
+5808,tt2007405,Derek Jeter 3K,2011,7.7,"Documentary,Sport"
+5813,tt2147449,Official 2011 World Series Film,2011,8.1,Sport
+5829,tt0828135,Wild in the Streets,2012,8.2,Documentary
+5832,tt0848228,The Avengers,2012,8.1,"Action,Adventure,Sci-Fi"
+5834,tt0903624,The Hobbit: An Unexpected Journey,2012,7.9,"Adventure,Family,Fantasy"
+5839,tt1024648,Argo,2012,7.7,"Biography,Drama,Thriller"
+5841,tt1045658,Silver Linings Playbook,2012,7.8,"Comedy,Drama,Romance"
+5844,tt1074638,Skyfall,2012,7.8,"Action,Adventure,Thriller"
+5875,tt1345836,The Dark Knight Rises,2012,8.4,"Action,Thriller"
+5958,tt1659337,The Perks of Being a Wallflower,2012,8,"Drama,Romance"
+5973,tt1706607,La Source,2012,8.9,Documentary
+5985,tt1748122,Moonrise Kingdom,2012,7.8,"Adventure,Comedy,Drama"
+5997,tt1772341,Wreck-It Ralph,2012,7.7,"Adventure,Animation,Comedy"
+6007,tt1800677,Camilla Dickinson,2012,7.9,"Family,Romance"
+6010,tt1816518,Ernest & Celestine,2012,7.9,"Animation,Comedy,Crime"
+6032,tt1853728,Django Unchained,2012,8.4,"Drama,Western"
+6033,tt1855199,End of Watch,2012,7.7,"Action,Crime,Drama"
+6093,tt2082197,Barfi!,2012,8.1,"Adventure,Comedy,Drama"
+6103,tt2106476,The Hunt,2012,8.3,Drama
+6116,tt2240784,Planet Ocean,2012,7.9,Documentary
+6119,tt2328694,Arise,2012,9,Documentary
+6139,tt0790636,Dallas Buyers Club,2013,8,"Biography,Drama"
+6147,tt0993846,The Wolf of Wall Street,2013,8.2,"Biography,Comedy,Crime"
+6165,tt1305147,Street Dogs of South Central,2013,8.8,Documentary
+6178,tt1392214,Prisoners,2013,8.1,"Crime,Drama,Mystery"
+6179,tt1408101,Star Trek: Into Darkness,2013,7.8,"Action,Adventure,Sci-Fi"
+6190,tt1454468,Gravity,2013,7.8,"Drama,Sci-Fi,Thriller"
+6204,tt1535109,Captain Phillips,2013,7.8,"Biography,Drama,Thriller"
+6260,tt1798709,Her,2013,8,"Drama,Romance,Sci-Fi"
+6307,tt1979320,Rush,2013,8.1,"Action,Biography,Drama"
+6326,tt2024544,12 Years a Slave,2013,8.1,"Biography,Drama,History"
+6369,tt2194499,About Time,2013,7.8,"Comedy,Drama,Fantasy"
+6375,tt2209418,Before Midnight,2013,7.9,"Drama,Romance"
+6430,tt2370248,Short Term 12,2013,8,Drama
+6446,tt2404461,The Past,2013,7.8,"Drama,Mystery"
+6452,tt2458620,Welcome Nowhere,2013,8.1,"Documentary,Drama"
+6457,tt2518788,1,2013,8,"Documentary,History,Sport"
+6461,tt2576852,The Tale of the Princess Kaguya,2013,8.1,"Adventure,Animation,Drama"
+6462,tt2581124,"North of South, West of East",2013,8.4,\N
+6478,tt2926554,Triple Divide,2013,8,"Documentary,Drama"
+6496,tt0470752,Ex Machina,2014,7.7,"Drama,Mystery,Sci-Fi"
+6499,tt0816692,Interstellar,2014,8.6,"Adventure,Drama,Sci-Fi"
+6507,tt1065073,Boyhood,2014,7.9,Drama
+6537,tt1490017,The Lego Movie,2014,7.8,"Action,Adventure,Animation"
+6550,tt1631867,Edge of Tomorrow,2014,7.9,"Action,Adventure,Sci-Fi"
+6554,tt1646971,How to Train Your Dragon 2,2014,7.8,"Action,Adventure,Animation"
+6579,tt1843866,Captain America: The Winter Soldier,2014,7.8,"Action,Adventure,Sci-Fi"
+6582,tt1865505,Song of the Sea,2014,8.1,"Adventure,Animation,Drama"
+6586,tt1877832,X-Men: Days of Future Past,2014,8,"Action,Adventure,Sci-Fi"
+6608,tt2015381,Guardians of the Galaxy,2014,8.1,"Action,Adventure,Sci-Fi"
+6617,tt2084970,The Imitation Game,2014,8,"Biography,Drama,History"
+6657,tt2245084,Big Hero 6,2014,7.8,"Action,Adventure,Animation"
+6661,tt2267998,Gone Girl,2014,8.1,"Crime,Drama,Mystery"
+6662,tt2278388,The Grand Budapest Hotel,2014,8.1,"Adventure,Comedy,Drama"
+6685,tt2380001,Ice Bear,2014,9.4,Documentary
+6723,tt2562232,Birdman or (The Unexpected Virtue of Ignorance),2014,7.8,"Comedy,Drama"
+6726,tt2582802,Whiplash,2014,8.5,"Drama,Music"
+6727,tt2582846,The Fault in Our Stars,2014,7.8,"Drama,Romance"
+6750,tt2802144,Kingsman: The Secret Service,2014,7.7,"Action,Adventure,Comedy"
+6760,tt2872718,Nightcrawler,2014,7.9,"Crime,Drama,Thriller"
+6788,tt2980516,The Theory of Everything,2014,7.7,"Biography,Drama,Romance"
+6811,tt3169706,Pride,2014,7.8,"Biography,Comedy,Drama"
+6827,tt3313066,Coriolanus,2014,8.8,"Drama,History,War"
+6837,tt3455822,Night Will Fall,2014,8,"Documentary,History,War"
+6851,tt3784160,Valley Uprising,2014,8.2,Documentary
+6853,tt3886670,A Royal Hangover,2014,7.7,"Documentary,News"
+6854,tt3919118,Ghosts,2014,8.3,Drama
+6855,tt3961802,Plant This Movie,2014,8,Documentary
+6856,tt3967356,Skylight,2014,8.6,Drama
+6857,tt4020156,National Theatre Live: A Streetcar Named Desire,2014,8.8,Drama
+6858,tt4068480,Forgotten Four: The Integration of Pro Football,2014,7.9,Documentary
+6860,tt4240878,The Milky Way,2014,8,"Documentary,Family"
+6862,tt5334704,Twin Peaks: The Missing Pieces,2014,7.9,"Drama,Horror,Mystery"
+6885,tt1392190,Mad Max: Fury Road,2015,8.1,"Action,Adventure,Sci-Fi"
+6892,tt1596363,The Big Short,2015,7.8,"Biography,Comedy,Drama"
+6900,tt1663202,The Revenant,2015,8,"Adventure,Drama,History"
+6906,tt1754656,The Little Prince,2015,7.8,"Adventure,Animation,Drama"
+6919,tt1895587,Spotlight,2015,8.1,"Crime,Drama,History"
+6933,tt2096673,Inside Out,2015,8.2,"Adventure,Animation,Comedy"
+6984,tt2488496,Star Wars: The Force Awakens,2015,8,"Action,Adventure,Fantasy"
+7047,tt3170832,Room,2015,8.2,Drama
+7085,tt3460252,The Hateful Eight,2015,7.8,"Crime,Drama,Mystery"
+7087,tt3470838,The Widowmaker,2015,8.1,"Documentary,News"
+7104,tt3590858,Urban & the Shed Crew,2015,7.7,Drama
+7113,tt3659388,The Martian,2015,8,"Adventure,Drama,Sci-Fi"
+7126,tt3710778,Beyond Glory,2015,8,War
+7139,tt3778856,When Elephants Fight,2015,7.9,"Documentary,News"
+7145,tt3824722,Remember the Sultana,2015,9,Documentary
+7153,tt3876494,Figures of Speech,2015,8.7,"Comedy,Documentary,Drama"
+7182,tt4476736,Hamlet,2015,8.6,Drama
+7192,tt4691166,7 Letters,2015,8,Drama
+7197,tt5094390,National Theatre Live: Man and Superman,2015,8.6,"Comedy,Drama"
+7198,tt5226844,Branagh Theatre Live: The Winter's Tale,2015,7.9,Drama
+7199,tt5270464,The 2015 World Series,2015,9.1,Documentary
+7223,tt1431045,Deadpool,2016,8,"Action,Adventure,Comedy"
+7268,tt2119532,Hacksaw Ridge,2016,8.2,"Biography,Drama,History"
+7289,tt2543164,Arrival,2016,7.9,"Drama,Mystery,Sci-Fi"
+7306,tt2800050,A Beautiful Planet,2016,7.7,Documentary
+7311,tt2948356,Zootopia,2016,8,"Adventure,Animation,Comedy"
+7356,tt3498820,Captain America: Civil War,2016,7.8,"Action,Adventure,Sci-Fi"
+7369,tt3553976,Captain Fantastic,2016,7.9,"Comedy,Drama"
+7390,tt3721954,Maudie,2016,7.7,"Biography,Drama,Romance"
+7393,tt3741834,Lion,2016,8.1,"Biography,Drama"
+7394,tt3748528,Rogue One: A Star Wars Story,2016,7.8,"Action,Adventure,Sci-Fi"
+7397,tt3783958,La La Land,2016,8.1,"Comedy,Drama,Music"
+7403,tt3846736,IRON WILL: Veterans Battle with PTSD,2016,8.2,Documentary
+7414,tt4034228,Manchester by the Sea,2016,7.9,Drama
+7438,tt4302938,Kubo and the Two Strings,2016,7.8,"Adventure,Animation,Family"
+7501,tt4846340,Hidden Figures,2016,7.8,"Biography,Drama,History"
+7503,tt4882548,Burn Your Maps,2016,8,Adventure
+7515,tt5116896,Unchained: The Untold Story of Freestyle Motocross,2016,7.9,Documentary
+7523,tt5433330,It's Not Yet Dark,2016,7.7,Documentary
+7524,tt5434356,America's Diplomats,2016,8,Documentary
+7532,tt5744820,Atlantic,2016,8.2,"Adventure,Documentary,News"
+7535,tt5946128,Dear Zindagi,2016,7.7,"Drama,Romance"
+7541,tt6857412,Cinema Twain,2016,7.7,Comedy
+7558,tt1485796,The Greatest Showman,2017,8,"Biography,Drama,Musical"
+7576,tt1856101,Blade Runner 2049,2017,8.2,"Drama,Mystery,Sci-Fi"
+7587,tt2018111,And Then I Go,2017,8.4,Drama
+7596,tt2180351,Eating Animals,2017,8.2,Documentary
+7600,tt2249081,The Forgiven,2017,8,Thriller
+7609,tt2380307,Coco,2017,8.6,"Adventure,Animation,Comedy"
+7615,tt2543472,Wonder,2017,8,"Drama,Family"
+7637,tt3300980,12th Man,2017,7.9,War
+7638,tt3315342,Logan,2017,8.1,"Action,Drama,Sci-Fi"
+7652,tt3501632,Thor: Ragnarok,2017,8,"Action,Adventure,Comedy"
+7653,tt3521126,The Disaster Artist,2017,7.8,"Biography,Comedy,Drama"
+7670,tt3829920,Only the Brave,2017,7.8,"Biography,Drama"
+7671,tt3837842,Birds Like Us,2017,8,Animation
+7673,tt3863632,Little Pink House,2017,8.2,Drama
+7676,tt3890160,Baby Driver,2017,7.7,"Action,Crime,Music"
+7678,tt3896198,Guardians of the Galaxy Vol. 2,2017,7.7,"Action,Adventure,Sci-Fi"
+7690,tt4287080,Free to Rock,2017,7.9,"Documentary,History,Music"
+7698,tt4459156,55 Steps,2017,8.1,"Biography,Drama"
+7700,tt4468740,Paddington 2,2017,8.2,"Adventure,Animation,Comedy"
+7720,tt4687392,Man in Red Bandana,2017,8.3,"Biography,Documentary,History"
+7726,tt4746102,The Scent of Rain & Lightning,2017,7.9,"Drama,Mystery,Western"
+7737,tt4925292,Lady Bird,2017,7.8,"Comedy,Drama"
+7745,tt5013056,Dunkirk,2017,8.1,"Action,Drama,History"
+7746,tt5020744,Good After Bad,2017,7.8,Drama
+7747,tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,8.3,"Crime,Drama"
+7748,tt5030452,Don't Talk to Irene,2017,8.3,Comedy
+7750,tt5052448,Get Out,2017,7.7,"Horror,Mystery,Thriller"
+7755,tt5094942,The Man Who Built Cambodia,2017,9,Documentary
+7763,tt5198796,Izzy Gets the F*ck Across Town,2017,8.4,"Comedy,Drama"
+7767,tt5228304,Bees Make Honey,2017,8.5,"Comedy,Drama,Mystery"
+7777,tt5358146,G-Funk,2017,9,"Documentary,Music"
+7778,tt5362988,Wind River,2017,7.8,"Crime,Drama,Mystery"
+7789,tt5472614,Not a War Story,2017,8.4,"Action,Biography,Comedy"
+7801,tt5580036,"I, Tonya",2017,7.7,"Biography,Comedy,Drama"
+7802,tt5580390,The Shape of Water,2017,7.8,"Adventure,Drama,Fantasy"
+7805,tt5622520,New Money,2017,9.3,"Crime,Drama,Thriller"
+7808,tt5649144,The Florida Project,2017,7.7,Drama
+7832,tt5776858,Phantom Thread,2017,8.1,"Drama,Romance"
+7843,tt5884784,The Super,2017,7.8,Thriller
+7867,tt6164762,The Delinquent Season,2017,9.8,Drama
+7881,tt6338476,Lost in London,2017,7.8,"Comedy,Drama"
+7889,tt6654082,Boston,2017,7.7,Documentary
+7890,tt6680050,Ulugh Beg: Through Hardships to the Stars,2017,9.6,Documentary
+7893,tt6820256,Arctic,2017,10,Drama
+7894,tt6846530,National Theatre Live: Edward Albee's Who's Afraid of Virginia Woolf?,2017,8.4,Drama
+7895,tt6846664,National Theatre Live: Angels in America Part One - Millennium Approaches,2017,9,Drama
+7896,tt6847810,National Theatre Live: Angels in America Part Two - Perestroika,2017,9.1,Drama
+7897,tt6949260,Names on the Cup,2017,8.5,"Documentary,Sport"
+7898,tt7122350,National Theatre Live: Follies,2017,8.3,Musical
+7900,tt7295450,Between Worlds,2017,9.3,"Action,Mystery,Thriller"
+7909,tt2140629,Arizona,2018,8.9,Comedy
+7912,tt2850272,Monster,2018,7.9,Drama
+7913,tt3294746,The Public,2018,8.7,Drama
+7926,tt5314450,Burden,2018,8,Drama
+7930,tt5607096,"Juliet, Naked",2018,7.7,"Comedy,Drama,Music"
+7936,tt5929754,Wildlife,2018,8,Drama
+7937,tt6169694,I Think We're Alone Now,2018,7.7,"Drama,Sci-Fi"
+7948,tt6952960,The Kindergarten Teacher,2018,7.8,Drama
+7949,tt6998518,Mandy,2018,8.2,"Action,Thriller"
+7950,tt7158430,Hearts Beat Loud,2018,7.7,"Drama,Music"

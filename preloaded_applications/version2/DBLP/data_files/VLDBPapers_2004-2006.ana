@@ -1,0 +1,227 @@
+OUTPUT_DIRECTORY=$MLN_USR/DBLP/analysis_results
+USERNAME=itlab
+
+IMPORT VLDBPapers_2004-2006.gen
+
+################# different_time_period #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=different_time_period_louvain
+ANALYSIS_EXPRESSION=Louvain(different_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the different_time_period layer
+ANALYSIS_NAME=different_time_period_infomap
+ANALYSIS_EXPRESSION=Infomap(different_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the different_time_period layer
+ANALYSIS_NAME=different_time_period_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(different_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the different_time_period layer
+ANALYSIS_NAME=different_time_period_walktrap
+ANALYSIS_EXPRESSION=Walktrap(different_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the different_time_period layer
+ANALYSIS_NAME=different_time_period_multilevel
+ANALYSIS_EXPRESSION=Multilevel(different_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the different_time_period layer
+ANALYSIS_NAME=different_time_period_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(different_time_period)
+END_ANALYSIS
+
+################# same_time_period #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=same_time_period_louvain
+ANALYSIS_EXPRESSION=Louvain(same_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_time_period layer
+ANALYSIS_NAME=same_time_period_infomap
+ANALYSIS_EXPRESSION=Infomap(same_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_time_period layer
+ANALYSIS_NAME=same_time_period_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(same_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_time_period layer
+ANALYSIS_NAME=same_time_period_walktrap
+ANALYSIS_EXPRESSION=Walktrap(same_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_time_period layer
+ANALYSIS_NAME=same_time_period_multilevel
+ANALYSIS_EXPRESSION=Multilevel(same_time_period)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_time_period layer
+ANALYSIS_NAME=same_time_period_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(same_time_period)
+END_ANALYSIS
+
+################# same_conference #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=same_conference_louvain
+ANALYSIS_EXPRESSION=Louvain(same_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_conference layer
+ANALYSIS_NAME=same_conference_infomap
+ANALYSIS_EXPRESSION=Infomap(same_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_conference layer
+ANALYSIS_NAME=same_conference_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(same_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_conference layer
+ANALYSIS_NAME=same_conference_walktrap
+ANALYSIS_EXPRESSION=Walktrap(same_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_conference layer
+ANALYSIS_NAME=same_conference_multilevel
+ANALYSIS_EXPRESSION=Multilevel(same_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the same_conference layer
+ANALYSIS_NAME=same_conference_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(same_conference)
+END_ANALYSIS
+
+################# similar_author #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=similar_author_louvain
+ANALYSIS_EXPRESSION=Louvain(similar_author)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_author layer
+ANALYSIS_NAME=similar_author_infomap
+ANALYSIS_EXPRESSION=Infomap(similar_author)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_author layer
+ANALYSIS_NAME=similar_author_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(similar_author)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_author layer
+ANALYSIS_NAME=similar_author_walktrap
+ANALYSIS_EXPRESSION=Walktrap(similar_author)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_author layer
+ANALYSIS_NAME=similar_author_multilevel
+ANALYSIS_EXPRESSION=Multilevel(similar_author)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_author layer
+ANALYSIS_NAME=similar_author_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(similar_author)
+END_ANALYSIS
+
+################# similar_conference #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=similar_conference_louvain
+ANALYSIS_EXPRESSION=Louvain(similar_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_conference layer
+ANALYSIS_NAME=similar_conference_infomap
+ANALYSIS_EXPRESSION=Infomap(similar_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_conference layer
+ANALYSIS_NAME=similar_conference_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(similar_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_conference layer
+ANALYSIS_NAME=similar_conference_walktrap
+ANALYSIS_EXPRESSION=Walktrap(similar_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_conference layer
+ANALYSIS_NAME=similar_conference_multilevel
+ANALYSIS_EXPRESSION=Multilevel(similar_conference)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_conference layer
+ANALYSIS_NAME=similar_conference_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(similar_conference)
+END_ANALYSIS
+
+################# similar_day #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=similar_day_louvain
+ANALYSIS_EXPRESSION=Louvain(similar_day)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_day layer
+ANALYSIS_NAME=similar_day_infomap
+ANALYSIS_EXPRESSION=Infomap(similar_day)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_day layer
+ANALYSIS_NAME=similar_day_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(similar_day)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_day layer
+ANALYSIS_NAME=similar_day_walktrap
+ANALYSIS_EXPRESSION=Walktrap(similar_day)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_day layer
+ANALYSIS_NAME=similar_day_multilevel
+ANALYSIS_EXPRESSION=Multilevel(similar_day)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the similar_day layer
+ANALYSIS_NAME=similar_day_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(similar_day)
+END_ANALYSIS
+

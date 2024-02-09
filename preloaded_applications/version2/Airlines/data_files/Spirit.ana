@@ -1,0 +1,40 @@
+OUTPUT_DIRECTORY=$MLN_USR/Airlines/analysis_results
+USERNAME=itlab
+INPUT_DIRECTORY=$MLN_USR/Airlines/layers_generated
+
+################# SPIRIT #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=Spirit_louvain
+ANALYSIS_EXPRESSION=Louvain(Spirit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Spirit layer
+ANALYSIS_NAME=Spirit_infomap
+ANALYSIS_EXPRESSION=Infomap(Spirit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Spirit layer
+ANALYSIS_NAME=Spirit_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(Spirit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Spirit layer
+ANALYSIS_NAME=Spirit_walktrap
+ANALYSIS_EXPRESSION=Walktrap(Spirit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Spirit layer
+ANALYSIS_NAME=Spirit_multilevel
+ANALYSIS_EXPRESSION=Multilevel(Spirit)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Spirit layer
+ANALYSIS_NAME=Spirit_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(Spirit)
+END_ANALYSIS

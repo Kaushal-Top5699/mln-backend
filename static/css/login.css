@@ -1,0 +1,292 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    height:100%;
+  }
+
+
+.video-container {
+    width: 50vw; /* 50% of the viewport width */
+    height: 100vh; /* 100% of the viewport height */
+    position: absolute;
+    top: 0%;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Adjust this to resize the embedded video as per your requirements */
+.video-container iframe {
+    width: 90%;
+    height: 80%;
+}
+
+
+
+  
+  .box {
+    position: absolute;
+    top: 17%;
+    left: 5%;
+    width: 25rem;
+    padding: 2.5rem;
+    box-sizing: border-box;
+    border: 3px solid #dadce0;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+  }
+
+.info_box{
+position: absolute;
+    top: 17%;
+    right: 5%;
+    left: 35%;
+    width: 60%;
+    padding: 2.5rem;
+    box-sizing: border-box;
+    border: 3px solid #dadce0;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    align-items:center;
+}
+  
+  .google-logo {
+      display: flex;
+      justify-content: center;
+      padding-bottom: 15px;
+  }
+
+  .box h2 {
+    margin: 0px 0 -0.125rem;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    color: #202124;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+  }
+
+  .box p {
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: .1px;
+    line-height: 1.5;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  
+  .box .inputBox {
+    position: relative;
+  }
+  
+#pageDetail{
+  font-size: 1.2rem;
+}
+
+  .box .inputBox input {
+    width: 93%;
+    padding: 0.625rem 10px;
+    font-size: 1rem;
+    letter-spacing: 0.062rem;
+    margin-bottom: 1.875rem;
+    border: 1px solid #ccc;
+    background: transparent;
+    border-radius: 4px;
+    
+  }
+  
+  .box .inputBox label {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    padding: 0.625rem 0;
+    font-size: 1rem;
+    color: grey;
+    pointer-events: none;
+    transition: 0.3s;
+  }
+  
+  .box .inputBox input:focus ~ label,
+  .box .inputBox input:valid ~ label,
+  .box .inputBox input:not([value=""]) ~ label {
+    top: -1.125rem;
+    left: 10px;
+    color: #1a73e8;
+    font-size: 0.75rem;
+    background-color: white;
+    height: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .box .inputBox input:focus {
+    outline: none;
+    border: 2px solid #1a73e8;
+  }
+  .box input[type="submit"] {
+    border: none;
+    outline: none;
+    color: #fff;
+    background-color: #1a73e8;
+    padding: 0.625rem 1.25rem;
+    cursor: pointer;
+    border-radius: 0.312rem;
+    font-size: 1rem;
+    float: right;
+  }
+  
+  .box input[type="submit"]:hover {
+    background-color: #287ae6;
+    box-shadow: 0 1px 1px 0 rgba(66,133,244,0.45), 0 1px 3px 1px rgba(66,133,244,0.3);
+  }            
+
+
+  .box .inputBox input:focus ~ label,
+  .box .inputBox input:valid ~ label,
+  .box .inputBox input:not([value=""]) ~ label {
+      top: -1.125rem;
+      left: 10px;
+      color: #1a73e8;
+      font-size: 0.75rem;
+      background-color: white;
+      height: 10px;
+      padding-left: 5px;
+      padding-right: 5px;
+  }
+  .box .inputBox input:focus {
+      outline: none;
+      border: 2px solid #1a73e8;
+  }
+
+  .forgot {
+    margin-top: -20px;
+  }
+
+#registerUser{
+  color: #1a73e8;
+}
+#nonLink{
+color: #202124;
+text-decoration: none;
+}
+
+  .forgot button {
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    color: #1a73e8;
+    display: inline-block;
+    font-weight: 500;
+    letter-spacing: .25px;
+    outline: 0;
+    position: relative;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: inherit;
+    padding: 0;
+    text-align: left;
+    border: 0;
+  }
+
+  #errorMessage{
+    color: red;
+  }
+
+#global-navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 8px 8px;
+}
+
+
+#logo-and-title {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+
+#global-navigation a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+#mln-dive-logo {
+  width: 4.5rem;
+  height: auto;
+  padding-right:1rem;
+}
+
+#site-title {
+  text-align: left;
+  font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;"
+}
+
+#site-title h2 {
+  color: #a52a2a;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;"
+}
+
+#site-title p {
+  font-size: 1rem;
+  margin: 0;
+  font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;"
+}
+
+#site-title span {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+
+  font-family:'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;"
+}
+
+#global-navigation img {
+  display: inline-block;
+}
+
+#global-navigation div {
+  display: flex;
+  align-items: center;
+}
+
+#uta-logo {
+  width: 6rem;
+}
+
+#itlab-logo {
+  margin-right: 0.5rem;
+}
+
+.blue-button {
+    display: inline-block;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #007BFF; /* Blue color */
+    color: #ffffff; /* White text color */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.blue-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+.blue-button:focus {
+    outline: none; /* Remove default focus outline */
+    box-shadow: 0 0 0 2px rgba(0,123,255, 0.5); /* Add a blue glow on focus */
+}
+

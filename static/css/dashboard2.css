@@ -1,0 +1,72 @@
+#locald{
+    background-color:rgb(247, 196, 167);
+    padding: 10px;
+}
+
+.box
+
+#left{
+    top:50%;
+    width:24%;
+    background-color:rgb(247, 196, 167);
+    height:760px;
+    border:1px;
+    border-style:solid;
+    display:inline-block;
+    padding:0px;
+    margin-left:-4px;
+}
+#right{
+    width:74%;
+    float:right;
+    background-color:white;
+    height:100%;
+    border:1px;
+    border-style:solid;
+    display:flex;
+    flex-direction: column;
+    border-spacing: 0;
+    margin-left:-4px;
+    padding:0px;
+}
+
+#mainBox{
+    height:50px;
+    background-color: rgb(247, 196, 167);
+    display:flex;
+    
+}
+#mainBox a{
+    text-decoration: none;
+    background-color: rgb(247, 196, 167);
+    height:100%;
+    float:right;
+}
+
+#mainBox button{
+    background-color: rgb(247, 196, 167);
+    font-size: 1rem;
+}
+
+#contentbox{
+    background-color: rgb(245, 221, 207);
+    border:1px;
+    border-style: solid;
+    height:500px;
+}
+
+#logbox{
+    height:208px;
+    background-color: rgb(247, 196, 167);
+}
+
+.button {
+    font: 1rem;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    display:flex;
+    justify-content: center;
+    float:right;
+    
+  }

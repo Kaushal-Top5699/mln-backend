@@ -1,0 +1,40 @@
+OUTPUT_DIRECTORY=$MLN_USR/Airlines/analysis_results
+USERNAME=itlab
+INPUT_DIRECTORY=$MLN_USR/Airlines/layers_generated
+
+################# FRONTIER #################
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Louvain for the testt layer
+ANALYSIS_NAME=Frontier_louvain
+ANALYSIS_EXPRESSION=Louvain(Frontier)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Frontier layer
+ANALYSIS_NAME=Frontier_infomap
+ANALYSIS_EXPRESSION=Infomap(Frontier)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Frontier layer
+ANALYSIS_NAME=Frontier_fastgreedy
+ANALYSIS_EXPRESSION=Fastgreedy(Frontier)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Frontier layer
+ANALYSIS_NAME=Frontier_walktrap
+ANALYSIS_EXPRESSION=Walktrap(Frontier)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Frontier layer
+ANALYSIS_NAME=Frontier_multilevel
+ANALYSIS_EXPRESSION=Multilevel(Frontier)
+END_ANALYSIS
+
+BEGIN_ANALYSIS
+#Analysis Question: Communities based on Infomap for the Frontier layer
+ANALYSIS_NAME=Frontier_leadingeigenvector
+ANALYSIS_EXPRESSION=LeadingeiGenvector(Frontier)
+END_ANALYSIS

@@ -5,21 +5,25 @@ All refactored (REST-API) code is located within "\_\_init\_\_.py".
 ## Instructions
 
 1. Clone the repo:
+
 ```bash
-git clone https://github.com/SBTopZZZ-LG/mln-flask-backend-2.git
+git clone https://github.com/Kaushal-Top5699/mln-backend
 ```
 
 2. Create a virtual environment:
+
 ```bash
 virtualenv ./venv
 ```
 
 3. Install required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Execute script:
+
 ```bash
 python3 __init__.py
 ```
